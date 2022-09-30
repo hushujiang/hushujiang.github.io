@@ -246,6 +246,7 @@
 {"key":"csp_XBiubiu_600影视","name":"600影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hushujiang.github.io/1/600影视.json"},
 {"key":"csp_XBiubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hushujiang.github.io/1/小强影迷.json"},
 {"key":"csp_XBiubiu_歪片星球","name":"歪片星球(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hushujiang.github.io/1/歪片星球.json"},
+
 {"key":"csp_biubiu_voflixHD","name":"voflixHD(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hushujiang.github.io/1/voflixHD.json"},
 {"key":"csp_biubiu_黑狐影院","name":"黑狐影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hushujiang.github.io/1/黑狐影院.json"},
 {"key":"csp_biubiu_真不卡影院","name":"真不卡影院(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://hushujiang.github.io/1/不卡影院.json"},
