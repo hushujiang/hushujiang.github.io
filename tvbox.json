@@ -8,7 +8,7 @@
 "sites":[
 {"key":"csp_Kuaikan","name":"爬虫┃快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"爬虫┃图图影视","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SP293","name":"爬虫┃293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_SP293","name":"爬虫┃293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
 {"key" : "KanSJ_spider","name" : "爬虫┃看视界","api" : "csp_KanSJ","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},
 {"key":"csp_Kunyu77","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"爬虫┃利奥影视","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
