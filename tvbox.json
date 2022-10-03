@@ -123,8 +123,6 @@
 {"key":"csp_appysv2_鑫总资源","name":"鑫总资源〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_悟空影院","name":"悟空影院〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dapi.pntao.com/api.php/v1.vod"},
 {"key":"csp_appysv2_天诚影视","name":"天诚影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tcspvip.cn/api.php/v1.vod"},
-{"key":"csp_appysv2_枇杷影院","name":"枇杷影院〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.pipamovie.com/api.php/v1.vod"},
-{"key":"csp_appysv2_诺诺影视","name":"诺诺影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://nnys.cuicanys.cn/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_可乐影视","name":"可乐影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://klyingshi.com/api.php/v1.vod"},
 {"key":"csp_appysv2_玖卿乐播","name":"玖卿乐播〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.nqcode.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_佳佳影视","name":"佳佳影视〔APP〕","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.jiajia.pub/api.php/v1.vod"},
