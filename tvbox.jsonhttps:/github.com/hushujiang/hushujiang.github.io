@@ -30,7 +30,7 @@
 {"key":"csp_Bili","name":"爬虫┃哔哩套餐","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/m0_59139536/box/-/raw/master/Json/哔哩哔哩.json"},
 {"key" : "csp_Alist","name" : "🗂Alist合集","type" : 3,"api" : "csp_Alist","searchable" : 1,"quickSearch" : 0,"filterable" : 0,"ext":"https://gitcode.net/m0_59139536/box/-/raw/master/Json/Alist.json"},
 {"key" : "bdys","name" : "🧲哔嘀磁力","type" : 3,"api" : "csp_XPbd","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext": "https://gitcode.net/m0_59139536/box/-/raw/master/Json/bdys.json"},
-{"key" : "Gitcafe","name" : "🔖小纸条","type" : 3,"api" : "csp_Gitcafe","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "8f0b3f0dc1834f309f077ea5549e99a8"},
+{"key" : "Gitcafe","name" : "🔖小纸条","type" : 3,"api" : "csp_Gitcafe","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "http://hushujiang.github.io/1/al.txt"},
 {"key":"AliPS","name":"爬虫┃盘搜（仅搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"FindZY","name":"爬虫┃找资源（仅搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"csp_Yiso","name":"爬虫┃易搜（仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
