@@ -1,6 +1,6 @@
 {
     "spider" : "https://gitcode.net/m0_59139536/iptv/-/raw/master/999.png",
-"lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=JXU4RkQ5JXU5MUNDJXU2NjJGJXU4OTgxJXU1MkEwJXU1QkM2aHR0cHMlM0EvL3Jhdy5pcWlxLmlvL2h1c2h1amlhbmcvSVBUVi9tYWluL3piLnR4dCV1NzY4NCV1NTE4NSV1NUJCOSV1RkYwMQ"]}]}],
+"lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2dpdGVlLmNvbS9odXNodWppYW5nL2RpeXAvcmF3L21hc3Rlci96Yi50eHQ="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
