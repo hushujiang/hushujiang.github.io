@@ -16,7 +16,7 @@
 {"key" : "csp_AppTT","name" : "🖼图图影视","type" : 3,"api" : "csp_AppTT","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Bd","name" : "📯哔嘀影视","type" : 3,"api" : "csp_Bdys01","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key":"csp_DiDuan","name":"🛣低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key" : "csp_CZSPP","name" : "🏭厂长资源","type" : 3,"api" : "csp_Czsapp","searchable" : 1,"quickSearch" : 1,"filterable" : 0},
+{"key":"mtv_xp_厂长资源","name":"切片┃厂长资源","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"hushujiang.github.io/1/厂长资源.json"},
 {"key" : "csp_Auete","name" : "🐼Auete","type" : 3,"api" : "csp_Auete","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Bttoo","name" : "✌两个BT","type" : 3,"api" : "csp_Bttoo","searchable" : 1,"quickSearch" : 1,"filterable" : 1},   
 {"key" : "Smdyy","name" : "🐎神马影院","type" : 3,"api" : "csp_Smdyy","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
