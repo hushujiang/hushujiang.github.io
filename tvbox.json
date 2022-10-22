@@ -1,6 +1,6 @@
 {
     "spider" : "https://gitee.com/hushujiang/diyp/raw/master/999.png",
-"lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9tMF81OTEzOTUzNi9pcHR2Ly0vcmF3L21hc3Rlci96Yi50eHQ"]}]}],
+"lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vaHVzaHVqaWFuZy9kaXlwL3Jhdy9tYXN0ZXIvemIudHh0"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
