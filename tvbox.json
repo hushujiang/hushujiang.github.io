@@ -1,5 +1,5 @@
 {
-    "spider" : "https://hushujiang.github.io/999.png",
+    "spider" : "https://hushujiang.github.io/you.jar",
 "lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odXNodWppYW5nLmdpdGh1Yi5pby96Yi50eHQ"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
@@ -14,11 +14,12 @@
 {"key" : "KanSJ_spider","name" : "🦅看视界","api" : "csp_KanSJ","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},
 {"key" : "追剧喵","name" : "🐱追剧喵","type" : 3,"api" : "csp_ZJMiao","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "小熊","name" : "🐨小熊TV","type" : 3,"api" : "csp_Xxys","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
-{"key" : "csp_LibVio","name" : "🍒LibVio","type" : 3,"api" : "csp_Lib","searchable" : 1,"quickSearch" : 1,"filterable" : 0},{ "key": "AppTT","name": "🐰图图丨影视","type": 3, "api": "csp_Dora", "jar": "https://hushujiang.github.io/pandatt.zip","ext": "110c922de7d69804467fb83d3bb664b5"},
+{"key" : "csp_LibVio","name" : "🍒LibVio","type" : 3,"api" : "csp_Lib","searchable" : 1,"quickSearch" : 1,"filterable" : 0},
+{"key":"csp_AppTT","name":"🐰┃图图┃影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
 {"key" : "csp_Bd","name" : "📯哔嘀影视","type" : 3,"api" : "csp_Bdys01","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key":"csp_DiDuan","name":"🛣低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key" : "csp_Auete","name" : "🐼Auete","type" : 3,"api" : "csp_Auete","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
-{"key" : "csp_Bttoo","name" : "✌两个BT","type" : 3,"api" : "csp_Bttoo","searchable" : 1,"quickSearch" : 1,"filterable" : 1},   
+{"key" : "csp_Bttoo","name" : "✌两个BT","type" : 3,"api" : "csp_Bttoo","searchable" : 1,"quickSearch" : 1,"fi2lterable" : 1},   
 {"key" : "Smdyy","name" : "🐎神马影院","type" : 3,"api" : "csp_Smdyy","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_剧荒","name" : "👿剧荒","type" : 3,"api" : "csp_Juhuang","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Anime1","name" : "🌸动漫","type" : 3,"api" : "csp_Anime1","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
