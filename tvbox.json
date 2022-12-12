@@ -1,5 +1,5 @@
 {
-    "spider" : "http://hushujiang.github.io/1.jar",
+    "spider" : "http://我不是.肥猫.love:63/Jar/panda1212.jar",
 "lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odXNodWppYW5nLmdpdGh1Yi5pby96Yi50eHQ"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
@@ -1155,12 +1155,45 @@
 {"name":"聚合","type":3,"url":"Demo"},
 {"name":"并发","type":2,"url":"Parallel"},
 {"name":"轮询","type":2,"url":"Sequence"},
-{"name":"Q1解析","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=","header":{"User-Agent":"Mozilla/5.0"}},
-{"name":"刚刚走过","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-{"name":"4K","url":"https://jx.4kdv.com/?url=","showType":1},
-{"name":"高速接口","url":"https://jsap.attakids.com/?url=","showType":3},
-{"name":"综合/B站","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
-{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":[
+	{
+			"name":"Q1解析",
+			"type":1,
+			"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=",
+			"header":{
+				"User-Agent":"Mozilla/5.0"
+			}
+		},
+		
+		{
+			"name":"刚刚走过",
+			"type":1,
+			"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
+		},
+		
+		{
+			"name":"4K",
+			"url":"https://jx.4kdv.com/?url=",
+			 "showType":1
+		},
+		
+		{
+			"name":"高速接口",
+			"url":"https://jsap.attakids.com/?url=",
+			 "showType":3
+		},
+		
+		{
+			"name":"综合/B站",
+			"url":"https://jx.bozrc.com:4433/player/?url=",
+			 "showType":3
+		},
+		
+		{
+			"name":"keyu",
+			"type":1,
+			"url":"http://newjiexi.gotka.top/keyu3.php?url=",
+			"ext":{
+				"flag":[
 					"qq",
 					"腾讯",
 					"qiyi",
@@ -1177,8 +1210,8 @@
 					"sohu",
 					"bilibili",
 					"哔哩哔哩",
-					"哔哩"},
-				
+					"哔哩"
+				},		
 {"name":"解析1","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"解析2","type":0,"url":"https://www.nxflv.com/?url="},
 {"name":"解析3","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
