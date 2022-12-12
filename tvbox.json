@@ -1,5 +1,5 @@
 {
-    "spider" : "http://我不是.肥猫.love:63/Jar/panda1212.jar",
+    "spider" : "http://hushujiang.github.io/1.jar",
 "lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odXNodWppYW5nLmdpdGh1Yi5pby96Yi50eHQ"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
