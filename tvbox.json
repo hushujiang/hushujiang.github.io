@@ -9,23 +9,21 @@
 {"key" : "mjxq_spider","name" : "🌏美剧星球","type" : 3,"api" : "csp_Mjxq","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {
 
-            "key" : "csp_biubiu_555电影",
+			"key":"csp_555",			"name":"5️⃣️555影视",
 
-            "name" : "🏅555 电影",
+			"type":3,
 
-            "type" : 3,
+			"api":"csp_xBPQ",
 
-            "api" : "csp_XBiubiu",
+			"searchable":1,
 
-            "searchable" : 1,
+			"quickSearch":1,
 
-            "quickSearch" : 1,
+			"filterable":0,
 
-            "filterable" : 1,
+			"ext":"http://w.g9.pub:66/381203888/xBPQ/555.json"
 
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/555%E7%94%B5%E5%BD%B1.json"
-
-        },
+		},
 {"key" : "360_spider","name" : "🥎360影视","api" : "csp_SP360","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},
 {"key" : "小苹果","name" : "🍎小苹果","type" : 3,"api" : "csp_LiteApple","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key":"Czsapp","name":"🏭厂长影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
