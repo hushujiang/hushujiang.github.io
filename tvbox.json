@@ -3,7 +3,6 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
-{"key":"csp_xBPQ_在线之家","name":"在线之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://tvbox.cainisi.cf/xBPQ/在线之家.json"}, 
 {"key" : "csp_Kunyu77","name" : "🌤酷云七七","type" : 3,"api" : "csp_Kunyu77","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "Lezhu_spider","name" : "🐷乐猪影视","api" : "csp_Lezhu","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},   
 {"key" : "mjxq_spider","name" : "🌏美剧星球","type" : 3,"api" : "csp_Mjxq","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
