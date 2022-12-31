@@ -3,7 +3,6 @@
 "lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odXNodWppYW5nLmdpdGh1Yi5pby96Yi50eHQ"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
-{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Kunyu77","name" : "🌤酷云七七","type" : 3,"api" : "csp_Kunyu77","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "Lezhu_spider","name" : "🐷乐猪影视","api" : "csp_Lezhu","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},   
@@ -12,7 +11,6 @@
 {"key" : "360_spider","name" : "🥎360影视","api" : "csp_SP360","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},
 {"key" : "小苹果","name" : "🍎小苹果","type" : 3,"api" : "csp_LiteApple","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key":"Czsapp","name":"🏭厂长影视","type":"3","api":"csp_Czsapp","searchable":"1","quickSearch":"1","filterable":"1"},
-{"key":"csp_xBPQ_在线之家","name":"🎬在线之家","type":3,"api":"https://hushujiang.github.io/tvbox.json","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hushujiang.github.io/1/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"},
 {"key" : "追剧喵","name" : "🐱追剧喵","type" : 3,"api" : "csp_ZJMiao","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "小熊","name" : "🐨小熊TV","type" : 3,"api" : "csp_Xxys","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_LibVio","name" : "🍒LibVio","type" : 3,"api" : "csp_Lib","searchable" : 1,"quickSearch" : 1,"filterable" : 0},
