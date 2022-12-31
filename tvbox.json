@@ -1,8 +1,9 @@
 {
-    "spider" : "https://hushujiang.github.io/you.jar",
+    "spider" : "http://cdn.qiaoji8.com/apple1222.jar;md5;5a1c7c3f443667d69838a1adad3c977b",
 "lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odXNodWppYW5nLmdpdGh1Yi5pby96Yi50eHQ"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
+{"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Kunyu77","name" : "🌤酷云七七","type" : 3,"api" : "csp_Kunyu77","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "Lezhu_spider","name" : "🐷乐猪影视","api" : "csp_Lezhu","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},   
