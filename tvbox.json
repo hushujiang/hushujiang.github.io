@@ -3,7 +3,7 @@
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
 //{"key":"csp_xBPQ_在线之家","name":"在线之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext" : "https://hushujiang.github.io/1/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"},
-{"key":"YQK_spider","name":"💗一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
+//{"key":"YQK_spider","name":"💗一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Kunyu77","name" : "🌤酷云七七","type" : 3,"api" : "csp_Kunyu77","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "Lezhu_spider","name" : "🐷乐猪影视","api" : "csp_Lezhu","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},   
@@ -15,7 +15,8 @@
 {"key" : "追剧喵","name" : "🐱追剧喵","type" : 3,"api" : "csp_ZJMiao","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "小熊","name" : "🐨小熊TV","type" : 3,"api" : "csp_Xxys","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_LibVio","name" : "🍒LibVio","type" : 3,"api" : "csp_Lib","searchable" : 1,"quickSearch" : 1,"filterable" : 0},
-{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
+//{"key":"csp_AppTT","name":"🐰图图影视","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.126:7788"},
+{"key":"AppTT","name":"🐰图图丨影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/hsj/tv/raw/branch/master/tutu.jar"},
 {"key" : "csp_Bd","name" : "📯哔嘀影视","type" : 3,"api" : "csp_Bdys01","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key":"csp_DiDuan","name":"🛣低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key" : "csp_Auete","name" : "🐼Auete","type" : 3,"api" : "csp_Auete","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
