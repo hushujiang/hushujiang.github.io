@@ -18,7 +18,6 @@
 
             "filterable" : 1,
 
-            "ext" : 
             "ext" : "https://hushujiang.github.io/1/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"
         },
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
