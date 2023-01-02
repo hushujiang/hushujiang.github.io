@@ -45,8 +45,8 @@
 {"key":"mtv_pc_学习课堂","name":"哔哩┃学习课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/m0_59139536/box/-/raw/master/Json/学习课堂.json"},
 {"key":"mtv_xp_音乐演唱","name":"哔哩┃音乐演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/m0_59139536/box/-/raw/master/Json/音乐演唱.json"},
 {"key":"mtv_xp_戏曲杂苑","name":"哔哩┃戏曲杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/m0_59139536/box/-/raw/master/Json/戏曲杂苑.json"},
-{"key":"mtv_pc_相声小品","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/m0_59139536/box/-/raw/master/Json/相声小品.json"},
-{"key":"mtv_xp_女团热舞","name":"哔哩┃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/m0_59139536/box/-/raw/master/Json/女团热舞.json"},
+{"key":"mtv_pc_相声小品","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/相声小品.json"},
+{"key":"mtv_xp_女团热舞","name":"哔哩┃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/女团热舞.json"},
 {
             "key" : "虎牙",
             "name" : "🐯虎牙",
