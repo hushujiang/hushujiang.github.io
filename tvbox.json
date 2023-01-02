@@ -2,7 +2,7 @@
 "lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odXNodWppYW5nLmdpdGh1Yi5pby96Yi50eHQ"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
-{"key":"在线之家","name":"在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext" : "https://hushujiang.github.io/1/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"},
+{"key":"csp_xBPQ_在线之家","name":"在线之家","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext" : "https://hushujiang.github.io/1/%E5%9C%A8%E7%BA%BF%E4%B9%8B%E5%AE%B6.json"},
 {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Kunyu77","name" : "🌤酷云七七","type" : 3,"api" : "csp_Kunyu77","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
