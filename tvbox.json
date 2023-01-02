@@ -4,6 +4,7 @@
 "sites" : [
 //{"key":"Zxzj","name":"在线之家","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
 //{"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
+{"key":"鸭奈飞","name":"️鸭奈飞","type":3,"api":"XBPQ","ext":"免嗅:1,分类url:https://yanetflix.com/vodshow/{cateId}--------{catePg}---.html"},
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Kunyu77","name" : "🌤酷云七七","type" : 3,"api" : "csp_Kunyu77","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "Lezhu_spider","name" : "🐷乐猪影视","api" : "csp_Lezhu","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},   
