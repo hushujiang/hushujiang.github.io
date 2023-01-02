@@ -34,19 +34,19 @@
 ["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","少儿","其他片"]},	
 {"key" : "csp_Yj1211","name" : "📸直播合集","type" : 3,"api" : "csp_Yj1211","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key":"csp_Bili","name":"爬虫┃哔哩套餐","type": 3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hushujiang.github.io/1/哔哩哔哩.json"},
-{"key" : "csp_Alist","name" : "🗂Alist合集","type" : 3,"api" : "csp_Alist","searchable" : 1,"quickSearch" : 0,"filterable" : 0,"ext":"https://gitcode.net/m0_59139536/box/-/raw/master/Json/Alist.json"},
+{"key" : "csp_Alist","name" : "🗂Alist合集","type" : 3,"api" : "csp_Alist","searchable" : 1,"quickSearch" : 0,"filterable" : 0,"ext":"https://hushujiang.github.io/1/Alist.json"},
 {"key" : "bdys","name" : "🧲哔嘀磁力","type" : 3,"api" : "csp_XPbd","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext": "https://gitcode.net/m0_59139536/box/-/raw/master/Json/bdys.json"},
 {"key" : "Gitcafe","name" : "🔖小纸条","type" : 3,"api" : "csp_Gitcafe","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "http://hushujiang.github.io/1/al.txt"},
 {"key":"AliPS","name":"爬虫┃盘搜（仅搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"FindZY","name":"爬虫┃找资源（仅搜索）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key":"csp_Yiso","name":"爬虫┃易搜（仅搜索）","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
 {"key" : "csp_xpath_yinfans","name" : "💥音范丝4K","type" : 3,"api" : "csp_XPath","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://hushujiang.github.io/1/音范丝4k.json"},
-{"key":"mtv_pc_儿童乐园","name":"哔哩┃儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/儿童乐园.json"},
-{"key":"mtv_pc_学习课堂","name":"哔哩┃学习课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/学习课堂.json"},
-{"key":"mtv_xp_音乐演唱","name":"哔哩┃音乐演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/音乐演唱.json"},
-{"key":"mtv_xp_戏曲杂苑","name":"哔哩┃戏曲杂苑","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/戏曲杂苑.json"},
-{"key":"mtv_pc_相声小品","name":"哔哩┃相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/相声小品.json"},
-{"key":"mtv_xp_女团热舞","name":"哔哩┃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/女团热舞.json"},
+{"key":"mtv_pc_儿童乐园","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/儿童乐园.json"},
+{"key":"mtv_pc_学习课堂","name":"📝学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/学习课堂.json"},
+{"key":"mtv_xp_音乐演唱","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/音乐演唱.json"},
+{"key":"mtv_xp_戏曲杂苑","name":"👘戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/戏曲杂苑.json"},
+{"key":"mtv_pc_相声小品","name":"🎙相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/相声小品.json"},
+{"key":"mtv_xp_女团热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/女团热舞.json"},
 {
             "key" : "虎牙",
             "name" : "🐯虎牙",
@@ -128,26 +128,6 @@
             "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
         },
             {
-            "key" : "儿童",
-            "name" : "🐯儿童乐园",
-            "type" : 3,
-            "api" : "csp_Bili",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
-        },
-            {
-            "key" : "学习",
-            "name" : "📝学习园地",
-            "type" : 3,
-            "api" : "csp_Bili",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
-        },
-            {
             "key" : "软件",
             "name" : "📚软件教程",
             "type" : 3,
@@ -166,36 +146,6 @@
             "quickSearch" : 0,
             "filterable" : 1,
             "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"
-        },
-            {
-            "key" : "音乐",
-            "name" : "🎤音乐现场",
-            "type" : 3,
-            "api" : "csp_Bili",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
-        },
-            {
-            "key" : "热舞",
-            "name" : "💃女团热舞",
-            "type" : 3,
-            "api" : "csp_Bili",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"
-        },
-            {
-            "key" : "戏曲",
-            "name" : "👘戏曲合集",
-            "type" : 3,
-            "api" : "csp_Bili",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
         },
             {
             "key" : "csp_Alist",
