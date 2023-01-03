@@ -48,6 +48,7 @@
 {"key":"mtv_pc_相声小品","name":"🎙相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/相声小品.json"},
 {"key":"mtv_xp_女团热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/女团热舞.json"},
 {"key":"Zxzj","name":"🎬在线之家","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://agit.ai/hsj/tv/raw/branch/master/ts.jar"},
+{"name": "浮生半日","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"数组\":\"myui-panel myui-panel-bg clearfix&&</div>\", \"播放数组\":\"class=\\\"myui-content__list scrollbar sort-list clearfix&&</ul>\",\"简介\":\"sketch content\\\"&&</span>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"data-toggle&&/li>\", \"线路标题\":\">&&</a>\",  \"分类\":\"电影$SCCCCS#连续剧$qCCCCS#综艺$xCCCCS#动漫$ICCCCS\",\"分类url\":\"https://movie.fush8.com/vodshow/{cateId}--------{catePg}---.html\"}","jar":"https://agit.ai/hsj/tv/raw/branch/master/XBPQ_1229.jar"},
 {           "key" : "虎牙",
             "name" : "🐯虎牙",
             "type" : 3,
