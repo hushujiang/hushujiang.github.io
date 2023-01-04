@@ -393,7 +393,7 @@
             "searchable" : 1,
             "quickSearch" : 1,
             "filterable" : 1,
-            "ext" ; "https://hushujiang.github.io/1/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
+            "ext" : "https://hushujiang.github.io/1/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
         },
             {
             "key" : "csp_biubiu_dadagui",
