@@ -2,7 +2,7 @@
 "lives" : [{"group" : "redirect","channels" : [{"name" : "live","urls" : ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odXNodWppYW5nLmdpdGh1Yi5pby96Yi50eHQ"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 "sites" : [
-{"key":"XBPQ_星空影视","name":"星空影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hushujiang.github.io/1/星空影视.json","jar":"https://agit.ai/hsj/tv/raw/branch/master/XBPQ_1229.jar"},
+{"key":"XBPQ_星空影视","name":"星空影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hushujiang.github.io/1/星空影视.json","jar":"https://agit.ai/hsj/tv/raw/branch/master/Hk.jar"},
 {"key" : "快看","name" : "👀快看","type" : 3,"api" : "csp_Kuaikan","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Kunyu77","name" : "🌤酷云七七","type" : 3,"api" : "csp_Kunyu77","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "Lezhu_spider","name" : "🐷乐猪影视","api" : "csp_Lezhu","type" : 3,"filterable" : 1,"quickSearch" : 1,"searchable" : 1,"ext" : ""},   
