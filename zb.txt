@@ -270,8 +270,6 @@ NewTV超级综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.
 NewTV超级综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225620/index.m3u8
 NewTV金牌综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
 IPV6,#genre#
-世界杯回放,http://mmmitv.top/test/douyin-x.php?id=rand
-咪咕体育-4K,http://117.136.156.35:80/000000001000/3000000010000005180/index.m3u8
 咪咕体育-4K,http://120.234.220.107:9000/udp/239.20.0.66:3136
 CCTV4K,http://159.75.85.63:8280/cctv4k.php
 BTV纪实科教,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
