@@ -352,8 +352,6 @@ CCTV17,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225909/2
 4K频道MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 4K频道Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 4K频道4K影视,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-斗鱼4K,https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/introduce.m3u8
-五星体育,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 咪咕体育,http://39.134.115.163:8080/PLTV/88888910/224/3221226243/index.m3u8
 广东体育,http://120.84.96.73:808/hls/22/index.m3u8
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
