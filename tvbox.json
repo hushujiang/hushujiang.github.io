@@ -14,7 +14,6 @@
 //{"key":"AppTT","name":"🐰图图影视","type":3,"api":"csp_TutuYs","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/hsj/tv/raw/branch/master/tutu.jar"},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e","jar":"https://agit.ai/hsj/tv/raw/branch/master/ts.jar"},
 {"key" : "csp_Bd","name" : "📯哔嘀影视","type" : 3,"api" : "csp_Bdys01","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
-{"key":"csp_DiDuan","name":"🛣低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key" : "csp_Auete","name" : "🐼Auete","type" : 3,"api" : "csp_Auete","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key" : "csp_Bttoo","name" : "✌两个BT","type" : 3,"api" : "csp_Bttoo","searchable" : 1,"quickSearch" : 1,"fi2lterable" : 1},   
 {"key" : "Smdyy","name" : "🐎神马影院","type" : 3,"api" : "csp_Smdyy","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
