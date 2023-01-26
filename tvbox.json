@@ -252,46 +252,6 @@
             "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
         },
             {
-            "key":"csp_XYQHiker_氢视频",            
-            "name":"🌑氢视频 XYQH",
-            "type":3,
-            "api":"csp_XYQHiker",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1,
-            "ext":"https://agit.ai/l/o/raw/branch/o/o/%E6%B0%A2%E8%A7%86%E9%A2%91.json"
-        },
-            {
-            "key" : "csp_XYQHiker_冷曦影视",
-            "name" : "❄冷曦影视",
-            "type" : 3,
-            "api" : "csp_XYQHiker",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%86%B7%E6%9B%A6%E5%BD%B1%E8%A7%86.json"
-        },
-            {
-            "key" : "csp_XYQBiu_凌云影视",
-            "name" : "🍨凌云影视",
-            "type" : 3,
-            "api" : "csp_XYQBiu",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%87%8C%E4%BA%91%E5%BD%B1%E8%A7%86.json"
-        },
-            {
-            "key" : "csp_XYQBiu_凌云韩国",
-            "name" : "🍱凌云韩国",
-            "type" : 3,
-            "api" : "csp_XYQBiu",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"
-        },
-            {
             "key" : "csp_XBiubiu_大米星球",
             "name" : "🍚大米星球",
             "type" : 3,
