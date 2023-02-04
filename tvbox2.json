@@ -86,7 +86,7 @@
 {"key":"zp134","name":"🔞速播资源","type":0,"api":"http://api.suboapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"*爱操资源","name":"🔞爱操资源","type":1,"api":"https://aicaozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"523采集","name":"523av","type":0,"api":"https://caiji.523zyw.com/inc/api.php","playUrl":"https://api.523zyw.com/?url=","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"*4000资源","name":"🔞4000资源","type":1,"api":"https://www.4000zy.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*4000资源","name":"🔞4000资源","type":1,"api":"https://www.4000zy.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0}
 	],
 	"lives": [{
 		"group": "redirect",
