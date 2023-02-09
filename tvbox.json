@@ -92,36 +92,9 @@
 {"key" : "焦炭影视","name" : "💣焦炭影视","type" : 3,"api" : "csp_XPathFilter","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"},
 {"key" : "小强影迷","name" : "🐲小强影迷","type" : 3,"api" : "csp_XBiubiu","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%B0%8F%E5%BC%BA%E5%BD%B1%E8%BF%B7.json"},
 {"key" : "人人影视","name" : "👫人人影视","type" : 3,"api" : "csp_XBiubiu","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://agit.ai/l/o/raw/branch/o/o/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"},
-{
-            "key" : "三九影视",
-            "name" : "🐐三九影视",
-            "type" : 3,
-            "api" : "csp_XBiubiu",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
-        },
-            {
-            "key" : "csp_XBiubiu_金眼影视",
-            "name" : "🌟金眼影视",
-            "type" : 3,
-            "api" : "csp_XBiubiu",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"
-        },
-            {
-            "key" : "csp_XBiubiu_Nike影视",
-            "name" : "🌹Nike影视",
-            "type" : 3,
-            "api" : "csp_XBiubiu",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/Nike%E5%BD%B1%E8%A7%86.json"
-        },
+{"key" : "三九影视","name" : "🐐三九影视","type" : 3,"api" : "csp_XBiubiu","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://agit.ai/l/o/raw/branch/o/o/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"},
+{"key" : "csp_XBiubiu_金眼影视","name" : "🌟金眼影视","type" : 3,"api" : "csp_XBiubiu","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://agit.ai/l/o/raw/branch/o/o/%E9%87%91%E7%9C%BC%E5%BD%B1%E8%A7%86.json"},
+{"key" : "csp_XBiubiu_Nike影视","name" : "🌹Nike影视","type" : 3,"api" : "csp_XBiubiu","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "https://agit.ai/l/o/raw/branch/o/o/Nike%E5%BD%B1%E8%A7%86.json"},
             {
             "key" : "csp_XBiubiu_0855",
             "name" : "🧳0855影视",
