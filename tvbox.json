@@ -700,7 +700,6 @@
 {"name":"17云","type":0,"url":"https://www.1717yun.com/jx/ty.php?url="},
 {"name":"180","type":0,"url":"https://jx.000180.top/jx/?url="},
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="}],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","1905", "xigua","ltnb","CL4K"],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
