@@ -43,15 +43,7 @@
 {"key":"mtv_xp_女团热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://hushujiang.github.io/1/女团热舞.json"},
 {"key":"Zxzj","name":"🎬在线之家","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4","jar":"https://agit.ai/hsj/tv/raw/branch/master/ts.jar"},
 {"key":"YQK_spider","name":"👫一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://agit.ai/hsj/tv/raw/branch/master/apple1222.jar"},
-{           "key" : "虎牙",
-            "name" : "🐯虎牙",
-            "type" : 3,
-            "api" : "csp_XYQBiu",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 0,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E8%99%8E%E7%89%99.json"
-        },
+{"key" : "虎牙","name" : "🐯虎牙","type" : 3,"api" : "csp_XYQBiu","searchable" : 0,"quickSearch" : 0,"filterable" : 0,"ext" : "https://agit.ai/l/o/raw/branch/o/o/%E8%99%8E%E7%89%99.json"},
             {
             "key" : "网易CC",
             "name" : "🐠网易CC",
@@ -1166,7 +1158,6 @@
 {"name":"17云","type":0,"url":"https://www.1717yun.com/jx/ty.php?url="},
 {"name":"180","type":0,"url":"https://jx.000180.top/jx/?url="},
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="}],
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","1905", "xigua","ltnb","CL4K"],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
