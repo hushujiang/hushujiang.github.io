@@ -80,9 +80,6 @@ CCTV9,http://39.184.224.99:9080/newlive/live/hls/9/live.m3u8
 CCTV9,http://123.54.179.73:80/PLTV/88888888/224/3221227078/index.m3u8
 CCTV10,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV10,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV10,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv10HD/__op/default/__f//index.m3u8
-CCTV10,http://39.184.224.99:9080/newlive/live/hls/10/live.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV10,http://123.54.179.133:80/PLTV/88888888/224/3221227043/index.m3u8
 CCTV11,http://175.10.37.200:9901/tsfile/live/0011_1.m3u8
