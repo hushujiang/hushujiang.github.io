@@ -319,11 +319,9 @@
 {"name":"思云","type":0,"url":"https://jx.ap2p.cn/?url="},
 {"name":"思古3","type":0,"url":"https://jsap.attakids.com/?url="},
 {"name":"维多","type":0,"url":"https://jx.ivito.cn/?url="},
-{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"云端","type":0,"url":"https://sb.5gseo.net/?url="},
 {"name":"17云","type":0,"url":"https://www.1717yun.com/jx/ty.php?url="},
-{"name":"180","type":0,"url":"https://jx.000180.top/jx/?url="},
-{"name":"8090","type":0,"url":"https://www.8090g.cn/?url="}],
+{"name":"180","type":0,"url":"https://jx.000180.top/jx/?url="}],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
