@@ -1,4 +1,4 @@
-{"spider":"http://我不是.肥猫.love:63/Jar/panda230414.jar;md5;613066B0150C902B3D51BDE7A433BE83"",
+{"spider":"http://我不是.肥猫.love:63/Jar/panda230414.jar;md5;613066B0150C902B3D51BDE7A433BE83",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vaHVzaHVqaWFuZy9kaXlwL3Jhdy9tYXN0ZXIvemIudHh0"]}]}],
  "epg": "http://epg.112114.xyz/{name}&date={date}",
  "wallpaper":"http://maoyingshi.cc/api.php",
