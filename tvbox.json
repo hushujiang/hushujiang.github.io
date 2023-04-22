@@ -3,7 +3,6 @@
  "epg": "http://epg.112114.xyz/{name}&date={date}",
  "wallpaper":"http://maoyingshi.cc/api.php",
 "sites":[
- {"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/爱奇.js","jar":"https://gitee.com/hushujiang/diy/raw/master/panda230414.jar"},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lgyy","name":"🌀蓝光影视","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
@@ -19,7 +18,7 @@
 {"key":"csp_Anime1","name":"🌸樱花动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"❤️双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/hushujiang/diy/raw/master/js/lib/drpy2.min.js","ext":"https://gitee.com/hushujiang/diy/raw/master/js/aiqiyi.js","jar":"https://gitee.com/hushujiang/diyp/raw/master/YSC.jar"},
+{"key":"drpy_js_奇珍异兽","name":"🥝爱奇艺(官)","type":3,"api":"https://gitee.com/hushujiang/diy/raw/master/js/lib/drpy2.min.js","ext":"https://gitee.com/hushujiang/diy/raw/master/js/aiqiyi.js","jar":"http://我不是.肥猫.love:63/Jar/panda230414.jar;md5;613066B0150C902B3D51BDE7A433BE83"},
 {"key":"drpy_js_优酷","name":"👑优酷(官)","type":3,"api":"https://gitee.com/hushujiang/diy/raw/master/js/lib/drpy2.min.js","ext":"https://gitee.com/hushujiang/diy/raw/master/js/youku.js","jar":"https://gitee.com/hushujiang/diyp/raw/master/YSC.jar"},
 {"key":"drpy_js_腾云驾雾","name":"🐧腾讯(官)","type":3,"api":"https://gitee.com/hushujiang/diy/raw/master/js/lib/drpy2.min.js","ext":"https://gitee.com/hushujiang/diy/raw/master/js/tengxun.js","jar":"https://gitee.com/hushujiang/diyp/raw/master/YSC.jar"},
 {"key":"drpy_js_百忙无果","name":"🥭芒果(官)","type":3,"api":"https://hushujiang.github.io/js/lib/drpy2.min.js","ext":"https://gitee.com/hushujiang/diy/raw/master/js/mangguo.js","jar":"https://gitee.com/hushujiang/diyp/raw/master/YSC.jar"},
