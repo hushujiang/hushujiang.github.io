@@ -76,6 +76,8 @@
 {"key": "ext_live_protocol","name": "关注公众号“肥猫不肥”","type": 3,"api": "http://alist.xn--z7x900a.love:63/协议.js","ext": "clan://proxy?sourcekey=ext_live_protocol"}],
 
 "parses":[
+
+
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"解析聚合","type":3,"url":"Demo"},
@@ -347,5 +349,5 @@
 "ads":["wan.51img1.com","iqiyi.hbuioo.com","vip.ffzyad.com","https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"],
 
 "wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php","warningText":"接口完全免费，切勿付费购买。",
-"spider":"https://gitee.com/hushujiang/diyp/raw/master/panda230305.jar"   
+"spider":"http://我不是.肥猫.love:63/Jar/panda230414.jar;md5;613066B0150C902B3D51BDE7A433BE83"   
 }
