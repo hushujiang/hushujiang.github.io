@@ -15,7 +15,7 @@
 {"key":"csp_Anime1","name":"🌸樱花动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dy1010","name":"❤️双十影视","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"3EDY","name":"(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"http://alist.xn--z7x900a.love:63/drpy2.min.js","ext":"https://agit.ai/hsj/ysc/raw/branch/master/js/爱奇.js","jar":"https://gitee.com/hushujiang/diyp/raw/master/panda230414.jar"},
+{"key":"drpy_js_奇珍异兽","name":"🐨┃爱奇┃官源","type":3,"api":"https://gitee.com/hushujiang/diy/raw/master/js/lib/drpy2.min.js","ext":"https://agit.ai/hsj/ysc/raw/branch/master/js/爱奇.js","jar":"https://gitee.com/hushujiang/diyp/raw/master/panda230414.jar"},
 {"key":"teng","name":"🐧┃企鹅┃官源","type": 3,"api":"csp_Qtv","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/panda230414.jar"},
 {"key":"csp_SP360","name":"📺┃360┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://我不是.肥猫.love:63/json/360影视.json","jar":"https://gitee.com/hushujiang/diyp/raw/master/panda230414.jar"},
 {"key":"MGT","name":"🍋┃芒果┃官源","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/panda230414.jar"},
