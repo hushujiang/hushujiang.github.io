@@ -36,7 +36,7 @@
 {"key":"csp_Bili","name":"爬虫┃哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hushujiang.github.io/1/哔哩哔哩.json"},
 {"key":"csp_Paper","name":"纸条云盘","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://hz752.live:63/ali/ken.php","jar":"https://gitee.com/hushujiang/diyp/raw/master/panda230305.jar"},
 {"key": "纸条","name": "📜纸条","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"ext": "http://ali.饭太硬.ml/alitoken","jar":"https://gitee.com/hushujiang/diyp/raw/master/YSC.jar"},
-{"key":"csp_FanYY","name":"💦阿里云┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken","jar":"https://gitee.com/hushujiang/diyp/raw/master/YSC.jar"},
+{"key":"csp_FanYY","name":"💦阿里云┃4K","type":3,"api":"csp_FanYY","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hushujiang/diyp/raw/master/1/al.txt","jar":"https://gitee.com/hushujiang/diyp/raw/master/YSC.jar"},
 {"key":"csp_Alist","name":"🗂Alist合集","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://hushujiang.github.io/1/Alist.json"},
 {"key":"bdys","name":"🧲哔嘀磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hushujiang.github.io/1/bdys.json"},
 {"key":"AliPS","name":"爬虫┃盘搜（仅搜索）","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ali.饭太硬.ml/alitoken"},
