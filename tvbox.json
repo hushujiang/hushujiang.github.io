@@ -1,4 +1,4 @@
-{"spider":"https://gitee.com/hushujiang/diyp/raw/master/Yoursmile.jar",
+{"spider":"./Yoursmile.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odXNodWppYW5nLmdpdGh1Yi5pby96Yi50eHQ="]}]}],
  "epg": "http://epg.112114.xyz/{name}&date={date}",
  "wallpaper":"http://maoyingshi.cc/api.php",
