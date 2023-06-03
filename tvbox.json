@@ -1,4 +1,4 @@
-{"spider":"https://raw.iqiq.io/hushujiang/tvbox/main/JS/t.jar",
+{"spider":"./JS/t.jar",
  "sites":[
 {"key":"Kuaikan","name":"快看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
 {"key":"Lgyy","name":"蓝光","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"b2e573ff040fcd54b50475660ee1a7d1"},
