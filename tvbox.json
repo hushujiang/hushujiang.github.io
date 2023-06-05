@@ -9,8 +9,6 @@
 {"key":"LiteApple","name":"苹果","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
 {"key":"SP360","name":"SP360","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
 {"key":"世界杯","name":"一起看","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
-{"key":"阿里云盘网","name":"💧云盘网┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./JS/aliyunpan.json"},
-{"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"7841f3b49e724e95bf35db236be8f00c"},
 {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
 {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
