@@ -12,6 +12,7 @@
 {"key":"Lib","name":"Libvio","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
 {"key":"Dy555","name":"555","type":"3","api":"csp_Dora","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},
 {"key":"Live","name":"影视直播","type":3,"api": "csp_Live","ext":"2000"},
+  {"key":"Gitcafe","name":"纸条","type":"3","api":"csp_Paper","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"ab1750fa7afa476e9306dc85820b01e5"},
 {"key":"Upso","name":"云搜","type":"3","api":"csp_UpYun","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"ab1750fa7afa476e9306dc85820b01e5"},
 {"key":"YiSo","name":"易搜","type":"3","api":"csp_YiSo","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"ab1750fa7afa476e9306dc85820b01e5"},
 {"key":"AliPS","name":"盘搜","type":"3","api":"csp_PanSou","changeable":"0","searchable":"1","quickSearch":"1","filterable":"1","ext":"ab1750fa7afa476e9306dc85820b01e5"},
