@@ -184,6 +184,9 @@
 {"key":"drpy_js_子子影视","name":"影视 | 子子影视[js]","type":3,"api":"./JS/apiv19drpy2.min.js","ext":"./JS/子子影视.js"}],
 "lives":[{"name":"太阳","type":0,"url":"./JS/zhibo.txt"}],
 "rules":[
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
 {"host":"www.sharenice.net","rule":["douyin.com","/play/"]},
