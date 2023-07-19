@@ -207,7 +207,7 @@
 {"key":"櫻花","name":"樱花[fm]","type":3,"api":"csp_Ying"},
 {"key":"巴士","name":"巴士[fm]","type":3,"api":"csp_Dm84"},
 {"key":"玩偶","name":"玩偶[fm]","type":3,"api":"csp_Wogg"},
-{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx"},],
+{"key":"七夜","name":"七夜","type":3,"api":"csp_Dovx"}],
 "lives":[{"name":"太阳","type":0,"url":"./JS/zhibo.txt"}],
 "rules":[
 {"name":"解析聚合","type":3,"url":"Demo"},
