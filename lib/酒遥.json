@@ -1,12 +1,12 @@
 {
     
-    "作者":"一个分享者",
+    "作者":"",
     
     "站名":"91影视",
     
     "主页url":"https://91free.vip/",
     
-    "简介":"💕一个分享者💕提醒您请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+    "简介":"💕一个分享者💕提醒您：请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
     
     "导演":"导演：&&</div>",
     
@@ -38,9 +38,9 @@
     
     "搜索链接":"href=\"&&\"",
     
-    "线路数组":"data-dropdown-value=&&</div>",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:海外用户专用（国内需翻墙）]",
     
-    "线路标题":"<span>&&</small>[替换:</span><small>>>💕共]+集💕",
+    "线路标题":"分享者接口-+<span>&&</small>[替换:</span><small>>>💕共]+集💕",
     
     "播放数组":"<div class=\"module-play-list-content&&</div>",
     
@@ -48,9 +48,9 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"https://91free.vip/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;ak",
+    "分类url":"https://91free.vip/vodshow/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;ak",
     
-    "分类":"动漫$23#电视剧$21#电影$20#综艺$22#体育$52",
+    "分类":"电影$20#电视剧$21#综艺$22#动漫$23#体育$52",
     
     "筛选":{
     "20":[
