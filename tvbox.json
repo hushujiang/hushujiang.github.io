@@ -332,7 +332,7 @@
            {"key":"csp_Bd","name":"哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""}, 
         {"key":"Cokemv","name":"可口可乐","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
         
-            {"key":"aqy","name":"奇艺php","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi",playUrl":"1","searchable":1,"quickSearch":1},
+            {"key":"aqy","name":"奇艺php","type":1,"api":"http://tvbox-1-g5221611.deta.app/vod/iqiyi",playUrl":"1","searchable":1,"quickSearch":1"},
              {
 			"key": "360kan",
 			"name": "360php",
