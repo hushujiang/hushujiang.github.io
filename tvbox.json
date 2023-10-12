@@ -7,8 +7,7 @@
     "key":"csp_woggcli",
     "name":"玩偶自营",
     "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=ac6cd4e728d94979a353eaaa5840e561
-",
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=ac6cd4e728d94979a353eaaa5840e561",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
