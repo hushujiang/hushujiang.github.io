@@ -86,14 +86,7 @@
 	  "quickSearch": 1,
 	  "playerType":2 ,
 	  "categories": ["连续剧","动漫"]
-	},	
-{
-            "key" : "js_亲子",
-            "name" : "亲子教育",
-            "type" : 3,
-            "api" : "./lib/drpy2.min.js",
-            "ext" : "./lib/tongqu.js"
-        },
+	},
 {"key":"蚂蚁","name":"蚂蚁直连","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
          {"key":"天天视频","name":"分享天天","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/"},
         {
@@ -157,7 +150,7 @@
 			"filterable": 1,
 			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
 		},
-          {"key":"mino4K","name":"🍭mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":""},
+          {"key":"mino4K","name":"mino4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":""},
         {
             "key": "毛驴",
             "name": "倒骑毛驴",
@@ -591,7 +584,7 @@
 {"key":"天翼资源","name":"长天比翼","type":1,"api":"https://www.911ysw.top/tianyi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},	    
    {
       "key": "星辰",
-      "name": "🌟昨夜星辰",
+      "name": "昨夜星辰",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
