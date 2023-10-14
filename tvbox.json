@@ -1143,11 +1143,6 @@
            "url": "http://119.91.123.253:1234/Api/cs.php?url="
        },
        {
-           "name": "分享爱酷",
-           "type": 1,
-           "url": "https://api.json.icu/api/?key=4f8fb5042b695d5c515f6343af716af8&url="
-       },
-       {
            "name": "分享77",
            "type": 1,
            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
