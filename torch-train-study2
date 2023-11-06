@@ -1,0 +1,100 @@
+import torch as t
+import torchvision as tv
+import torchvision.transforms as transforms
+import torch.nn as nn
+import torch.nn.functional as F
+ 
+#错误的还未学习
+########## 超参数设置 ##########
+epochs = 200
+learning_rate = 0.001
+batch_size = 256
+gpu_ids = [0, 1, 2]
+ 
+ 
+########## 一、数据加载与预处理 ##########
+transform = transforms.Compose([
+    transforms.ToTensor(),
+    transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))
+])
+trainset = tv.datasets.CIFAR10(root='./data/', train=True, download=True, transform=transform)
+testset = tv.datasets.CIFAR10(root='./data/', train=False, download=True, transform=transform)
+trainloader = t.utils.data.DataLoader(trainset, batch_size=batch_size, shuffle=True, num_workers=4)
+testloader = t.utils.data.DataLoader(testset, batch_size=batch_size, shuffle=False, num_workers=4)
+ 
+ 
+########## 二、定义神经网络 ##########
+class LeNet(nn.Module):
+    def __init__(self):
+        super(LeNet, self).__init__()
+        # (in_channels, out_channels, kernel_size, stride, padding)
+        self.conv1 = nn.Conv2d(3, 6, 5, 1, 0)
+        self.conv2 = nn.Conv2d(6, 16, 5, 1, 0)
+        self.fc1 = nn.Linear(16 * 5 * 5, 120)
+        self.fc2 = nn.Linear(120, 84)
+        self.fc3 = nn.Linear(84, 10)
+ 
+    def forward(self, x):
+        x = F.max_pool2d(F.relu(self.conv1(x)), 2, 2)
+        x = F.max_pool2d(F.relu(self.conv2(x)), 2, 2)
+        x = x.view(x.size()[0], -1)
+        x = F.relu(self.fc1(x))
+        x = F.relu(self.fc2(x))
+        x = self.fc3(x)
+        return x
+ 
+ 
+########## 三、训练神经网络 ##########
+# 神经网络实例化
+net = LeNet()
+if (len(gpu_ids) == 0) or (not t.cuda.is_available()):
+    # gpu_ids列表为空, 或者没GPU可用，则设置为GPU模式。
+    device = t.device("cpu")
+    print("Train Mode : CPU")
+elif t.cuda.is_available() and len(gpu_ids) > 1:
+    # gpu_ids列表大于1，表明想用多个GPU训练
+    device = t.device("cuda:0")
+    net = nn.DataParallel(net, device_ids=gpu_ids)
+    print("Train Mode : Multi GPU;", gpu_ids)
+else:
+    # gpu_ids列表等于1，表明想用一个GPU训练
+    device = t.device("cuda:" + str(gpu_ids[0]) if t.cuda.is_available() else "cpu")
+    print("Train Mode : One GPU;", device)
+net = net.to(device)
+print("\n", "##" * 10, "  NetWork  ", "##" * 10, "\n", net, "\n", "##" * 26, "\n")
+# 定义损失函数和优化器
+criterion = nn.CrossEntropyLoss()
+optimizer = t.optim.SGD(net.parameters(), lr=learning_rate, momentum=0.9)
+# 开始训练
+for epoch in range(epochs):
+    running_loss = 0.0
+    for i, (inputs, labels) in enumerate(trainloader):
+        inputs, labels = inputs.to(device), labels.to(device)
+        optimizer.zero_grad()
+        outputs = net(inputs)
+        loss = criterion(outputs, labels)
+        loss.backward()
+        optimizer.step()
+        running_loss += loss.item()
+    print("Epoch%03d: Training_loss = %.5f" % (epoch + 1, running_loss))
+ 
+    # 保存模型并进行验证
+    if (epoch + 1) % 10 == 0:
+        if len(gpu_ids) > 1:
+            t.save(net.module.state_dict(), "Cifar10_LeNet_Epoch" + str(epoch + 1) + ".pth")
+        else:
+            t.save(net.state_dict(), "Cifar10_LeNet_Epoch" + str(epoch + 1) + ".pth")
+        correct = 0
+        all = 0
+        with t.no_grad():
+            for (inputs, labels) in testloader:
+                inputs, labels = inputs.to(device), labels.to(device)
+                outputs = net(inputs)
+                _, predicted = t.max(outputs, 1)
+                all += inputs.size()[0]
+                correct += (predicted == labels).sum().item()
+        print("###" * 15)
+        print("Epoch%03d: TestSet_Accuracy = %.3f" % (epoch + 1, correct / all))
+        print("###" * 15)
+ 
+print("Train Done!")
