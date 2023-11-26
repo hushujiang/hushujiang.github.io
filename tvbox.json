@@ -91,7 +91,7 @@
     "key":"csp_woggcli",
     "name":"玩偶自营",
     "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=001e5e4b47b64a76b4a35922ef9bf1c1",
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=a88e3d0f442f430da0e24ea3aea4a0b6",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
