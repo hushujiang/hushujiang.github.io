@@ -86,12 +86,11 @@
 {"key":"爱奇艺","name":"奇艺官源","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果官源","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_yk","name":"优酷官源","type":3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
-{"key":"csp_WoGG","name": "玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/ali.jar"},
      {
     "key":"csp_woggcli",
     "name":"玩偶自营",
     "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=a88e3d0f442f430da0e24ea3aea4a0b6",
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f969a7cc68e24da494db813982dab3e8",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
