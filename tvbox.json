@@ -86,6 +86,7 @@
 {"key":"爱奇艺","name":"奇艺官源","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果官源","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_yk","name":"优酷官源","type":3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"f969a7cc68e24da494db813982dab3e8+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
      {
     "key":"csp_woggcli",
     "name":"玩偶自营",
