@@ -74,7 +74,7 @@
 //数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [	
-    {"key": "csp_KungFu404","name":"⚙️阿里设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"./lib/阿里设置.txt"},
+    {"key": "csp_KungFu404","name":"⚙️阿里设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/%E9%98%BF%E9%87%8C%E8%AE%BE%E7%BD%AE.txt"},
      {
 			"key": "douban",
 			"name": "🅱️豆瓣评分",
