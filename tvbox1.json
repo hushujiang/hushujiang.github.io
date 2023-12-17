@@ -207,7 +207,7 @@
     "key":"csp_woggcli",
     "name":"📕玩偶自营",
     "type":4,
-    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47",
+    "api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=581d32a394654129b23fff47ed357303",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
@@ -348,7 +348,14 @@
 
 {"key":"玉米","name":"💖分享玉米","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
 
-{      "key": "apv2_刺桐",      "name": "💖分享吃桶",      "type": 3,      "api": "csp_AppYsV2",      "searchable": 1,      "ext": "http://pgcms.cttv.vip/api.php/app/"    },
+{
+      "key": "apv2_刺桐",
+      "name": "💖分享吃桶",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "ext": "http://pgcms.cttv.vip/api.php/app/"
+    },
 
 {
                     "key":"zuiyi",
