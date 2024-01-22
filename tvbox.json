@@ -2037,12 +2037,13 @@
 
 //电视直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY2NjY2L21hby9yYXcvYnJhbmNoL21hc3Rlci9saXZlMjAyMjA4MTMudHh0"]}]},
-{
-      "name": "live",
-      "url": "./lib/zb.txt",
-      "type": 0,
-      "ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "./lib/zb.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
 
 //解码模式
 
