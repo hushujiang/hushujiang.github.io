@@ -1226,7 +1226,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
-//河南组播,#genre#
+河南组播,#genre#
 CCTV1,rtp://239.16.10.1:2000
 CCTV2,rtp://239.16.10.127:2000
 CCTV3,rtp://239.16.10.2:2000
