@@ -1997,7 +1997,6 @@
 {"name": "官解5","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2100&my=ehilmnqyCDGHILNUXZ&mgtv=app&url="},
 {"name":"分享玉米","type":1,"url":"http://61.147.93.21:8090/index.php?url="},
 {"name":"分享酷酷","type":1,"url":"http://box.realdou.cn/api/?api_id=4&vod_url=","header":{"user-agent":"okhttp/5.0.0-alpha.10"}},
-{"name":"分享海鸥","type":1,"url":"http://htp.behds.cn/json/520239app9/lib3.php?url="},
 {"name":"分享打捞","type":0,"url":"https://vip.bljiex.com/?v="},
 {"name":"分享光速","type":0,"url":"https://www.gszyv.com/m3u8/?url="},
 {"name":"奇奇1","type":1,"url":"http://42.157.128.109:2323/CH/zy/qiqi.php?url=","ext":{"flag":["qiqi","kuying-qq"]}},
@@ -2037,12 +2036,13 @@
 
 //电视直播
 
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzY2NjY2L21hby9yYXcvYnJhbmNoL21hc3Rlci9saXZlMjAyMjA4MTMudHh0"]}]},
-{
-      "name": "live",
-      "url": "./lib/zb.txt",
-      "type": 0,
-      "ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "./lib/zb.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+                    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
 
 //解码模式
 
