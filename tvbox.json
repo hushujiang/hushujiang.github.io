@@ -136,22 +136,7 @@
 {"key":"py_cctv","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/py_cctv.py"},
 {"key":"py_m1905","name":"🇨🇳电影┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"./lib/m1905.py"},
 {"key":"py_返老还童","name":"🇨🇳动漫┃PY","type":3,"api":"py_kt30","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/py_kt30.py"},
-{"key":"py_yhdm6","name":"🇨🇳樱花┃PY","type":3,"api":"py_6vFilm","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/py_yhdm6.py"},
-{"key": "應用商店","name": "🛒影视应用商店","type": 3,"jar":"./lib/jar.php;md5;18ee45921e80c33623b4c0561970666a","api": "csp_Market","searchable": 0,"changeable": 0,"ext": "http://106.54.39.252/%E5%85%AC%E4%BC%97%E5%8F%B7%E6%AC%A7%E6%AD%8CAPP/ts/sd.php"},
-
-
-
-
-
-
-
-
-
-
-  
-{"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
-
+{"key":"py_yhdm6","name":"🇨🇳樱花┃PY","type":3,"api":"py_6vFilm","searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/py_yhdm6.py"}
 ],
 
 "parses":[
