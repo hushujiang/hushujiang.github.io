@@ -21,7 +21,13 @@
 {"key":"csp_JianPian","name":"💡荐片┃影视","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
 {"key":"csp_Czsapp","name":"💡厂长┃影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://bo.czys.me"},
 //app
-
+{"key":"热播","name":"💡热播┃影视","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
+{"key":"追剧","name":"💡追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
+{"key":"胡胡","name":"💡胡胡┃影视","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"高光","name":"💡高光┃影视","type":3,"api":"csp_WebGGYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ggys.me"},
+{"key":"新视觉","name":"💡新视觉┃影视","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
+{"key":"机器人","name":"💡机器人┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"酷影视","name":"😎酷影视┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"鸭奈飞","name":"😎奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 //web
 {"key":"胡胡","name":"💗胡胡┃影视","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
