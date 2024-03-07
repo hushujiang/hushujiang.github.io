@@ -153,7 +153,6 @@
 //解析接口
 
 "parses":[
-{"name":"智能解析","type":2,"url": "Sequence"},
 {"name": "自动解析","type": 2,"url": "Parallel"},
 {"name":"超级解析","type":3,"url":"Demo"},
 {"name":"超级嗅探","type":3,"url":"Web"},
