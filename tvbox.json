@@ -4,7 +4,7 @@
 "sites": [	
 {"key":"豆瓣2","name":"📢豆瓣评分","type":3,"api":"csp_Douban","searchable":0},
 //jar🎄🛶🎄🎃💘💖💖
-{"key": "酷看","name": "🦁1080P┃快看","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "酷看","name": "🦁1080P┃快看","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt"},
 {"key":"赞赞","name":"😎赞赞┃影视","type":3,"api":"csp_AppYsV2","ext":"http://111.230.51.151:2323/api.php/app/","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"csp_Kuaikan","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"南瓜","name":"💡南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":""},
