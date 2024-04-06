@@ -39,7 +39,7 @@
         "港台动漫",
         "海外动漫",
         "欧美综艺"]},
-{"key":"csp_wogg_t4","name": "🔥玩偶T4", "type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?token=555809be281b4e07836e7a84aa0527c1&sort=原画,蓝光,超清,高清", "searchable": 1, "playerType": 2,"quickSearch": 1,"filterable": 1},
+{"key":"csp_wogg_t4","name": "🔥玩偶T4", "type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?token=555809be281b4e07836e7a84aa0527c1&sort=原画,蓝光,超清,高清", "searchable": 1, "playerType": 2,"quickSearch": 1,"filterable": 1},
 {"key": "耐看点播","name": "🔺耐看自建","type": 3,"api": "csp_XBPQ","ext": {"分类数组":"swiper-wrapper\"*&&</ul>","分类url": "https://www.nkvod.com/show/{cateId}--------{catePg}---{year}.html"}},
 {"key": "zyys","name": "💖分享自营","type":3,"api":"csp_XBPQ","ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/小鹿影视.json"},
 {"key":"厂长弹幕","name":"💖分享厰長","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/@一个分享者@","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
