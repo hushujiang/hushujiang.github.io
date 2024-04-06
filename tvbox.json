@@ -48,7 +48,6 @@
         "欧美综艺"
       ]
     },
-{"key": "csp_wogg_t4","name": "🔥玩偶T4","type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?token=555809be281b4e07836e7a84aa0527c1&sort=原画,蓝光,超清,高清","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1},
 {"key": "耐看点播",
             "name": "🔺耐看自建",
             "type": 3,
