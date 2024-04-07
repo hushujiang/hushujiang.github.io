@@ -4,7 +4,15 @@
 "sites": [	
 {"key":"豆瓣2","name":"📢豆瓣评分","type":3,"api":"csp_Douban","searchable":0},
 //jar🎄🛶🎄🎃💘💖💖
-{"key": "T4-IKTV","name": "KTV","type": 4,"api": "https://catbox.n13.club/iktv.php"},
+{
+      "key": "Iktv",
+      "name": "🎤KTV音乐",
+      "type": 3,
+      "api": "csp_Iktv",
+      "searchable": 1,
+      "changeable": 0,
+       "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
+    },
 {"key":"影探4K0","name":"💃影视探戈","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/"},
 {"key":"csp_Kuaikan","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"南瓜","name":"💡南瓜┃影视","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
