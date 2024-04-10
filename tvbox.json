@@ -44,9 +44,6 @@
 {"key":"酷影视","name":"😎酷影视┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"鸭奈飞","name":"😎奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 //web
-{"key":"胡胡","name":"💗胡胡┃影视","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"新视觉","name":"💗新视觉┃影视","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
-{"key":"高光","name":"💗高光┃影视","type":3,"api":"csp_WebGGYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ggys.me"},
 {"key":"云播","name":"💘云播┃影视","type":3,"api":"csp_Skapp","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/云播"},
 {"key":"云2","name":"💘梦影┃影视","type":3,"api":"csp_Movie2","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"},
 //js
