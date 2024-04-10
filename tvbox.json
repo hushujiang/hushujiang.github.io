@@ -14,7 +14,7 @@
        "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
     },
 {"key":"csp_Kuaikan","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"南瓜","name":"💡南瓜┃影视","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"南瓜","name":"💡南瓜┃影视","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"http://1.v.nxog.top/m/jar.php"},
 {"key":"新视觉","name":"💡新视┃影视","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
 {"key":"天天","name":"💡天天┃影视","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn"},
 {"key":"一起看","name":"💡起看┃影视","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
