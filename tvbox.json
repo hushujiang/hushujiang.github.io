@@ -22,7 +22,6 @@
 {"key":"哔嘀","name":"💡哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"低端","name":"💡低端┃影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_JianPian","name":"💡荐片┃影视","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-{"key": "csp_Czsapp","name": "🏭️1080P┃厂长","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt"},
 //app
 {"key":"热播","name":"💡热播┃影视","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn"},
 {"key":"追剧","name":"💡追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com"},
@@ -38,7 +37,6 @@
 {"key":"csp_chrf","name":"🎃小米┃影视","type":3,"api":"csp_XBPQ","ext":{"作者": "实沈","站名": "小米影视","请求头": "手机","编码": "UTF-8","主页url": "https://www.chrf.cn/","分类url": "https://www.chrf.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html","分类":"电影&电视剧&综艺&动漫&纪录片&短剧","分类值": "1&2&3&4&28&36"}},
 {"key":"csp_mgtva","name":"🎃木瓜┃影视","type":3,"api":"csp_XBPQ","ext":{"作者": "实沈","站名": "木瓜影视","请求头": "手机","编码": "UTF-8","主页url": "https://www.muguatva.com/","分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
 {"key": "酷看","name": "🦁1080P┃快看","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt"},
-{"key":"csp_wogg_t4","name": "🔥玩偶T4", "type": 4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?token=555809be281b4e07836e7a84aa0527c1&sort=原画,蓝光,超清,高清", "searchable": 1, "playerType": 2,"quickSearch": 1,"filterable": 1},
 {"key":"厂长弹幕","name":"💖分享厂长","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy55.com/@一个分享者@","jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/CZ.txt"},
 {"key":"赞赞","name":"😎赞赞┃影视","type":3,"api":"csp_AppYsV2","ext":"http://111.230.51.151:2323/api.php/app/","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"酷影视","name":"😎酷影视┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
