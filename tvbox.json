@@ -45,7 +45,7 @@
 {"key": "世界","name": "💖分享世界","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://106.52.241.21:83/api.php/app/"},
 {"key": "csp_XBPQ_lz","name": "💖分享乐竹","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/黑乎影视.json"},
 {"key" : "js_v2-jy","name" :"💖分享臻品","type" : 3,"api" : "csp_XBPQ","ext" : "./lib/臻品电影.json"},
-{"key": "csp_xBPQ_qixing","name": "💖分享北斗","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,filterable": 0,"ext": "./lib/七新影视.json"},	
+{"key": "csp_xBPQ_qixing","name": "💖分享北斗","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./lib/七新影视.json"},	
 {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"./lib/j.txt"},
 {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"./lib/j.txt"},
 {"key":"sliu_spider","name":"💖分享石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "./lib/j.txt"},	
