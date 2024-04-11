@@ -1,154 +1,33 @@
 {//数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"sites": [	{
-			"key": "douban",
-			"name": "🅱️豆瓣评分",
-			"type": 3,
-			"api": "./lib/豆瓣.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-{
-      "key": "py_cctv",
-      "name": "🇨🇳央视大全",
-      "type": 3,
-      "api":"py_cctv",
-      "searchable":1,
-     "quickSearch":1,
-     "filterable":1,
-      "ext": "./lib/py_cctv.py"
-    },
-  {
-		"key": "drpy_侬好",
-		"name": "💖分享者vip",
-		"type": 3,
-		"api": "./lib/apiv387drpy2.min.js",
-		"ext": "./lib/ygfxz.js"
-	},
-
-         {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/分享玩偶.json","jar":"./lib/Xiang.txt"},
-          {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/分享阿里.json","jar":"./lib/Xiang.txt"},
-           {"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tudouali.json","jar":"./lib/Xiang.txt"},
-            {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nfzw.json","jar":""},
-         {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ynfys.json","jar":""},
-         {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "./lib/naifei4K.json"},
-        {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-         {
-            "key": "kongbai",
-            "name": "💖分享空白",
-            "playerType": 2,
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://43.136.176.188:92/api.php/app/"
-        },
-         {"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/CZ.txt"},
-         {"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/CZ.txt"},
-         {"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"./lib/Fr.jar"},
-    {"key":"虾米","name":"🦀分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"./lib/fan.txt","ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
-    {"key":"爱ai看","name":"💖分享ai看","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/fan.txt","ext":"FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"},
-     {"key":"miaociyuan","name":"💖分享喵喵","api":"./lib/apiv387drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"./lib/Mcy.js"}, 
-{
-            "key": "libhd2",
-            "name": "💖分享丽波",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "./lib/LiBo.json"
-        },
-
-     {
-      "key": "ssb影视",
-      "name": "💖分享蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/ssb.json"
-    },
-     {
-      "key": "shu素白白",
-      "name": "💖分享素颜",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"./lib/XbyQ.jar",
-      "ext": "./lib/subaibai.json"
-    },
-    {
-      "key": "shiju影视",
-      "name": "💖分享视觉",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"./lib/XbyQ.jar",
-      "ext": "./lib/xinshijue.json"
-    },
-    {
-      "key": "zizi",
-      "name": "💖分享栀子",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/子子.json"
-    },
-    {
-      "key": "rarbt",
-      "name": "💖分享rarbt",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/rarbt.json"
-    },
-     {
-            "key": "csp_LiteApple",
-            "name": "💖分享|BTT",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_XBPQ",
-            "jar":"./lib/XbyQ.jar",
-            "ext":"./lib/分享bt.json"
-        },
-         {
-      "key": "zztong",
-      "name": "💖分享饭团",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/分享fantuan.json"
-    },
-        {"key": "csp_爱优",
-      "name": "💖分享爱优",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html",
-        "副标题":"分享者在线",
-        "分类": "电视剧$1#电影$2#动漫$3#综艺$4"
-      }
-    },
-          {
-            "key": "csp_Vidhub2", 
-            "name": "💖分享|VID", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-            "jar":"./lib/XbyQ.jar",
-            "ext":"./lib/分享vid.json",
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
+"sites": [	
+{"key": "douban","name": "🅱️豆瓣评分","type": 3,"api": "https://notabug.org/ygfxz/6/raw/main/is/豆瓣.js","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "py_cctv","name": "🇨🇳央视大全","type": 3,"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext": "./lib/py_cctv.py"},
+{"key": "drpy_侬好","name": "💖分享者vip","type": 3,"api": "./lib/apiv387drpy2.min.js","ext": "./lib/ygfxz.js"},
+{"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/分享玩偶.json","jar":"./lib/Xiang.txt"},
+{"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/分享阿里.json","jar":"./lib/Xiang.txt"},
+{"key": "csp_XYQHikerAL_分享豆豆","name":"💖分享土豆","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tudouali.json","jar":"./lib/Xiang.txt"},
+{"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nfzw.json","jar":""},
+{"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ynfys.json","jar":""},
+{"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "./lib/naifei4K.json"},
+{"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+{"key": "kongbai","name": "💖分享空白","playerType": 2,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://43.136.176.188:92/api.php/app/"},
+{"key":"aikan","name":"💖分享爱看","type":3,"api":"csp_Ayy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/CZ.txt"},
+{"key":"moli","name":"💖分享魔力","type":3,"api":"csp_Hdmoli","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/CZ.txt"},
+{"key":"csp_CandyMuj_freeok","name":"💖FREEOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1 ,"jar":"./lib/Fr.jar"},
+{"key":"虾米","name":"🦀分享虾米","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1, "jar":"./lib/fan.txt","ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
+{"key":"爱ai看","name":"💖分享ai看","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/fan.txt","ext":"FbjDcUxPqpfNr0RPuV3f6q00fpJXAZtZEXlI9/f10UBGGozerC+JkBvO/bX4Ciy9c3mMnn8zmDIq"},
+{"key":"miaociyuan","name":"💖分享喵喵","api":"./lib/apiv387drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"./lib/Mcy.js"}, 
+{"key": "libhd2","name": "💖分享丽波","type": 3,"api": "csp_XBPQ","ext": "./lib/LiBo.json"},
+{"key": "ssb影视","name": "💖分享蓝光","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "./lib/ssb.json"},
+{"key": "shu素白白","name": "💖分享素颜","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar":"./lib/XbyQ.jar","ext": "./lib/subaibai.json"},
+{"key": "shiju影视","name": "💖分享视觉","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"jar":"./lib/XbyQ.jar","ext": "./lib/xinshijue.json"},
+{"key": "zizi","name": "💖分享栀子","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "./lib/子子.json"},
+{"key": "rarbt","name": "💖分享rarbt","type": 3,"api": "csp_XBPQ","searchable": 1,"changeable": 1,"ext": "./lib/rarbt.json"},
+{"key": "csp_LiteApple","name": "💖分享|BTT","type": 3,"playerType": "2","api": "csp_XBPQ","jar":"./lib/XbyQ.jar","ext":"./lib/分享bt.json"},
+{"key": "zztong","name": "💖分享饭团","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/分享fantuan.json"},
+{"key": "csp_爱优","name": "💖分享爱优","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html","副标题":"分享者在线","分类": "电视剧$1#电影$2#动漫$3#综艺$4"}},
+{"key": "csp_Vidhub2", "name": "💖分享|VID", "type": 3, "api": "csp_XBPQ", "jar":"./lib/XbyQ.jar","ext":"./lib/分享vid.json","searchable": 1, "quickSearch": 1, "filterable": 1}, 
        {
       "key": "Iktv",
       "name": "🎤KTV音乐",
@@ -1223,7 +1102,7 @@
 
 //jar+壁纸
 
-"spider":"https://gitee.com/hushujiang/diyp/raw/master/O.jar","wallpaper":"https://tool.weetai.cn/api",
+"spider":"https://gitee.com/hushujiang/diyp/raw/master/O.txt","wallpaper":"https://tool.weetai.cn/api",
 
 //电视直播
 
