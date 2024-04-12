@@ -10,16 +10,6 @@
 			"filterable": 1
 		},
 {"key":"csp_DiDuan" ,"name":"🧰低端|SP","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":0,"jar":""},
-{
-            "key": "csp_Lib",
-            "name": "🍍立即播放",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.libvio.pw/","jar":"./lib/fan.txt"
-        },
 {"key":"映迷","name":"🕎映迷映画","type":1,"api":"https://www.inmi.app/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 		{
 			"key": "apv2_少泽影客",
