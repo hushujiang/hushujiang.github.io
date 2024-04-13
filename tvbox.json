@@ -4,7 +4,7 @@
 			"key": "douban",
 			"name": "🅱️豆瓣评分",
 			"type": 3,
-			"api": "./lib/豆瓣.js",
+			"api": "./lib/apiv231豆瓣.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
