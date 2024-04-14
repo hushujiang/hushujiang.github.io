@@ -933,6 +933,8 @@
 "动漫"
 ]
 },
+    {"key": "csp_KungFu404","name":"⚙️阿里设置","type":3, "api": "csp_KungFu404", "searchable":1,"filterable": 0, "changeable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/阿里设置.txt"},
+    {"key":"配置中心","name":"⚙️云盘配置","type": 3,"api": "csp_Config","searchable":0,"changeable":0,"style": {"type": "rect","ratio": 1},"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/PG.txt"},
 {"key":"混合盘","name":"📕混合网盘","type":3,"api":"csp_HunHePan","changeable":2,"searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/PG.txt","ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/tokenm.json$$$null$$$1","timeout":60},
 {"key":"Pan99","name":"📕九九网盘","type":3,"api":"csp_Pan99","quickSearch":1, "changeable":2, "filterable":1, "timeout":30,  "jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/PG.txt","ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
 {"key":"玩偶表哥","name":"📕老表网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":2, "jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/PG.txt","ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/tokenm.json$$$https://wobge.run.goorm.io$$$1$$$./json/wogg.json","timeout":60},
