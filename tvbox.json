@@ -246,8 +246,8 @@
             "key" : "drpy_js_奇珍异兽",
             "name" : "🦜奇珍异兽",
             "type" : 3,
-            "api" : "https://gitee.com/hushujiang/diyp/raw/master/lib/apiv387drpy2.min.js",
-            "ext" : "https://gitee.com/hushujiang/diyp/raw/master/lib/奇珍异兽.js"
+            "api" : "./lib/apiv387drpy2.min.js",
+            "ext" : "./lib/奇珍异兽.js"
         },
 {
             "key" : "drpy_js_酷云77",
