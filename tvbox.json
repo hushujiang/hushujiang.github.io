@@ -929,8 +929,8 @@
 		"key": "drpy_侬好",
 		"name": "💖分享者vip",
 		"type": 3,
-		"api": "https://gitee.com/hushujiang/diyp/raw/master/lib/apiv387drpy2.min.js",
-		"ext": "https://gitee.com/hushujiang/diyp/raw/master/lib/ygfxz.js"
+		"api": "./lib/apiv387drpy2.min.js",
+		"ext": "./lib/ygfxz.js"
 	},
 {"key": "csp_XYQHikerAL_分享玩偶","name":"💖分享玩偶","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/分享玩偶.json","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/Xiang.txt"},
 {"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/分享阿里.json","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/Xiang.txt"},
