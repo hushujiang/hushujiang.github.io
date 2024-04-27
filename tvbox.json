@@ -5,7 +5,7 @@
 {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/ynfys.json","jar":""},
 {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://gitee.com/hushujiang/diyp/raw/master/lib/naifei4K.json"},
 {"key":"JianPian","name":"💖分享荐片","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-{"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/jar.php"},
+{"key":"南瓜影院","name":"💡南瓜┃影视","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/jar.php"},
 	{
             "key": "kongbai",
             "name": "💖分享空白",
