@@ -291,7 +291,6 @@
 {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 { "key": "白度影视", "name": "💖分享白度", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
 {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-{"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_AppYSDQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {
             "key": "baipao",
             "name": "💖分享白嫖",
