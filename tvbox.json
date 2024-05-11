@@ -1,6 +1,7 @@
 {//数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
-"sites": [	
+"sites": [
+{"key":"南瓜影视","name":"🎃南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
 {"key": "csp_XYQHikerAL_分享naifei","name":"💖分享奈飞","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/nfzw.json","jar":""},
 {"key": "csp_XYQHikerAL_分享yanf","name":"💖分享耐菲","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/ynfys.json","jar":""},
 {"key": "鸭奶飞4K","name": "💖分享萘飛","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://gitee.com/hushujiang/diyp/raw/master/lib/naifei4K.json"},
@@ -202,12 +203,10 @@
         "搜索模式": "2"
       }
     },
-           {"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/Fx.txt"},
-         {"key":"360_spider","name":"🍎360影视","api":"https://gitee.com/hushujiang/diyp/raw/master/lib/apiv387drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/360影视.js"}, 
-
+{"key": "csp_SP2345","name": "🦄2345影视","type": 3, "api": "csp_SP2345","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/Fx.txt"},
+{"key":"360_spider","name":"🍎360影视","api":"https://gitee.com/hushujiang/diyp/raw/master/lib/apiv387drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/360影视.js"}, 
 {"key":"360影视","name":"*️⃣360影视","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
- {"key":"酷看","name":"😎酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/fan.txt"},
+{"key":"酷看","name":"😎酷看App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/fan.txt"},
 {"key":"csp_觅视频","name":"💖分享影猫","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7KctTA8JSVjVJ8fb33R8KUNSIsT3IgxCP9qyzByO7Z2qR3Ggpjn8kS2NlCJx9KFpYWtqe0x/XKTtG3SAclaw3AOm0fS9oLx2taGFszsP3uHWHa4dyHdIm90tKvADyREgKNL3k7R5QNMNVLiUM","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/fan.txt"},
       {
       "key": "qiqiguai",
@@ -276,8 +275,8 @@
       "api": "./lib/apiv387drpy2.min.js",
       "ext": "./lib/百忙无果.js"
     },
-    {"key": "dr_优酷2","name": "🔭优酷视频","type": 3,"api": "./lib/apiv387drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/优酷.js"},
-		{"key":"新视觉","name":"🧰全新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/Fx.txt"},
+{"key": "dr_优酷2","name": "🔭优酷视频","type": 3,"api": "./lib/apiv387drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/优酷.js"},
+{"key":"新视觉","name":"🧰全新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/Fx.txt"},
         {
 			"key": "myi",
 			"name": "💖分享麻衣",
@@ -291,7 +290,6 @@
 {"key": "gsgs","name": "💖分享酷影","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 { "key": "白度影视", "name": "💖分享白度", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://yingszj.xn--654a.cc/api.php/app/" },
 {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-{"key":"南瓜影视","name":"🎃南瓜影视","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
 {
             "key": "baipao",
             "name": "💖分享白嫖",
