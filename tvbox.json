@@ -419,10 +419,10 @@
             "searchable": true,
             "server": "https://pan.cdnxin.top/"
           },
-          {"name": "美云", "server": "http://xiaoya.nebula-nas.space:5678/"}         ]}},
-    {"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
-    {"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
-      {"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
+{"name": "美云", "server": "http://xiaoya.nebula-nas.space:5678/"}         ]}},
+{"key":"天天","name":"🏞天外有天","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
+{"key":"热","name":"🔥分享热播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://v.rbotv.cn","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
+{"key":"追1","name":"🚨分享追剧","type":3,"api":"csp_TTian","playerType":1,"ext":"http://app.kzjtv.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
 {"key":"sliu_spider","name":"💖分享石榴","api":"csp_ShiLiuDY","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"jar": "https://gitee.com/hushujiang/diyp/raw/master/lib/j.txt"},
 {
       "key": "要啥脸",
@@ -666,11 +666,9 @@
 "韩剧",
 "日剧",
 "剧情片","战争片"]},
-        	
-		{"key":"极速","name":"️✈️极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
+{"key":"极速","name":"️✈️极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"]},
 {"key": "鑫鑫影视","name": "🏡影视之家", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yingszj.xn--654a.cc/api.php/app/"},
-  
-     {"key": "juj", "name": "🫵聚集焦点", "type": 3, "api": "csp_AppYs","playerType":2,"ext": "https://www.mjlnl.cn/api.php/v1.vod"},
+{"key": "juj", "name": "🫵聚集焦点", "type": 3, "api": "csp_AppYs","playerType":2,"ext": "https://www.mjlnl.cn/api.php/v1.vod"},
   {
 "key": "Bilfun",
       "name": "🎒七之社区",
@@ -695,14 +693,12 @@
       ]
 },
 {"key":"奈飞狗","name":"🐶奈飞狗仔","type":3,"api":"csp_AppYs", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://netflixdog.club/api.php/app/"},
-           {"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
-    {"key":"csp_QQ1","name":"🐧腾讯官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
+{"key":"csp_QQ1","name":"🐧腾讯官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"爱奇艺","name":"🥝奇艺官源","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-
 {"key":"csp_MGTV","name":"🥭芒果官源","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
-         {"key":"csp_yk","name":"🔰优酷视频","type":3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
-    
-        {"key":"圆涂影视","name":"⭕️圆涂影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
+{"key":"csp_yk","name":"🔰优酷视频","type":3,"api":"csp_YOUKU","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
+{"key":"圆涂影视","name":"⭕️圆涂影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
 {
 			"key": "zycj_天天",
 			"name": "🌐天天影视",
@@ -874,7 +870,6 @@
 
 {"key":"鸭奈飞","name":"🦆鸭奶飞飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
 {"key": "csp_XBPQ_圣人",  "name": "🕍圣人之城",  "type": 3,  "api": "csp_XBPQ",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "ext": "https://gitee.com/hushujiang/diyp/raw/master/lib/圣城.json"},
-
 {"key":"米","name":"💖米爱影音","type": 3, "api": "csp_XBPQ","playerType":2,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/米爱影视.json"},
 {
    "key": "快看",
