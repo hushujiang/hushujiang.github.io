@@ -1216,7 +1216,7 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "./lib/zb.txt",
-		    "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
+		    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
                     "logo": "https://epg.112114.xyz/logo/{name}.png"
 	    }],
 
