@@ -1,6 +1,7 @@
 {//数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [
+{"key":"视觉","name":"👓视觉┃多线","type":3,"api":"csp_Xinsj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.80yy3.com/","jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
