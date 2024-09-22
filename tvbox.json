@@ -1,6 +1,7 @@
 {//数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [
+{"key": "文采","name": "💮文采秒播","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu.php"},
 {"key":"农民影视","name":"💡农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"酷看影视","name":"💡欧欧┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"两个磁力","name":"💡两个┃影视","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
@@ -26,7 +27,6 @@
 { "key": "csp_Ikan","name": "💡爱看┃影视","type": 3,"api": "csp_Ikan", "searchable": 1,"quickSearch": 1,"filterable": 1, "changeable": 0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key": "酷影","name": "💡酷影┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"追剧","name":"🍓追剧┃多线","type":3,"api":"csp_AppTT","playerType":2,"ext":"AO7TcBkd8IPB+BwH4Qma+opv","jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
