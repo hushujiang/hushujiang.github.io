@@ -23,7 +23,6 @@
 {"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"Anime1","name":"🐾日本┃动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
-{"key":"alllive","name":"📽️一直播┃LIVE","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"米搜","name":"🦋米盘┃搜搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"农民影视","name":"💡农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
