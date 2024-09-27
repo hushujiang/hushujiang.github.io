@@ -1183,11 +1183,6 @@
       "showType": 3
     },
 			{
-			"name": "分享官解1",
-			"type": 0,
-			"url": "https://jx.xmflv.com/?url="
-		},
-			{
       "name": "分享官解2",
       "type": 1,
       "url": "http://119.91.123.253:2345/Api/yun.php?url="
