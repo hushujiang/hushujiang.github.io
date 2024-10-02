@@ -7,7 +7,7 @@
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"萌米","name":"👀萌米┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv","jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
-{"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
+{"key":"南瓜影视","name":"💡南瓜┃影视","type":3,"api":"csp_WexNgys","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
 {"key":"zxzj","name":"🍊在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"https://gitee.com/hushujiang/diyp/raw/master/fan.txt"},
