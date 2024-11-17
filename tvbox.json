@@ -378,15 +378,6 @@
       "changeable": 1,
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
     },
-    {
-      "key": "南瓜",
-      "name": "💥瓜瓜┃影视💥",
-      "type": 3,
-      "api": "csp_WexNgys",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
-    },
 	{
       "key": "mingriyingshi",
       "name": "😁明日┃影视😁",
