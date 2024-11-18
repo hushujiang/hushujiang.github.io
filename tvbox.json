@@ -315,15 +315,6 @@
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
     },
 	{
-      "key": "玩偶",
-      "name": "💓‍玩偶┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
-    },
-	{
       "key": "Wexnullname",
       "name": "💓无名┃4K💓",
       "type": 3,
