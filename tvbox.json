@@ -280,7 +280,7 @@
       "searchable": 0,
       "changeable": 0,
 	  "indexs": 0,
-	  "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
+      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
     },
 	{
       "key": "Wexokconfig",
@@ -290,7 +290,7 @@
       "searchable": 0,
       "changeable": 0,
 	  "indexs": 0,
-	  "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
+      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
     },
 	{
       "key": "Wexbiliys",
@@ -310,15 +310,15 @@
       "changeable": 1,
 	  "timeout":50,
 	  	  "style": {
-        "type": "liyst"
+        "type": "list"
         },
-        "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
+      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
     },
 	{
-      "key": "土豆",
-      "name": "💓土豆┃4K💓‍",
+      "key": "玩偶",
+      "name": "💓‍玩偶┃4K💓‍",
       "type": 3,
-      "api": "csp_Wextudou",
+      "api": "csp_Wogg",
       "searchable": 1,
       "changeable": 1,
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
@@ -368,12 +368,11 @@
       "changeable": 1,
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
     },	
-
-    {
-      "key": "賤賤",
-      "name": "📓賤片┃p2p📓",
+	{
+      "key": "Wexlabi",
+      "name": "💓蜡笔┃4K💓",
       "type": 3,
-      "api": "csp_WexJianpian",
+      "api": "csp_Wexlabi",
       "searchable": 1,
       "changeable": 1,
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
@@ -384,9 +383,17 @@
       "type": 3,
       "api": "csp_WexMingriys",
       "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Wex4Kav",
+      "name": "🎇急速┃秒播🎇",
+      "type": 3,
+      "api": "csp_Wex4Kav",
+      "searchable": 1,
       "changeable": 1,
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
-    },
+    },	
     {
       "key": "Wexbaipiao",
       "name": "🎇星星┃秒播🎇",
@@ -401,15 +408,6 @@
       "name": "🎇火火┃秒播🎇",
       "type": 3,
       "api": "csp_Wexsaohuo",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
-    },
-    {
-      "key": "Wexzxzj",
-      "name": "🎇外剧┃秒播🎇",
-      "type": 3,
-      "api": "csp_Wexzxzj",
       "searchable": 1,
       "changeable": 1,
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
@@ -511,7 +509,7 @@
     "成长逆袭",
     "反转爽剧"
    ],
-   "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
+      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
   },
   	{
    "key": "爱坤",
@@ -550,7 +548,7 @@
     "爽文短剧"
 
    ],
-   "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
+      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
   },
     {
       "key": "新6V",
@@ -575,24 +573,6 @@
       "name": "🌺扣扣┃4K🌺",
       "type": 3,
       "api": "csp_Wexkoukou",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
-    },
-    {
-      "key": "Wexwencai",
-      "name": "🌺文才┃秒播🌺",
-      "type": 3,
-      "api": "csp_Wexwencai",
-      "searchable": 1,
-      "changeable": 1,
-      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
-    },
-	{
-      "key": "Wexxpgtv",
-      "name": "🌺苹果┃秒播🌺",
-      "type": 3,
-      "api": "csp_Wexxpgtv",
       "searchable": 1,
       "changeable": 1,
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
@@ -634,7 +614,7 @@
 	  	  "style": {
         "type": "list"
         },
-        "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
+      "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
     },
 	
     {
@@ -684,15 +664,6 @@
         "type": "rect",
         "ratio": 2
         },
-        "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
-    },
-    {
-      "key": "Iktv",
-      "name": "🎤KTV┃音乐🎤",
-      "type": 3,
-      "api": "csp_WexIktv",
-      "searchable": 1,
-      "changeable": 0,
       "jar":"https://gitee.com/hushujiang/diyp/raw/master/wex.txt"
     },
 {"key":"荐片","name":"💡荐片┃影视","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api2.rinhome.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
