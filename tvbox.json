@@ -1403,5 +1403,5 @@
 		    "url": "./lib/zb.txt",
 		    "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
                     "logo": "https://live.fanmingming.com/tv/{name}.png"
-	    }
+	    }]
 }
