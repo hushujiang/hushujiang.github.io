@@ -1282,6 +1282,6 @@
 		    "type": 0,
 		    "url": "./zb.txt",
 		    "epg": "https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}",
-                    "logo": "https://live.fanmingming.com/tv/{name}.png"
+                    "logo": "https://hushujiang.github.io/tv/{name}.png"
 	    }]
 }
