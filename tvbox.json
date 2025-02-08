@@ -1342,6 +1342,6 @@
 		    "name": "live",
 		    "type": 0,
 		    "url": "./zb.txt",
-		    "epg": "https://epg.mxdyeah.top/api/diyp/?ch={name}&date={date}"
+		    "epg": "http://epg.diyp.site/epg.php?ch={name}&date={date}"
 	    }]
 }
