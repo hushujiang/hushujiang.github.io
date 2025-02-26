@@ -28,7 +28,7 @@
 {"key":"新6V","name":"🧲新6V┃磁力","type":3,"api":"csp_SixVGuard","searchable":1,"quickSearch":1,"changeable":0,"ext": "https://www.xb6v.com/","jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84Guard","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"Ysj","name":"🎀异界┃动漫","type":3,"api":"csp_YsjGuard","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
-	  "key":"Doubana",
+	  {"key":"Doubana",
 	  "name":"⬇️【网盘类先扫码】⬇️",
 	  "type": 3, 
 	  "api": "csp_DoubanGuard",
