@@ -1324,6 +1324,6 @@
 		    "type": 0,
 		    "url": "./zb.txt",
 		    "epg": "http://epg.diyp.site/epg.php?ch={name}&date={date}"
-	    }
+	    },
 {"name":"牛播一","type":0,"url":"http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}]
 }
