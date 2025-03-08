@@ -1187,7 +1187,7 @@
 		    "url": "./zb.txt",
 		    "epg": "http://epg.diyp.site/epg.php?ch={name}&date={date}"
 	    },
-{"name":"更新","type":0,"url":"https://cdn.jsdelivr.net/gh/hushujiang/TV@master/output/user_result.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}]
+{"name":"更新","type":0,"url":"https://cdn.jsdelivr.net/gh/hushujiang/TV@master/output/user_result.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}],
 
 //解码模式
 
