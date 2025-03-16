@@ -1,5 +1,5 @@
 {
-"spider":"./lib/O.jar",
+"spider":"https://i-681.wwentua.com:446/03161500228062276bb/2025/03/16/ffd5c681156d6ca6e9489177e94599f1.txt?st=XKRJT9S2S3maFi9ZixiEkw&e=1742112639&b=BTEOIFcjWCUHJg_c_c&fi=228062276&pid=47-99-111-81&up=2&mp=1&co=0",
 
 "sites":[
     {
@@ -10,21 +10,21 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    ,"jar":"./lib/fan.txt"},
-{"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"./lib/fan.txt"},
-{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.txt"},
-{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.txt"},
-{"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"./lib/fan.txt"},
-{"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.txt"},
-{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.txt"},
-{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.txt"},
-{"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/","jar":"./lib/fan.txt"},
-{"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK","jar":"./lib/fan.txt"},
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"./lib/fan.txt"},
-{"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU=","jar":"./lib/fan.txt"},
-{"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.txt"},
-{"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.txt"},
-{"key":"Auete","name":"🏝奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/","jar":"./lib/fan.txt"},
+    ,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzyvideo.com/","jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK","jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU=","jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"Auete","name":"🏝奥特┃无广","type": 3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.com/","jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
     {
       "key": "贱贱",
       "name": "🐭贱贱┃P2P",
@@ -34,7 +34,7 @@
       "changeable": 1,
       "playerType": "1",
       "api":"./lib/drpy2.min.js","ext":"./lib/jp.js"
-    ,"jar":"./lib/fan.txt"},
+    ,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
 
     {
       "key": "新6V",
@@ -45,7 +45,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
-    ,"jar":"./lib/fan.txt"},
+    ,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
     {
       "key": "短剧",
       "name": "🌈上头┃短剧",
@@ -54,7 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    ,"jar":"./lib/fan.txt"},
+    ,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
@@ -63,7 +63,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    ,"jar":"./lib/fan.txt"},
+    ,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
     {
       "key": "Ysj",
       "name": "🎀异界┃动漫",
@@ -72,7 +72,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    ,"jar":"./lib/fan.txt"},
+    ,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
     {
       "key": "Anime1",
       "name": "🐾日本┃动漫",
@@ -81,7 +81,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    ,"jar":"./lib/fan.txt"},
+    ,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
 {"key":"荐片","name":"💡荐片｜影视","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--v6g-mf3g9f.e.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
 {"key":"农民影视","name":"💡农民｜影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--v6g-mf3g9f.e.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
 {"key":"韩小圈","name":"💡韩小｜影视","type":3,"api":"csp_HanXiaoQuan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://xn--v6g-mf3g9f.e.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
@@ -141,9 +141,9 @@
         "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
-    ,"jar":"./lib/fan.txt"},
-{"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"./lib/fan.txt"},
-{"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"./lib/fan.txt"},
+    ,"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
+{"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://i-190.wwentua.com:446/03161500228062111bb/2025/03/16/b3b3d9211fc4f1f711b9a9d3129253a5.txt?st=rTim24XiZ35IYjRjkRQGZw&e=1742112789&b=UWUBYAhmWXJXdgUrUXU_c&fi=228062111&pid=47-99-111-81&up=2&mp=1&co=0"},
      {
       "key": "ssb影视",
       "name": "💖分享蓝光",
