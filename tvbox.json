@@ -2,6 +2,7 @@
 "spider":"https://gitee.com/hushujiang/diyp/raw/master/0.jar",
 
 "sites":[
+{"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
     {
       "key": "豆豆",
       "name": "🫘豆瓣热播",
@@ -204,7 +205,6 @@
       "ext": "./lib/百忙无果.js"
     },
 {"key": "dr_优酷2","name": "🔭优酷视频","type": 3,"api": "./lib/apiv387drpy2.min.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./lib/优酷.js"},
-{"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
     {
     "key":"csp_XBPQ_pingguo",
     "name":"🍏分享苹果",
