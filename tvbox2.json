@@ -11,7 +11,7 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "ext": "./lib/Jable.json",
+      "ext": "./lib/jable.js",
       "jar": "./lib/xbpq.jar"
     },
      { 
