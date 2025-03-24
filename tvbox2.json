@@ -3,6 +3,13 @@
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "sites": [
       {
+{
+	"key": "Jable",
+	"name": "Jable",
+	"type": 3,
+	"api": "csp_Jable",
+	"searchable": 1
+	},
       "key": "csp_SP360",
       "name": "🔞🈲91传媒",
       "type": 1,
