@@ -2,13 +2,18 @@
   "spider": "https://gitee.com/hushujiang/diyp/raw/master/custom_spider.jar;md5;9a8ad560e957f4016cf6553605039491",
   "wallpaper": "https://jianbian.chuqiuyu.tk",
   "sites": [
-      {
-	"key": "Jable",
-	"name": "Jable",
-	"type": 3,
-	"api": "csp_Jable",
-	"searchable": 1
-	},
+    {
+      "key": "csp_XBPQ_Jable",
+      "name": "Jable(XBPQ)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "style": {
+        "type": "rect",
+        "ratio": 1.485
+      },
+      "ext": "./lib/Jable.json",
+      "jar": "./lib/xbpq.jar"
+    },
      { 
       "key": "csp_SP360",
       "name": "🔞🈲91传媒",
