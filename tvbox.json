@@ -94,10 +94,6 @@
 
 //XBPQ    
 
-
-
-
-
 {"key":"656","name":"🧿梦想┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://www.kkys02.com/","分类url":"https://www.kkys02.com/{cateId}-{catePg}.html[https://www.kkys02.com/{cateId}-.html];;ak","分类":"豆瓣TOP250&2023最佳影片&毒舌电影&热映电影&热播剧集&热门综艺&Netflix电影&Netflix剧集&经典美剧&海外短画&爱情治愈&漫威宇宙&星爷系列&迪士尼&国产剧&台湾剧&韩国剧&欧美剧&香港剧&泰国剧&日本剧&动作片&喜剧片&科幻片&恐怖片&爱情片&剧情片&战争片&传记片&动画片&国产动漫&日本动漫&韩国动漫&欧美动漫&大陆综艺&香港综艺&台湾综艺&日本综艺&韩国综艺&欧美综艺&短剧","分类值":"topic/detail/1&topic/detail/460&topic/detail/3&topic/detail/12&topic/detail/15&topic/detail/456&show/1-NETFLIX----3&show/2-NETFLIX----3&topic/detail/399&topic/detail/384&topic/detail/383&topic/detail/33&topic/detail/26&topic/detail/34&show/2--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---3&show/2--%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE---3&show/2--%E9%9F%A9%E5%9B%BD---3&show/2--%E7%BE%8E%E5%9B%BD---3&show/2--%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF---3&show/2--%E6%B3%B0%E5%9B%BD---3&show/2--%E6%97%A5%E6%9C%AC---3&show/1-%E5%8A%A8%E4%BD%9C----3&show/1-%E5%96%9C%E5%89%A7----3&show/1-%E7%A7%91%E5%B9%BB----3&show/1-%E6%81%90%E6%80%96----3&show/1-%E7%88%B1%E6%83%85----3&show/1-%E5%89%A7%E6%83%85----3&show/1-%E6%88%98%E4%BA%89----3&show/1-%E4%BC%A0%E8%AE%B0----3&show/1-%E5%8A%A8%E7%94%BB----3&show/3--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---1&show/3--%E6%97%A5%E6%9C%AC---1&show/3--%E9%9F%A9%E5%9B%BD---1&show/3--%E7%BE%8E%E5%9B%BD---1&show/4--%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86---3&show/4--%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF---3&show/4--%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE---3&show/4--%E6%97%A5%E6%9C%AC---3&show/4--%E9%9F%A9%E5%9B%BD---3&show/4--%E7%BE%8E%E5%9B%BD---3&show/6-----1","数组":"module-item\">&&\"v-item-footer\">","图片":"https://61.147.93.252:15002+data-original=\"&&\"","标题":"title=\"&&\"","副标题":"影视</span&&</div>","链接":"href=\"&&\"","搜索二次截取":"id=\"units_top\"&&id=\"units_footer\"","搜索url":"https://www.kkys02.com/search?os=pc&k={wd}","搜索数组":"<a&&class=\"tags\"","搜索图片":"data-original=\"&&\"./lib/logo_placeholder_vertical.png","搜索标题":"title=\"&&\"","搜索副标题":"v-item-bottom\">&&</div>","搜索链接":"href=\"&&\"","线路数组":"可可影视提供&&<i[不包含:4K(高峰不卡)]","线路标题":">&&</span","播放数组":"episode-list\"&&</div","播放列表":"<a&&/a","播放标题":">&&<","播放链接":"href=\"&&\"","嗅探词":".m3u8#video_mp4#tos-#.mp4#cdn.123pan.cn#huoshanvod.com","影片年代":"class=\"detail-tags-item\">&&</a>","影片类型":"<divclass=\"detail-tagsfs-margin-topfs-margin-bottom\">&&立即播放","影片状态":"备注:&&</div>","导演":"导演:</div>&&</div>","主演":"演员:</div>&&</div>","简介":"detail-desc\">&&</p>"},"jar":"https://xn--v6g-mf3g9f.e.nxog.top/m/jar.php?id=ou&ou=公众号欧歌"},
 
 {"key":"8号影院","name":"🧿8号┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"搜索url":"http://www.soutiyi.com/search.php?searchword={wd}","搜索链接":"href=\"&&\"","简介":"请勿相信影片中的广告，以免上当受骗。+<pclass=\"col-pddetail\"&&</span>","线路数组":"<imgsrc=\"/statics/icon/icon_26.png\"&&</h3>","线路标题":"蓝光专线","分类url":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html","分类":"动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"},"jar":"https://xn--v6g-mf3g9f.e.nxog.top/m/jar.php?id=ou&ou=公众号欧歌"},
@@ -105,8 +101,6 @@
 {"key":"csp_红狐狸影视","name":"🧿狐狸┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4"},"jar":"https://xn--v6g-mf3g9f.e.nxog.top/m/jar.php?id=ou&ou=公众号欧歌"},
 
 {"key":"大师兄","name":"🧿大师┃影视","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电视剧$2#电影$1#动漫$4#综艺$3"},"jar":"https://xn--v6g-mf3g9f.e.nxog.top/m/jar.php?id=ou&ou=公众号欧歌"},
-
-
 
 //弹幕
 {"key":"厂长弹幕","name":"💘厂长｜弹幕","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://xn--v6g-mf3g9f.e.nxog.top/m/jar.php?id=ou&ou=公众号欧歌"},
@@ -133,6 +127,17 @@
         "danMu": "弹"
       }
     ,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
+{"key":"py_cctv_集合","name":"🇨🇳央视集合","type":3,"style":{"type":"rect","ratio":1.485},"api":"py_cctv","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/cctvpk.json"},
+        {
+      "key": "py_cctv",
+      "name": "🇨🇳央视大全",
+      "type": 3,
+      "api":"py_cctv",
+      "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+      "ext": "./lib/py_cctv.py"
+    },
 {"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSs","searchable":1,"quickSearch":1,"changeable":0,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://d.kstore.dev/download/5215/fan.txt"},
      {
