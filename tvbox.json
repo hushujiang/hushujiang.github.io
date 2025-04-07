@@ -73,6 +73,17 @@
       "changeable": 1
     ,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
         {
+            "key": "荐片",
+            "name": "💡荐片｜影视",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
+        },
+        {
             "key": "农民影视",
             "name": "💡农民｜影视",
             "type": 3,
