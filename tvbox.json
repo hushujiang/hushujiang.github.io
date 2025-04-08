@@ -1058,38 +1058,6 @@
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
-            "key": "荐片",
-            "name": "💡荐片｜影视",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
-            "key": "农民影视",
-            "name": "💡农民｜影视",
-            "type": 3,
-            "api": "csp_Wwys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.wwgz.cn"
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
-            "key": "韩小圈",
-            "name": "💡韩小｜影视",
-            "type": 3,
-            "api": "csp_HanXiaoQuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
             "key": "樱花影视",
             "name": "💡樱花｜影视",
             "type": 3,
@@ -1097,15 +1065,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
-            "key": "移动",
-            "name": "💡移动｜影视",
-            "type": 3,
-            "api": "csp_YDjisu",
-            "searchable": 1,
-            "changeable": 1
             ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
         },
         {
@@ -1126,24 +1085,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
-            "key": "雨滴",
-            "name": "💡雨滴｜影视",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOHwxMDA="
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
-            "key": "蝴蝶",
-            "name": "💡蝴蝶｜影视",
-            "type": 3,
-            "api": "csp_Hudie",
-            "playerType": 2,
-            "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
             ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
         },
         {
@@ -1199,16 +1140,6 @@
             ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
         },
         {
-            "key": "快看",
-            "name": "💡快看｜影视",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
             "key": "厂长",
             "name": "💡厂长｜资源",
             "type": 3,
@@ -1254,15 +1185,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "api": "csp_MovieApp"
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
-            "key": "木头",
-            "name": "💡木头｜影视",
-            "type": 3,
-            "api": "csp_Shark",
-            "playerType": 1,
-            "ext": "saHR0cDovL21pdG8ubWlub3R2LmNuL3xhYXNzZGR3d3h4bGxzeDF4fGJic3NxZGJic3NsbDI1c3g="
             ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
         },
         {
@@ -1317,16 +1239,6 @@
             "api": "csp_Xdai",
             "playerType": 2,
             "ext": "saHR0cDovL3d3dy56amMuYXBwfGFiNGU5YTQyMTY3NWYxNGJ8YWI0ZTlhNDIxNjc1ZjE0Ynw0NDI="
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
-        {
-            "key": "来看影视",
-            "name": "💡来看｜影视",
-            "type": 3,
-            "api": "csp_Lkdy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
             ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
         },
         {
