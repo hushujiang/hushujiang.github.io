@@ -74,6 +74,17 @@
             },
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
+    {
+      "key": "天天影视",
+      "name": "天天｜弹幕",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
+    },
         {
             "key": "浪酷弹幕",
             "name": "浪酷｜弹幕",
