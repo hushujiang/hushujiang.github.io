@@ -90,19 +90,6 @@
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
             },
         {
-            "key": "文才弹幕",
-            "name": "文才｜弹幕",
-            "type": 3,
-            "api": "csp_Jpys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
             "key": "哔哩弹幕",
             "name": "哔哩｜弹幕",
             "type": 3,
