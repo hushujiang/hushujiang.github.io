@@ -1127,15 +1127,7 @@
             ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
         },
         {
-            "key": "低端",
-            "name": "💡低端｜影视",
-            "type": 3,
-            "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
-        },
+//"key": "低端","name": "💡低端｜影视","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
         {
             "key": "厂长",
             "name": "💡厂长｜资源",
