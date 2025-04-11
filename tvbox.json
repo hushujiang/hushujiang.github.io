@@ -1,7 +1,15 @@
 {
-"spider":"https://gitee.com/hushujiang/diyp/raw/master/0.jar",
+spider":"https://gitee.com/hushujiang/diyp/raw/master/0.jar",
 "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-"sites":[
+"lives":[
+
+{"name": "直播",
+		    "type": 0,
+		    "url": "./zb.txt",
+		    "epg": "http://epg.diyp.site/epg.php?ch={name}&date={date}"
+	    },
+{"name":"更新","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/hushujiang/TV/refs/heads/master/output/user_result.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}],
+"sites": [
 {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"https://d.kstore.dev/download/5215/fan.txt"},
@@ -1784,13 +1792,18 @@
  "searchable":1,
  "quickSearch":1,
  "filterable":1,
- "ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/磁力搜索.json"
- }],
+ "ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/磁力搜索.json"}
 
-//解析接口
+],
 
-"parses":[
+"parses":
+[
 {"name":"-聚合-","type":3,"url":"Demo"},
+{"name":"欧歌解析","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
+{"name":"-关注-","type":1,"url":"https://2.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=1&url="},
+{"name":"-欧歌-","type":1,"url":"https://3.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=2&url="},
+{"name":"-公众号-","type":1,"url":"https://2.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=3&url="},
+{"name":"欧歌APP","type":1,"url":"https://3.nxog.eu.org/jx.php?ou=公众号欧歌APP&mz=4&url="},
 {"name":"线路1","type":"1","url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=0&url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}},
 {"name":"线路2","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=1&url="},
 {"name":"线路3","type":1,"url":"https://欧歌解析.v.nxog.top/m/jx.php?ou=公众号欧歌APP&mz=2&url="},
@@ -1809,16 +1822,17 @@
 {"name":"线路16","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name": "8090","type": 0,"url": "https://www.8090g.cn/jiexi/?url=","ext": {"header": {"User-Agent": "Mozilla/5.0"}}},
 {"name": "夜幕","type": 0,"url": "https://www.yemu.xyz/?url=","showType": 3},
-{"name": "分享官解2","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="}],
-	
-"lives":[
-{
-		    "name": "直播",
-		    "type": 0,
-		    "url": "./zb.txt",
-		    "epg": "http://epg.diyp.site/epg.php?ch={name}&date={date}"
-	    },
-{"name":"更新","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/hushujiang/TV/refs/heads/master/output/user_result.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.v1.mk/logo/{name}.png"}],
+{"name": "分享官解2","type": 1,"url": "http://119.91.123.253:2345/Api/yun.php?url="}
+],
+
+"hosts": [
+        "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.bestlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.wasulive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.fifalive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
+        "cache.ott.hnbblive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+    ],
+
 "flags":
 	["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 "rules":[
