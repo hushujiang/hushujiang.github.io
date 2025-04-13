@@ -366,15 +366,7 @@
             "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY=",
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
-        {
-            "key": "移动",
-            "name": "移动｜APP",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1,
-            "jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
+{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
         {
             "key": "小米尘落",
             "name": "尘落｜APP",
