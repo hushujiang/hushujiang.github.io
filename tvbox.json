@@ -1,14 +1,10 @@
-
-
-
 {
 "wallpaper":"https://xn--w3u-mf3g9f.e.nxog.top/m//t/",
 "logo":"https://alicliimg.clewm.net/342/790/68790342/17369906896774bd3d1d8ba1877dea5d967a137aa23d91736990672.gif",
 "spider":"https://gitee.com/hushujiang/diyp/raw/master/0.jar",
 "lives":[
-
 {"name":"直播","type":0,"url":"./zb.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
-{"name":"胖羊直播","type":3,"api":"csp_Feiyang","url":"https://xn--w3u-mf3g9f.e.nxog.top/m//tv/胖羊.php","timeout":10,"ua":"okhttp/3.15","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
+{"name":"胖羊直播","type":3,"api":"csp_Feiyang","url":"https://xn--w3u-mf3g9f.e.nxog.top/m//tv/胖羊.php","timeout":10,"ua":"okhttp/3.15","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"name":"更新","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/hushujiang/TV/refs/heads/master/output/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10}
 ],
 "sites": [
