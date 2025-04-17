@@ -2,7 +2,7 @@
 "wallpaper":"https://xn--w3u-mf3g9f.e.nxog.top/m//t/",
 "spider":"https://gitee.com/hushujiang/diyp/raw/master/0.jar",
 "lives":[
-{"name":"直播","type":0,"url":"./zb.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10}
+{"name":"直播","type":0,"url":"./zb.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10}}
 ],
 "sites": [
 {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
