@@ -3,10 +3,7 @@
 "spider":"https://gitee.com/hushujiang/diyp/raw/master/0.jar",
 "lives":[
 
-{"name":"【公众号欧歌APP网络收集】请勿演示贩卖,即将关闭w3u","type":0,"url":"https://xn--w3u-mf3g9f.e.nxog.top/m//tv/","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
-{"name":"胖羊直播","type":3,"api":"csp_Feiyang","url":"https://xn--w3u-mf3g9f.e.nxog.top/m//tv/胖羊.php","timeout":10,"ua":"okhttp/3.15","catchup":{"type":"append","source":"?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"}},
-{"name":"AI直播","type":0,"url":"./lib/user_result.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10},
-{"name": "Live直播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&u=Gather","playerType": 2,"timeout": 10}
+{"name":"直播","type":0,"url":"./zb.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10}
 ],
 "sites": [
 {"key":"mtv_pc_快看影视","name":"🚴‍♀️快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
