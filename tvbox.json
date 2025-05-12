@@ -106,6 +106,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.czzymovie.com/"
+            ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider1.jar"
         },
                 {
             "key": "低端影视",
