@@ -5,10 +5,9 @@
 {"name":"直播","type":0,"url":"./zb.txt","epg":"http://cdn.1678520.xyz/epg/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":2,"timeout":10}],
 "sites": [
 //jar
-{"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+{"key":"快看影视","name":"💡快看｜影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"低端","name":"💡低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
-{"key":"快看影视","name":"💡快看｜影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"来看影视","name":"💡来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"私人影视","name":"💡私人｜影视","type":3,"api":"csp_Siren","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"苹果影视","name":"💡苹果｜影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
@@ -1396,6 +1395,7 @@
 {"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/高中课堂.json"},
+//{"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
  {
  "key":"csp_xpath_clss",
  "name":"🧲磁搜搜索",
