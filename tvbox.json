@@ -987,19 +987,7 @@
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/动漫巴士.js"
         },
-        {
-            "key": "荐片",
-            "name": "荐片｜磁力",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
+//        {"key": "荐片","name": "荐片｜磁力","type": 3,"api": "csp_Jianpian","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 1,"ext": {"danmu": true}},
         {
             "key": "修罗影视",
             "name": "修罗｜磁力",
