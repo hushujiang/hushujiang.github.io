@@ -1340,7 +1340,7 @@
 {"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/高中课堂.json"},
-//{"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+{"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
  {
  "key":"csp_xpath_clss",
  "name":"🧲磁搜搜索",
