@@ -20,7 +20,11 @@
 {"key":"QD4K","name":"💡蝴蝴｜影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://172.83.156.150:1010/api.php/app/","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"全网影视","name":"💡全看｜影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"绝对影视","name":"💡绝对｜影视","type":3,"api":"csp_FourK","ext":"https://www.4kvm.tv","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+{"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+{"key":"天天影视","name":"💡天天｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+{"key":"浪酷影视","name":"💡浪酷｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"菲儿影视","name":"💡菲儿｜影视","type":3,"api":"csp_AppFerr","ext":{"url":"https://appcms.freehd.vip","dataKey":"be5348dfb0c3c283","dataIv":"5f5449dd14313217"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+
 {"key":"二三","name":"💡二三｜影视","type":3,"quickSearch":1,"api":"csp_AppMuou","ext":{"url":"http://cs4.123ysw.com","dataKey":"d3238930e3ae0724","dataIv":"d3238930e3ae0724","jxurl":"https://123ysw.com"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 //{"key":"雨滴","name":"💡雨滴｜影视","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"","version":"100"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"光速","name":"💡光速｜影视","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://59.153.167.137:8899","dataKey":"4d83b87c4c5ea111","dataIv":"4d83b87c4c5ea111","deviceId":"","version":"462"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
@@ -190,29 +194,6 @@
       "quickSearch": 1,
       "changeable": 1
     ,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
-                {
-            "key": "热播弹幕",
-            "name": "热播｜弹幕",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true,
-                "site": "aHR0cDovL3YucmJvdHYuY24="
-            }
-        },
-    {
-      "key": "天天影视",
-      "name": "天天｜弹幕",
-      "type": 3,
-      "api": "csp_AppRJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK"
-    },
         {
             "key": "浪酷弹幕",
             "name": "浪酷｜弹幕",
