@@ -181,15 +181,6 @@
       "quickSearch": 1,
       "changeable": 1
     ,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
-    {
-      "key": "Anime1",
-      "name": "🐾日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    ,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
         {
             "key": "热播弹幕",
             "name": "热播｜弹幕",
@@ -430,8 +421,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
-        },
-{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+        }
         {
             "key": "小米尘落",
             "name": "尘落｜APP",
