@@ -2,7 +2,7 @@
 "wallpaper":"https://xn--w3u-mf3g9f.e.nxog.top/m//t/",
 "spider":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar",
 "lives":[
-{"name":"直播","type":0,"url":"./zb.txt","epg":"https://iptv.crestekk.cn/epgphp/index.php/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":1,"timeout":10}],
+{"name":"直播","type":0,"url":"./zb.txt","epg":"https://epg.crestekk.cn/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":1,"timeout":10}],
 "sites": [
 //jar
 {"key": "快看影视","name": "快看｜影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
