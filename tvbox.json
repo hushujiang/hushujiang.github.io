@@ -5,8 +5,7 @@
 {"name":"直播","type":0,"url":"./zb.txt","epg":"https://epg.crestekk.cn/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":1,"timeout":10}],
 "sites": [
 //jar
-{"key": "快看影视","name": "快看｜影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-//{"key":"快看影视","name":"💡快看｜影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+{"key":"快看影视","name":"💡快看｜影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"低端","name":"💡低端｜影视","type":3,"api":"csp_Ddys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 //{"key":"来看影视","name":"💡来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
