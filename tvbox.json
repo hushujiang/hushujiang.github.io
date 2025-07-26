@@ -1598,20 +1598,15 @@
                 "ratio": 1.597
             }
         },
-{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"changeable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"低端","name":"💡低端｜影视","type":3,"api":"csp_Ddys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"来看影视","name":"💡来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"苹果影视","name":"💡苹果｜影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"糯米影视","name":"💡糯米┃影视","type":3,"api":"csp_Wwys","ext":"https://www.wwgz.cn","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 //{"key":"爱看机器人","name":"💡爱看｜影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
-{"key":"全网影视","name":"💡全看｜影视","type":3,"api":"csp_Quanwk","ext":"https://www.91qkw.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
-{"key":"绝对影视","name":"💡绝对｜影视","type":3,"api":"csp_FourK","ext":"https://www.4kvm.tv","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
-//{"key":"雨滴","name":"💡雨滴｜影视","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"","version":"100"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"光速","name":"💡光速｜影视","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://59.153.167.137:8899","dataKey":"4d83b87c4c5ea111","dataIv":"4d83b87c4c5ea111","deviceId":"","version":"462"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"格格","name":"💡格格｜影视","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://111.180.198.40:1110","dataKey":"asgcxhjkts124573","dataIv":"asgcxhjkts124573","deviceId":"","version":"119"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"在看","name":"💡在看｜影视","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://149.88.64.161:9525","dataKey":"123456789ABCDEFG","dataIv":"123456789ABCDEFG","deviceId":"","version":""},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"星河","name":"💡星河｜影视","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://121.62.22.204:9876","dataKey":"f5e2tx53ykp6s2c9","dataIv":"f5e2tx53ykp6s2c9","deviceId":"","version":"361"},"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
-{"key":"三六零","name":"💡三六零｜视频","type":3,"api":"csp_SP360","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},  
 {"key":"1905","name":"💡1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 //{"key":"瓜子影视","name":"💡瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key": "奇优","name": "💡奇优｜影视","type": 3,"api": "csp_Qiyou","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.dyxz2.com/","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
@@ -1620,7 +1615,6 @@
 //磁力
 //{"key":"New6v","name":"🎃New6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"剧迷","name":"🎃剧迷┃磁力","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
-{"key":"天堂","name":"🎃美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
         {
             "key": "58动漫网",
             "name": "🤣之家┃动漫",
@@ -1668,7 +1662,6 @@
             "ext": "KhY021WelCEl+6MsvwnzaPussky/EAoc9z7C4keyHaEQ+sKbXhMKd83VjTL7Ls6+m7XDIcGdziOxPv79y/h4QCvmOEJmZ1VD6dopzAVxkFzEFw=="
             ,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"
         },
-{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
@@ -1959,7 +1952,6 @@
 "剧情片","战争片"],"jar":"https://gitee.com/hushujiang/diyp/raw/master/0.jar"},
 {"key":"极速","name":"️✈️极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1,"filterable":1,"categories":["内地剧","欧美剧","日剧","韩剧","台湾剧","香港剧","马泰剧","悬疑片","喜剧片","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","犯罪片","记录片","动画片","日本动漫","欧美动漫","中国动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","体育赛事"],"jar":"https://gitee.com/hushujiang/diyp/raw/master/0.jar"},
 {"key":"csp_QQ1","name":"🐧腾讯官源","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/0.jar"},
-{"key":"爱奇艺","name":"🥝奇艺官源","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/0.jar"},
 {"key":"csp_MGTV","name":"🥭芒果官源","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/0.jar"},
 {"key":"祥祥资源","name":"🫕祥子采集","type":1,"api":"http://141.147.146.105/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/0.jar"},
 {"key":"四圈资源","name":"⭕️四个圈圈","type":1,"api":"https://pg.fenwe078.cf/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":[],"jar":"https://gitee.com/hushujiang/diyp/raw/master/0.jar"},
@@ -2006,7 +1998,7 @@
 {"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/高中课堂.json"},
-{"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
+//{"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
  {
  "key":"csp_xpath_clss",
  "name":"🧲磁搜搜索",
