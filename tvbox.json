@@ -42,18 +42,6 @@
             }
         },
         {
-            "key": "追忆",
-            "name": "追忆｜APP",
-            "type": 3,
-            "api": "csp_AppSy",
-            "ext": {
-                "url": "http://110.42.7.130:1866",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "2083c87e98b6ce08",
-                "key3": "2083c87e98b6ce08"
-            }
-        },
-        {
             "key": "行动",
             "name": "行动｜APP",
             "type": 3,
@@ -63,22 +51,6 @@
                 "key1": "aassddwwxxllsx1x",
                 "key2": "aassddwwxxllsx1x",
                 "key3": "aassddwwxxllsx1x"
-            }
-        },
-        {
-            "key": "咖啡",
-            "name": "咖啡｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://omofun.lol/1.txt",
-                "dataKey": "skdhalkshqklwkj1",
-                "dataIv": "skdhalkshqklwkj1",
-                "deviceId": "",
-                "version": "109",
-                "ua": "okhttp/3.10.0"
             }
         },
         {
