@@ -42,19 +42,6 @@
             }
         },
         {
-            "key": "星河",
-            "name": "星河｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppSy",
-            "ext": {
-                "url": "http://192.140.161.171:2563",
-                "key1": "aassddwwxxllsx1x",
-                "key2": "aassddwwxxllsx1x",
-                "key3": "aassddwwxxllsx1x"
-            }
-        },
-        {
             "key": "追忆",
             "name": "追忆｜APP",
             "type": 3,
@@ -1705,7 +1692,7 @@
 {"key":"Lib","name": "🌟立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"},"jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/","jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
-{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"https://d.kstore.dev/download/5215/fan.txt"},
+//{"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU=","jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU=","jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://d.kstore.dev/download/5215/fan.txt"},
