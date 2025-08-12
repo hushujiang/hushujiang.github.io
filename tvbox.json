@@ -5,28 +5,6 @@
 {"name":"直播","type":0,"url":"./zb.txt","epg":"https://epg.crestekk.cn/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":1,"timeout":10}],
 "sites": [
 //jar
-{"key": "csp_woogkk","name":"🐲夸快┃非会员4K","type":3,"changeable":"0","api":"csp_woog","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.nxog.fun"],"url_key":"UC","threadinfo":{"chunksize":289,"threads":60}}},
-
-{"key":"csp_欧歌123","name":"🐲夸快┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf;md5;67571a165ff0861ddf17e517d9c329c0"},
-
-{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og;md5;1d1c6d2fcf3b22dc69a0ca30134bd184","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.nxog.fun"],"url_key":"woog","threadinfo":{"chunksize":442,"threads":16}}},
-
-{"key":"csp_woog2","name":"❤欧歌｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og2;md5;4bb05945b726cf06209fb3b562f6aa83 ","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.nxog.fun"],"url_key":"woog2","threadinfo":{"chunksize":208,"threads":16}}},
-
-{"key": "config", "name": "🐲配置｜中心","type": 3,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf2;md5;a842e69c0159c0a51366e873365e71f9 ","api": "csp_Config","searchable": 0},
-
-{"key":"配置中心",
-            "name": "配置｜中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
         {
             "key": "热播影视",
             "name": "热播｜APP",
@@ -515,304 +493,6 @@
             "name": "三六零｜视频",
             "type": 3,
             "api": "csp_SP360"
-        },
-        {
-            "key": "小斑快映",
-            "name": "快映｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/xbky.json"
-        },
-        {
-            "key": "玩偶哥哥",
-            "name": "玩偶｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/wogg.json"
-        },
-        {
-            "key": "木偶",
-            "name": "木偶｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/mogg.json"
-        },
-        {
-            "key": "蜡笔",
-            "name": "蜡笔｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/lb.json"
-        },
-        {
-            "key": "至臻",
-            "name": "至臻｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/zz.json"
-        },
-        {
-            "key": "多多",
-            "name": "多多｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/yyds.json"
-        },
-        {
-            "key": "欧哥",
-            "name": "欧哥｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/og.json"
-        },
-        {
-            "key": "二小",
-            "name": "二小｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/ex.json"
-        },
-        {
-            "key": "虎斑",
-            "name": "虎斑｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/hb.json"
-        },
-        {
-            "key": "闪电",
-            "name": "闪电｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/sd.json"
-        },
-        {
-            "key": "百家",
-            "name": "百家｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/bj.json"
-        },
-        {
-            "key": "团长",
-            "name": "团长｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebTz",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "雷鲸",
-            "name": "雷鲸｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloudLJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./lib/lj.json"
-        },
-        {
-            "key": "海绵",
-            "name": "海绵｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloudHM",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./lib/hm.json"
-        },
-        {
-            "key": "夸父",
-            "name": "夸父｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloudKF",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./lib/kf.json"
-        },
-        {
-            "key": "123",
-            "name": "123｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShareCloud123",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": "./lib/123.json"
-        },
-        {
-            "key": "趣盘",
-            "name": "趣盘｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebQu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            },
-            "ext": {
-                "url": "https://www.qupanshe.com"
-            }
-        },
-        {
-            "key": "盘库",
-            "name": "盘库｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebKuBa",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://panku8.com,https://yipanso.com"
-            }
-        },
-        {
-            "key": "双星",
-            "name": "双星｜4K弹幕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/SX.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "校长",
-            "name": "校长｜4K弹幕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/XZ.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "天堂",
-            "name": "天堂｜4K弹幕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/TT.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "人人电影网",
-            "name": "人人｜4K弹幕",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./lib/RRDYW.js",
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "糖果",
-            "name": "糖果｜搜索",
-            "type": 3,
-            "api": "csp_TGSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "音海",
-            "name": "音海｜搜索",
-            "type": 3,
-            "api": "csp_YinHai",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "盘搜",
-            "name": "盘搜｜搜索",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "百酷",
-            "name": "百酷｜搜索",
-            "type": 3,
-            "api": "csp_Baiku"
-        },
-        {
-            "key": "米搜",
-            "name": "米搜｜搜索",
-            "type": 3,
-            "api": "csp_MiSou"
         },
         {
             "key": "短剧大全",
@@ -1638,6 +1318,327 @@
                 "type": "rect",
                 "ratio": 1.597
             }
+        },
+{"key": "csp_woogkk","name":"🐲夸快┃非会员4K","type":3,"changeable":"0","api":"csp_woog","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=a3;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.nxog.fun"],"url_key":"UC","threadinfo":{"chunksize":289,"threads":60}}},
+
+{"key":"csp_欧歌123","name":"🐲夸快┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf;md5;67571a165ff0861ddf17e517d9c329c0"},
+
+{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og;md5;1d1c6d2fcf3b22dc69a0ca30134bd184","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.nxog.fun"],"url_key":"woog","threadinfo":{"chunksize":442,"threads":16}}},
+
+{"key":"csp_woog2","name":"❤欧歌｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og2;md5;4bb05945b726cf06209fb3b562f6aa83 ","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.nxog.fun"],"url_key":"woog2","threadinfo":{"chunksize":208,"threads":16}}},
+
+{"key": "config", "name": "🐲配置｜中心","type": 3,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf2;md5;a842e69c0159c0a51366e873365e71f9 ","api": "csp_Config","searchable": 0},
+
+{"key":"配置中心",
+            "name": "配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+
+        {
+            "key": "小斑快映",
+            "name": "快映｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/xbky.json"
+        },
+        {
+            "key": "玩偶哥哥",
+            "name": "玩偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/wogg.json"
+        },
+        {
+            "key": "木偶",
+            "name": "木偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/mogg.json"
+        },
+        {
+            "key": "蜡笔",
+            "name": "蜡笔｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/lb.json"
+        },
+        {
+            "key": "至臻",
+            "name": "至臻｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/zz.json"
+        },
+        {
+            "key": "多多",
+            "name": "多多｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/yyds.json"
+        },
+        {
+            "key": "欧哥",
+            "name": "欧哥｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/og.json"
+        },
+        {
+            "key": "二小",
+            "name": "二小｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/ex.json"
+        },
+        {
+            "key": "虎斑",
+            "name": "虎斑｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/hb.json"
+        },
+        {
+            "key": "闪电",
+            "name": "闪电｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./lib/sd.json"
+        },
+        {
+            "key": "百家",
+            "name": "百家｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/cloud/json/bj.json"
+        },
+        {
+            "key": "团长",
+            "name": "团长｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebTz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "雷鲸",
+            "name": "雷鲸｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudLJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./lib/lj.json"
+        },
+        {
+            "key": "海绵",
+            "name": "海绵｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudHM",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./lib/hm.json"
+        },
+        {
+            "key": "夸父",
+            "name": "夸父｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKF",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./lib/kf.json"
+        },
+        {
+            "key": "123",
+            "name": "123｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebShareCloud123",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": "./lib/123.json"
+        },
+        {
+            "key": "趣盘",
+            "name": "趣盘｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebQu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "list",
+                "ratio": 1.433
+            },
+            "ext": {
+                "url": "https://www.qupanshe.com"
+            }
+        },
+        {
+            "key": "盘库",
+            "name": "盘库｜4K弹幕",
+            "type": 3,
+            "api": "csp_PanWebKuBa",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://panku8.com,https://yipanso.com"
+            }
+        },
+        {
+            "key": "双星",
+            "name": "双星｜4K弹幕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/SX.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "校长",
+            "name": "校长｜4K弹幕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/XZ.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "天堂",
+            "name": "天堂｜4K弹幕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/TT.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "人人电影网",
+            "name": "人人｜4K弹幕",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/RRDYW.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "糖果",
+            "name": "糖果｜搜索",
+            "type": 3,
+            "api": "csp_TGSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "音海",
+            "name": "音海｜搜索",
+            "type": 3,
+            "api": "csp_YinHai",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "盘搜",
+            "name": "盘搜｜搜索",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "百酷",
+            "name": "百酷｜搜索",
+            "type": 3,
+            "api": "csp_Baiku"
+        },
+        {
+            "key": "米搜",
+            "name": "米搜｜搜索",
+            "type": 3,
+            "api": "csp_MiSou"
         },
 {"key":"低端","name":"💡低端｜影视","type":3,"api":"csp_Ddys","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
 {"key":"来看影视","name":"💡来看｜影视","type":3,"api":"csp_Lkdy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar.php"},
