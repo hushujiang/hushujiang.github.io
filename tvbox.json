@@ -5,31 +5,6 @@
 {"name":"直播","type":0,"url":"./zb.txt","epg":"https://epg.crestekk.cn/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png","playerType":1,"timeout":10}],
     "sites": [
         {
-            "key": "
-
-csp_woogkk","name":"🐲夸快┃非会员4K","type":3,"changeable":"0","api":"csp_woog","filterable":1,"jar":"./lib/jar.php;md5;468e5883e1e500c3003b24ee8b6d0dcd","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.nxog.fun"],"url_key":"UC","threadinfo":{"chunksize":214,"threads":60}}},
-
-{"key":"csp_欧歌123","name":"🐲夸快┃配置","type":3,"api":"csp_Config","searchable":0,"quickSearch": 0,"filterable": 1,"jar":"./lib/jar.php;md5;67571a165ff0861ddf17e517d9c329c0"},
-
-{"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"./lib/jar.php;md5;d4be9b4c1fc2a46911fb45726b8f109a","ext":{"site_urls":["https://woog.nxog.eu.org","https://woog.nxog.fun"],"url_key":"woog","threadinfo":{"chunksize":357,"threads":16}}},
-
-{"key":"csp_woog2","name":"❤欧歌｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"./lib/jar.php2;md5;faff0adc799face065ec66a0ee01761e ","ext":{"site_urls":["https://ogkk.nxog.eu.org","https://ogkk.nxog.fun"],"url_key":"woog2","threadinfo":{"chunksize":227,"threads":16}}},
-
-{"key": "config", "name": "🐲配置｜中心","type": 3,"jar":"./lib/jar.php2;md5;b961fa9359288f2a744090b6715683c0 ","api": "csp_Config","searchable": 0},
-
-{"key":"配置中心",
-            "name": "配置｜中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-        {
             "key": "热播影视",
             "name": "热播｜APP",
             "type": 3,
