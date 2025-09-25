@@ -2178,7 +2178,7 @@
       "name": "live",
       "url": "./zb.txt",
       "type": 0,
-      "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://live.fanmingming.cn/tv/{name}.png"}],
+      "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"./tv/{name}.png"}],
 
 //解码模式
 
@@ -2202,6 +2202,7 @@
 "s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
 "z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
         
+
 
 
 
