@@ -1549,5 +1549,5 @@
       "name": "live",
       "url": "./zb.txt",
       "type": 0,
-      "ua":"okhttp/3.12.13","epg":"http://epg.51zmt.top:8000/e.xml?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}]
+      "ua":"okhttp/3.12.13","epg":"https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}]
 }
