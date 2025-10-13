@@ -120,7 +120,7 @@
                 "deviceId": "",
                 "version": "",
                 "ua": ""
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
+            },"jar":"https://www.lequxiang.com.cn/down.php/942e347c4c48a2e21ca0c303d07894ba.txt"
         },
         {
             "key": "咖啡",
@@ -1547,4 +1547,5 @@
       "type": 0,
       "ua":"okhttp/3.12.13","epg":"https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}]
 }
+
 
