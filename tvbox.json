@@ -338,6 +338,30 @@
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitee.com/hushujiang/diyp/raw/master/lib/高中课堂.json"},
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"playerType":1,"ext":"http://api2.rinhome.com"},
         {
+            "key": "热播影视",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "浪酷影视",
+            "name": "浪酷｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.lkuys.cn"
+            }
+        },
+    	{
             "key": "加菲",
             "name": "加菲丨APP",
             "type": 3,
@@ -1547,5 +1571,6 @@
       "type": 0,
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}]
 }
+
 
 
