@@ -594,17 +594,6 @@
             },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
-            "key": "移动",
-            "name": "移动｜APP",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1,
-            "style": {
-                "type": "list"
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
@@ -631,12 +620,6 @@
             "type": 3,
             "api": "./lib/apiv1557drpy2.min.js",
             "ext": "./lib/AQY.js","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "三六零",
-            "name": "三六零｜视频",
-            "type": 3,
-            "api": "csp_SP360","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
             "key": "小斑快映",
@@ -845,33 +828,11 @@
             ],"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
-            "key": "金牌影视",
-            "name": "金牌｜影视",
-            "type": 3,
-            "api": "csp_Jpys",
-            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
             "key": "云播影视",
             "name": "云播｜影视",
             "type": 3,
             "api": "csp_Tvyb",
             "ext": "http://www.viptv01.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "奇优影视",
-            "name": "奇优｜影视",
-            "type": 3,
-            "api": "csp_Qiyou","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "苹果影视",
-            "name": "苹果｜影视",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
             "key": "全网影视",
@@ -891,39 +852,6 @@
             "name": "低端｜影视",
             "type": 3,
             "api": "csp_Ddys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "瓜子影视",
-            "name": "瓜子｜影视",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "骚火影视",
-            "name": "骚火｜影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "playerType": 2,
-            "ext": "https://shdy5.us","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "农民影视",
-            "name": "农民｜影视",
-            "type": 3,
-            "api": "csp_Wwys",
-            "ext": "https://www.wwgz.cn","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "爱看机器人",
-            "name": "爱看｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
@@ -1172,16 +1100,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "New6v",
-            "name": "New6V｜磁力",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.xb6v.com","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
             "key": "美剧迷",
@@ -1572,6 +1490,3 @@
       "type": 0,
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}]
 }
-
-
-
