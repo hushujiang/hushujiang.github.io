@@ -413,22 +413,6 @@
             },"jar":"https://www.lequxiang.com.cn/down.php/942e347c4c48a2e21ca0c303d07894ba.txt"
         },
         {
-            "key": "咖啡",
-            "name": "咖啡丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "",
-                "site": "./lib/mqxh.txt",
-                "dataKey": "37kj83zs1q16jk6t",
-                "dataIv": "37kj83zs1q16jk6t",
-                "deviceId": "",
-                "version": "101",
-                "ua": ""
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
             "key": "哔滴",
             "name": "哔滴丨APP",
             "type": 3,
@@ -442,36 +426,6 @@
                 "deviceId": "",
                 "version": "120",
                 "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "若雪",
-            "name": "若雪丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "https://appcms.rx4k.top",
-                "site": "",
-                "dataKey": "ZX10ysTYZWtIJCTU",
-                "dataIv": "ZX10ysTYZWtIJCTU",
-                "deviceId": "",
-                "version": "120"
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "蓝鹰",
-            "name": "蓝鹰｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "",
-                "site": "./lib/lanyingxmy.txt",
-                "dataKey": "ca94b06ca359d80e",
-                "dataIv": "ca94b06ca359d80e",
-                "deviceId": "",
-                "version": "120"
             },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
@@ -519,21 +473,6 @@
             },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
-            "key": "莱米",
-            "name": "莱米｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "./lib/laimi.txt",
-                "dataKey": "ce032244d093b3e2",
-                "dataIv": "ce032244d093b3e2",
-                "deviceId": "",
-                "version": ""
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
             "key": "灵虎",
             "name": "灵虎｜APP",
             "type": 3,
@@ -561,34 +500,6 @@
                 "dataIv": "2SWSPFxugBLPPOKo",
                 "deviceId": "",
                 "version": "120"
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "丫丫",
-            "name": "丫丫｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://tv.yy-fun.cc",
-                "dataKey": "qkxnwkfjwpcnwycl",
-                "dataIv": "qkxnwkfjwpcnwycl",
-                "deviceId": "",
-                "version": ""
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "萝卜",
-            "name": "萝卜｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://apiapplbys.lbys.app:5678",
-                "dataKey": "apiapplbyskey168",
-                "dataIv": "apiapplbyskey168",
-                "deviceId": "",
-                "version": "107"
             },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
@@ -668,27 +579,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./lib/wogg.json","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "木偶",
-            "name": "木偶｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./lib/mogg.json","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "多多",
-            "name": "多多｜4K弹幕",
-            "type": 3,
-            "api": "csp_PanWebShare",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/yyds.json","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
             "key": "欧哥",
@@ -779,24 +669,6 @@
             "style": {
                 "type": "list"
             },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "糖果",
-            "name": "糖果｜搜索",
-            "type": 3,
-            "api": "csp_TGSou",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "音海",
-            "name": "音海｜搜索",
-            "type": 3,
-            "api": "csp_YinHai",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
             "key": "盘搜",
@@ -986,63 +858,6 @@
             "ext": "./lib/Anime1.js","jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
-            "key": "曼波动漫",
-            "name": "曼波｜动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://app.omofun1.top",
-                "dataKey": "66dc309cbeeca454",
-                "dataIv": "66dc309cbeeca454",
-                "deviceId": "",
-                "version": ""
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "咕咕动漫",
-            "name": "咕咕｜动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.gugu3.com",
-                "dataKey": "nKfZ8KX6JTNWRzTD",
-                "dataIv": "nKfZ8KX6JTNWRzTD",
-                "deviceId": "",
-                "version": ""
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "多多动漫",
-            "name": "多多｜动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "./lib/13211.txt",
-                "dataKey": "qqqqqqqqqqqqqqqq",
-                "dataIv": "qqqqqqqqqqqqqqqq",
-                "deviceId": "",
-                "version": ""
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "派对动漫",
-            "name": "派对｜动漫",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://qjappcms.acg.party",
-                "dataKey": "AmtMYFCJDPoTlK7z",
-                "dataIv": "AmtMYFCJDPoTlK7z",
-                "deviceId": "",
-                "version": ""
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
             "key": "米饭",
             "name": "米饭｜动漫",
             "type": 3,
@@ -1117,16 +932,6 @@
             "ext": {
                 "url": "https://www.pkmp4.xyz,https://www.qwnull.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qnmp4.com,https://www.qnnull.com,https://www.qnhot.com"
             },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
-        {
-            "key": "80S",
-            "name": "80S｜磁力",
-            "type": 3,
-            "api": "csp_BLSGod",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
         },
         {
             "key": "美剧迷",
