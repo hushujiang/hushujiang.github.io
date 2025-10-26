@@ -1333,8 +1333,9 @@
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"},
 {
       "name": "live2",
-      "url": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/tv/?ou=402",
+      "url": "./zb3.txt",
       "type": 0,
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}
       ]
 }
+
