@@ -4,17 +4,7 @@
 
 "sites":[
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"ext":"https://api.ztcgi.com"},
-        {
-            "key": "移动",
-            "name": "移动｜APP",
-            "type": 3,
-            "api": "csp_YD",
-            "searchable": 1,
-            "quickSearch": 1,
-            "style": {
-                "type": "list"
-            },"jar":"https://gitee.com/hushujiang/diyp/raw/master/spider.jar"
-        },
+{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
 {"key":"浪酷影视","name":"💡浪酷｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"}},
 {"key":"瓜子影视","name":"💡瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
