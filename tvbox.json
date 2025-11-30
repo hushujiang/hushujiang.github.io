@@ -1320,7 +1320,7 @@
       "name": "live",
       "url": "./zb.txt",
       "type": 0,
-      "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"},
+      "ua":"okhttp/3.12.13","epg":"https://diyp3.112114.xyz/?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"},
 {
       "name": "live2",
       "url": "https://oupy2.nxog.eu.org/tv.nxog.top/m/tv/cache/index.jpg?ou=1&pwd=%E5%85%AC%E4%BC%97%E5%8F%B7%E8%A3%85%E6%AD%8CAPP",
@@ -1328,4 +1328,5 @@
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}
       ]
 }
+
 
