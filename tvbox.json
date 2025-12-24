@@ -15,12 +15,9 @@
 {"key":"奇优影视","name":"💡奇优｜影视","type":3,"api":"csp_Qiyou"},
 {"key":"骚火影视","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 {"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
-
 {"key":"1905","name":"💡1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"柠檬","name":"💡柠檬｜影视","type":3,"api":"csp_Nmvod","playerType":2,	"jar":"./lib/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
-
 {"key":"聚搜","name":"🐢聚搜┃影视","type":3,"api":"./lib/apiv559AppToV5.py","ext":"http://101.35.85.16:5555"},
-
 {"key":"巧技2","name":"🔍搜艘┃影视","type":3,"searchable":1,"quickSearch":1,"api":"csp_qiao2","playerType":2,"jar":"./lib/8bee5a479d0ee7996e58a4043085b8b8.png;md5;9cf0a6c1f62ad83e9dccc2b7dd683a10","ext":"7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312h4934183ig2l05g9"},
 
 
@@ -1038,13 +1035,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://www.czzymovie.com"
-        },
-        {
-            "key": "金牌影视",
-            "name": "金牌｜影视",
-            "type": 3,
-            "api": "csp_Jpys",
-            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
         {
             "key": "云播影视",
