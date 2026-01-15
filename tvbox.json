@@ -12,7 +12,7 @@
             "ext": "https://ev2089.zxbwv.com"
         },
 {"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},
-        {
+                {
             "key": "csp_Duopan",
             "name": "🖍︎┃蜡笔┃影视",
             "type": 3,
@@ -77,21 +77,21 @@
             "name": "🍚┃干饭┃APP",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "./lib/2.txt"
+            "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
         },
         {
             "key": "光盘",
             "name": "📀┃光盘┃APP",
             "type": 3,
             "api": "csp_AppQi",
-            "ext": "./lib/1.json"
+            "ext": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json|AAdgrdghjfgswerA|120"
         },
         {
             "key": "行动",
             "name": "😌┃行动┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "./lib/zjm.txt"
+            "ext": "https://zjm-1302383509.cos.ap-guangzhou.myqcloud.com/zjm.txt|zjmznbl2026zcxgb"
         },
         {
             "key": "再来",
@@ -119,14 +119,14 @@
             "name": "🐹┃耗子┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "./lib/1.txt"
+            "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl"
         },
         {
             "key": "蔬菜",
             "name": "🫛┃蔬菜┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "./lib/9.txt"
+            "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725"
         },
         {
             "key": "黑猫",
@@ -147,14 +147,14 @@
             "name": "🐇┃兔子┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "./lib/apiurl.txt"
+            "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"
         },
         {
             "key": "永永",
             "name": "♾️┃永永┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "./lib/89.txt"
+            "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"
         },
         {
             "key": "云云",
@@ -222,13 +222,13 @@
             "key": "csp_AppXY",
             "name": "🎀️┃星牙┃短剧",
             "type": 3,
-            "api":"./lib/apiv637XYDJ.py",
+            "api":"https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
             "searchable":1,
             "changeable":1,
             "quickSearch":1,
             "filterable":1
         },
-{"key":"📺┃︎剧王┃短剧","name":"📺┃剧王┃短剧","type":3,"api":"./lib/apiv659JWDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
+{"key":"📺┃︎剧王┃短剧","name":"📺┃剧王┃短剧","type":3,"api":"https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},
         {
             "key": "csp_SP360",
             "name": "📺┃360┃官源",
@@ -242,7 +242,7 @@
             "api": "csp_Bili",
             "playerType": 2,
             "ext": {
-                "json": "http:/bili.json",
+                "json": "./bili.json",
                 "cookie": ""
             },
             "style": {
