@@ -11,6 +11,7 @@
             "playerType": "2",
             "ext": "https://ev2089.zxbwv.com"
         },
+{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1},
         {
             "key": "csp_Duopan",
             "name": "🖍︎┃蜡笔┃影视",
@@ -2431,3 +2432,4 @@
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}
       ]
 }
+
