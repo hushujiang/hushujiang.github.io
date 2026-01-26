@@ -12,7 +12,7 @@
             "ext": "https://ev2089.zxbwv.com",
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
-{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1","jar":"https://gitee.com/hushujiang/diyp/raw/master/jar"},
+{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1","jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"},
                 {
             "key": "csp_Duopan",
             "name": "🖍︎┃蜡笔┃影视",
@@ -304,7 +304,8 @@
             "quickSearch": 1,
             "ext": {
                 "cookie": ""
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "zuiWanQingFeng",
@@ -313,7 +314,8 @@
             "api": "http://我不是.摸鱼儿.top/api/yyutx.php",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "changeable": 0,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Rebo",
@@ -325,7 +327,8 @@
             "filterable": 0,
             "ext": {
                 "url": "http://v.rbotv.cn"
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "huahua",
@@ -333,7 +336,8 @@
             "type": 3,
             "changeable": 0,
             "api": "csp_AppFox",
-            "ext": "p+FPtr6fYIfomOnA4N4Sl0dFvFqJvfkho3Yem3nNyo6peH9nVFr0wIIfo96V7voEHGrq+0mvfYjwri/nkrWITQ=="
+            "ext": "p+FPtr6fYIfomOnA4N4Sl0dFvFqJvfkho3Yem3nNyo6peH9nVFr0wIIfo96V7voEHGrq+0mvfYjwri/nkrWITQ==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "jumeng",
@@ -344,7 +348,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "N5u2FS3i/elUFAoSVYBznb2XBsH21Pu8ka/X8qXgAK2VPcUud/asZs4ML65ngDd3ob1Y/WEaAS/XqMkeQchxAs1tgVw2qnUZJoLNHj6pVZm+8OiyK5gYaZals2ovboy6",
-            "changeable": 1
+            "changeable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "baige",
@@ -353,7 +358,8 @@
             "searchable": 1,
             "changeable": 1,
             "api": "csp_AppGet",
-            "ext": "N5u2FS3i/elUFAoSVYBzndHyWmPoQhZsTIJ5ve8B5RdbojKSoqbNo9TORMUWkv2seRAMOLNXC0kGo4lOAL64Xk7pAb68ZHIckNJyo2vC4NFuLci8sMhhnj60v/nDbU1U"
+            "ext": "N5u2FS3i/elUFAoSVYBzndHyWmPoQhZsTIJ5ve8B5RdbojKSoqbNo9TORMUWkv2seRAMOLNXC0kGo4lOAL64Xk7pAb68ZHIckNJyo2vC4NFuLci8sMhhnj60v/nDbU1U",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Jinpaijm",
@@ -364,7 +370,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "sCnv2gwYzALZxDcfyX62oT9dE7Gb6ket71O6kp6+0mTtnjdLHRR785IFK5WP7ejkAw2qKHtqwA0BzacEhwsWR46EFUSGjC+C/Q3AHUvecIUmppksjxVLEwnfCmbyHEmEBb87ZHq386bVwkvEwzxGdA==",
-            "changeable": 1
+            "changeable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "aiying",
@@ -374,7 +381,8 @@
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "sCnv2gwYzALZxDcfyX62oSKxLlLfPpOEf+mKvMQvSpMDoEavlzj4ib+jrumGW1Thrn8REq84SGVeJzq6F/vNAQbZlJ0rkT2djKJq4bTW1XFoW302XV0p+ZSEqBozzdjbdOxaZv+zZWCbSmIlsvXQU5cnwEBCx4/vTVK7uRAHKMytMSWmTqvFCAsCim4kXYme"
+            "ext": "sCnv2gwYzALZxDcfyX62oSKxLlLfPpOEf+mKvMQvSpMDoEavlzj4ib+jrumGW1Thrn8REq84SGVeJzq6F/vNAQbZlJ0rkT2djKJq4bTW1XFoW302XV0p+ZSEqBozzdjbdOxaZv+zZWCbSmIlsvXQU5cnwEBCx4/vTVK7uRAHKMytMSWmTqvFCAsCim4kXYme",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Guwo",
@@ -384,7 +392,8 @@
             "changeable": "1",
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "sCnv2gwYzALZxDcfyX62odvj29IK9rBjcucXypKIufFdmPNgdqJ1QC3/1tU5BzpE6QRHyZZhpYE2iANvQyJEcJnbxot6ElLhqczbYD9E7Gx0ZX5Ndfe/gYfH96S/3Bh/ZnBuT8RppP0xfvhJLL9XtgVCfYQom4JnY6Ax5y9Q9ihBWCa4RFS/Hzwz8+j3Ro/8nxwNFEf5J1MQD7xUihD4PQ=="
+            "ext": "sCnv2gwYzALZxDcfyX62odvj29IK9rBjcucXypKIufFdmPNgdqJ1QC3/1tU5BzpE6QRHyZZhpYE2iANvQyJEcJnbxot6ElLhqczbYD9E7Gx0ZX5Ndfe/gYfH96S/3Bh/ZnBuT8RppP0xfvhJLL9XtgVCfYQom4JnY6Ax5y9Q9ihBWCa4RFS/Hzwz8+j3Ro/8nxwNFEf5J1MQD7xUihD4PQ==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Cangshu",
@@ -392,7 +401,8 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "ext": "sCnv2gwYzALZxDcfyX62oU5WQkrrls9RmlBFANGm63njwlAIzmedjdoNo6sg4fA61BJQWaOKuP4gcUzdcgr/eQ0/xUFHrBuL/BhUmgc59s2AShZHvKfpqHq3l4bsWmELcFmGjlr2D/+7Wv2do0s4c+bSmv6VVthXz7kj9aQ8Abil5n7PmZ/S+AlxLxllUIaU0CWfA/vMYL/AxbwgZlH2Nw=="
+            "ext": "sCnv2gwYzALZxDcfyX62oU5WQkrrls9RmlBFANGm63njwlAIzmedjdoNo6sg4fA61BJQWaOKuP4gcUzdcgr/eQ0/xUFHrBuL/BhUmgc59s2AShZHvKfpqHq3l4bsWmELcFmGjlr2D/+7Wv2do0s4c+bSmv6VVthXz7kj9aQ8Abil5n7PmZ/S+AlxLxllUIaU0CWfA/vMYL/AxbwgZlH2Nw==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Jingyu",
@@ -400,7 +410,8 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "ext": "sCnv2gwYzALZxDcfyX62oZ+IU0AyvsGMnyyhtaWmhS1Cnf/YszSw+hAfankjknvF2e0ym7cXiVpYRg3GDCbOHZOs6Xq5UnFHXB4iUCElNZeIeC99mNU4iKOz6wnCThCbO4u9hQotX7aO/JSsJT/KC6Dh95YCFad3n8Tf6kSSz2Dl1E3yrn3190D5BBWJtjIo"
+            "ext": "sCnv2gwYzALZxDcfyX62oZ+IU0AyvsGMnyyhtaWmhS1Cnf/YszSw+hAfankjknvF2e0ym7cXiVpYRg3GDCbOHZOs6Xq5UnFHXB4iUCElNZeIeC99mNU4iKOz6wnCThCbO4u9hQotX7aO/JSsJT/KC6Dh95YCFad3n8Tf6kSSz2Dl1E3yrn3190D5BBWJtjIo",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Xiaozhu",
@@ -408,7 +419,8 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "ext": "sCnv2gwYzALZxDcfyX62oSrS2f56gC6PfB9fUMobU8tFCjY2XWcaioCX4TeXapR9mhHvCc2Qbqw2o3+TIKUevhOHBVYn3mS0V96FB6CX80m4eAYj3+E63PGY3DXkUiZrkU17g2F5ATf8TeTPcDUFWGgQ2D/6vke0un+2TcUNlP84p51Lqmovhijo6ADPlzV48F16ydyOI8NH0KWXNLc3ig=="
+            "ext": "sCnv2gwYzALZxDcfyX62oSrS2f56gC6PfB9fUMobU8tFCjY2XWcaioCX4TeXapR9mhHvCc2Qbqw2o3+TIKUevhOHBVYn3mS0V96FB6CX80m4eAYj3+E63PGY3DXkUiZrkU17g2F5ATf8TeTPcDUFWGgQ2D/6vke0un+2TcUNlP84p51Lqmovhijo6ADPlzV48F16ydyOI8NH0KWXNLc3ig==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Yunyun",
@@ -416,7 +428,8 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppQi",
-            "ext": "sCnv2gwYzALZxDcfyX62oXau36TAwGPWJQM5HukwC/t03nAE412fGglV43GvCzvMmcXvxGHi3FBbhKuWPsq1PI72H6CXEzX9I+nFeFHjBnMuRuB5BgkWGUzQevgXd5yW4M7bWEBM9JH2gOo1VBrfLt2+nk9sHARrStb7Vdl0bnmbbPs13qDJ+r+99OwKOgkx"
+            "ext": "sCnv2gwYzALZxDcfyX62oXau36TAwGPWJQM5HukwC/t03nAE412fGglV43GvCzvMmcXvxGHi3FBbhKuWPsq1PI72H6CXEzX9I+nFeFHjBnMuRuB5BgkWGUzQevgXd5yW4M7bWEBM9JH2gOo1VBrfLt2+nk9sHARrStb7Vdl0bnmbbPs13qDJ+r+99OwKOgkx",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "shuzi",
@@ -424,7 +437,8 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "ext": "ij8RUkhocZ9ruRgraOrV50cdijznPXJjPSmDdoI59PzF/K2UT7pKnau1ohLhZpTHxdrsBe+l0Qca19BaNsP0tMwh5qgX5Vzp8djZcM8TGlBmgxUOngKyNKQe04jcTDCX"
+            "ext": "ij8RUkhocZ9ruRgraOrV50cdijznPXJjPSmDdoI59PzF/K2UT7pKnau1ohLhZpTHxdrsBe+l0Qca19BaNsP0tMwh5qgX5Vzp8djZcM8TGlBmgxUOngKyNKQe04jcTDCX",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "bimoxinghe",
@@ -434,7 +448,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "api": "csp_AppYsV2",
-            "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A="
+            "ext": "wYceOHC6X3P3alhnB4RtmzgFD1Irln8apuUGgGt0cGNu1m3wi32g5216U4VmaeMAakuchzAtkZK4hN76RGX+SgXswlO9BU7AAQg57WGKJIWptJgUaSjRv+dsCFHAMS7NtEkaU8HcHtu3mNmXmiGVLae6KtmpbuT1razd8CkTO1A=",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "FishLabi",
@@ -448,7 +463,8 @@
                     "https://feimao666.fun",
                     "http://feimao888.fun"
                 ]
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "FishZhizhen",
@@ -465,7 +481,8 @@
                     "https://www.mihdr.top",
                     "https://www.zhizhenpan.fun"
                 ]
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "FishDuoduo",
@@ -479,7 +496,8 @@
                     "https://tv.yydsys.cc",
                     "https://tv.214521.xyz"
                 ]
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "FishErxiao",
@@ -494,7 +512,8 @@
                     "https://erxiaofn.click",
                     "https://www.xhww.net"
                 ]
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "FishHuban",
@@ -506,7 +525,8 @@
                 "site": [
                     "http://103.45.162.207:20720"
                 ]
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "HaiMian",
@@ -542,7 +562,8 @@
                         "type_id": "5"
                     }
                 ]
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "PanTa",
@@ -550,7 +571,8 @@
             "type": 3,
             "api": "csp_PanTa",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "LeiJing",
@@ -558,7 +580,8 @@
             "type": 3,
             "api": "csp_LeiJing",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "YunPanBa",
@@ -566,7 +589,8 @@
             "type": 3,
             "api": "csp_YunPanBa",
             "searchable": 1,
-            "ext": "https://yunpan6.com/"
+            "ext": "https://yunpan6.com/",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Kvm4k",
@@ -581,7 +605,8 @@
                     "https://www.4kvm.tv",
                     "https://www.4kvm.org"
                 ]
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "CZ",
@@ -591,7 +616,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzymovie.com"
+            "ext": "https://www.czzymovie.com",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Jpys",
@@ -599,14 +625,16 @@
             "type": 3,
             "api": "csp_Jpys",
             "searchable": 1,
-            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
+            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Guazi",
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Guazi",
-            "searchable": 1
+            "searchable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Zxzj",
@@ -614,7 +642,8 @@
             "type": 3,
             "api": "csp_Zxzj",
             "searchable": 1,
-            "ext": "https://www.zxzjhd.com"
+            "ext": "https://www.zxzjhd.com",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Libvio",
@@ -625,7 +654,8 @@
             "filterable": 0,
             "ext": {
                 "site": "https://www.libvio.app"
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Xpg",
@@ -634,7 +664,8 @@
             "api": "csp_Xpg",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "TvDy",
@@ -642,7 +673,8 @@
             "type": 3,
             "api": "csp_TvDy",
             "searchable": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "MqTv",
@@ -650,7 +682,8 @@
             "type": 3,
             "api": "csp_MqTv",
             "searchable": 1,
-            "ext": "https://www.mqtv.cc"
+            "ext": "https://www.mqtv.cc",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Ikanbot",
@@ -659,7 +692,8 @@
             "api": "csp_Ikanbot",
             "searchable": 1,
             "filterable": 0,
-            "ext": "{\"box\": \"TVBox\", \"danmu\": false}"
+            "ext": "{\"box\": \"TVBox\", \"danmu\": false}",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "ReBoYingShi",
@@ -667,7 +701,8 @@
             "type": 3,
             "api": "csp_ReBoYingShi",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "DianYingYunJi",
@@ -675,7 +710,8 @@
             "type": 3,
             "api": "csp_DianYingYunJi",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "XiaoHongYS",
@@ -683,7 +719,8 @@
             "type": 3,
             "api": "csp_XiaoHongYS",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "KnVod",
@@ -691,14 +728,16 @@
             "type": 3,
             "api": "csp_KnVod",
             "searchable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "BroVods",
             "name": "兄弟｜影视",
             "type": 3,
             "api": "csp_BroVods",
-            "searchable": 1
+            "searchable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Hema",
@@ -707,7 +746,8 @@
             "api": "csp_Hema",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "FishDuanju",
@@ -716,7 +756,8 @@
             "api": "csp_FishDuanju",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "HHkk",
@@ -725,7 +766,8 @@
             "api": "csp_HHkk",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "JLdj",
@@ -734,7 +776,8 @@
             "api": "csp_JLdj",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "mifun",
@@ -743,7 +786,8 @@
             "searchable": 1,
             "changeable": 1,
             "api": "csp_AppGet",
-            "ext": "GvE9VjZcKAqoJldDfjF/EFjEacvdRgP+DzKluxhIowAt7HBmxO7zYbrt98skapDAKw6Hlx1Iy+mVJuQI6FYGb7NuvCZrhayVbhmr8hS0EeOTcuCxwv7DUtbufpbgslF77hCJqv2EtYD5MpCse/KA1Q=="
+            "ext": "GvE9VjZcKAqoJldDfjF/EFjEacvdRgP+DzKluxhIowAt7HBmxO7zYbrt98skapDAKw6Hlx1Iy+mVJuQI6FYGb7NuvCZrhayVbhmr8hS0EeOTcuCxwv7DUtbufpbgslF77hCJqv2EtYD5MpCse/KA1Q==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Dmla",
@@ -754,7 +798,8 @@
             "quickSearch": 1,
             "ext": {
                 "SiteUrl": "https://www.dmla4.com"
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "XiFan",
@@ -765,7 +810,8 @@
             "quickSearch": 1,
             "ext": {
                 "SiteUrl": "https://dm.xifanacg.com"
-            }
+            },
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Manbo",
@@ -775,7 +821,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "N5u2FS3i/elUFAoSVYBznRMvuK1KLSV1DN4HBOs//GWvWksCYwvNDoPf16hWOVsnftf5i6fmT2utdVhcCOZaQrECH9tmtsiG6f+4GP6h27DsVeuwTbSSbDAx+58B3Gtp"
+            "ext": "N5u2FS3i/elUFAoSVYBznRMvuK1KLSV1DN4HBOs//GWvWksCYwvNDoPf16hWOVsnftf5i6fmT2utdVhcCOZaQrECH9tmtsiG6f+4GP6h27DsVeuwTbSSbDAx+58B3Gtp",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Gugu",
@@ -785,7 +832,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "N5u2FS3i/elUFAoSVYBznXUeEAt3X+JD9YKl5MjJCWQR4USFFmoQtTGE0mJDLVeOv00lc599YBqQsYAl+dw0i/1Jq4wgCPncJOqYhT21G0n+faZ/AOCfRq6fnnZcQCfX"
+            "ext": "N5u2FS3i/elUFAoSVYBznXUeEAt3X+JD9YKl5MjJCWQR4USFFmoQtTGE0mJDLVeOv00lc599YBqQsYAl+dw0i/1Jq4wgCPncJOqYhT21G0n+faZ/AOCfRq6fnnZcQCfX",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
         {
             "key": "Xb6v",
@@ -793,7 +841,8 @@
             "type": 3,
             "api": "csp_Xb6v",
             "searchable": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu"
         },
  {"key": "LIBVIO","name": "💝分享立波","type": 3,"api": "./lib/apiv519LIBVIO.py","searchable": 1,"quickSearch": 0,"changeable": 0,"filterable": 0,"timeout": 60},
 {"key":"南瓜","name":"💝分享南瓜","type":3,"api":"csp_NanGua","playerType":2,"jar":"./lib/fxz250711.jar","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
@@ -1843,5 +1892,4 @@
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}
       ]
 }
-
 
