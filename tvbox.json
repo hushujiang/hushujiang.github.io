@@ -434,15 +434,6 @@
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu.zip"
         },
         {
-            "key": "XiaoHongYS",
-            "name": "小红｜影视",
-            "type": 3,
-            "api": "csp_XiaoHongYS",
-            "searchable": 1,
-            "changeable": 1,
-            "jar":"https://gitee.com/hushujiang/diyp/raw/master/moyu.zip"
-        },
-        {
             "key": "KnVod",
             "name": "柯南｜影视",
             "type": 3,
@@ -1148,15 +1139,6 @@
       "filterable": 1,
       "ext": "./lib/分享fantuan.json"
     },
-          {
-            "key": "csp_LiteApple",
-            "name": "💖分享|BTT",
-            "type": 3,
-            "playerType": "2",
-            "api": "csp_XBPQ",
-            "ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>","简介":"class=\"hl-text-muted\">简介：</em>&&</li>","线路数组":"alt=\"&&</a>","线路标题":"分享者在线+</i>&nbsp;&&</a>","分类数组":"<a&&</a>","分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>","分类ID":"href=\"/vodlist/&&.html\"","分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"}
-        },
-    
        {"key":"360_spider","name":"🍎360影视","api":"./lib/apiv2383apiv51drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"./lib/360影视.js"}, 
 
     {
@@ -1596,4 +1578,3 @@
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}
       ]
 }
-
