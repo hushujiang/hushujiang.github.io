@@ -22,11 +22,51 @@
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
         {
+            "key": "肥猫",
+            "name": "🐼┃肥猫┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://wsapi.dafenqi.mom/yuming.txt|bH5mI8iK0tK7aQ5x",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "干饭",
+            "name": "🍚┃干饭┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "http://www.613mf4k12.top|1234567887654321",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "光盘",
+            "name": "📀┃光盘┃APP",
+            "type": 3,
+            "api": "csp_AppQi",
+            "ext": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt|UrWKPnmQWJA8AQzd",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
             "key": "行动",
             "name": "😌┃行动┃APP",
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://165.99.42.137:5432|1234567890987654",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "再来",
+            "name": "✌️┃再来┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://cy.baige.asia|599D0FE5178642FD",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "一碗",
+            "name": "🥣┃一碗┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://vv.229d.cn|8888888888888888",
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
         {
@@ -38,11 +78,136 @@
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
         {
-            "key": "优优",
-            "name": "💯┃优优┃APP",
+            "key": "仓鼠",
+            "name": "🐹┃耗子┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "https://ios.hgyx.vip|062dec75d039980e",
+            "ext": "http://xywlkj.oss-cn-beijing.aliyuncs.com/wp-content/uploads/2024/12/1.txt|xmyxmyxywlkjxywl",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "蔬菜",
+            "name": "🫛┃蔬菜┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt|88689667dce61725",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "黑猫",
+            "name": "🐼┃黑猫┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://qiyiys.cc|45452893929B40D9",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "兔子",
+            "name": "🐇┃兔子┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "永永",
+            "name": "♾️┃永永┃APP",
+            "type": 3,
+            "api": "csp_AppGet",
+            "ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "零度",
+            "name": "⛄┃零度┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "Rv3aTnWMuFc4gbwuPRc+NioakhCTrys/rCkMmZz5sahtspHqbccnC1b6t00XDUcnDjY185wly0IoUsLlrHACDbg1KJp5uqFGpzrq59fGp+ihTBuiUWn3WJirpRA4gSr03jbhNzzoGSFleO17xLsOj85lf/7Ln77b7UdDG92ZmKE6lW7QS5DMFfOYu0VuMATxAtR3OtvveR49ZymdVpDBbg==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "粉象",
+            "name": "🐘┃粉象┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "YLWJkztQiwSjuZDrZ91gisIp8P9C8kNVKvgP4cCeTzczGFTBraoBlcUjzEVkz2Rvd4jO075bezip++dvP3mWGdyMf7Y1RR3nDj1DvTEcmqut4tIy22EVKJMkQ4BEIUDtm9Y9yMn/9ZyRLbq2xPOfYXrKoBRFd08kb3YiebbAjHAzyl2Clnun3W8Sa089Su4uLhyCkcNk6CPD+wJ/ymWS5CVHJKUzPYcjO2TK9hBTWis=",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "橘猫",
+            "name": "🍊┃橘猫┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "gLOSY4PPXpZqMcSYjyj9KaGpTZa2K0chBaa7+zXellV8rIJFR5QN53FFy1ItG/Kp1hvtJL2QpdRzntoLcLtebXsOgQcOlkGcxDPx8Le4gAsTXe90DAZe58pAPWKKmvCDlnyHS3v1h9n/sSrT7yS7UKmBN0k9v2I5sKZFZoQt6kwo7MXLKu+diF0koUe2ghbtjxd9pOS7Z7AT/OiGa2d4lw==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "片猫",
+            "name": "😺┃片猫┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "Av4EJKN4tWLBQjkfXQVfVxewTQdR5GBzHnJDPZYaLi89+CMprxxsOlp4bViiP01ErXgZJkC74jYD5MDZsRfXOgeM9mVc7ySIyDbBGs106lycbDKz9OVbsMC6ChCa8FmZEXsjbL3qlDMCEYoPEcj8R2PMhvoZio9MONIVRspwEFIvGB2rUPpF4wZ+vA5fo7RR3sBq7fRqxKwxRSCQMmxkcg==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "火猫",
+            "name": "😻┃火猫┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "K7euwjrJ27dYwEGVkeGRDLiIPbDgofNjwCk3p5BrxKe1WWueWIgazExL7KeqSINJOPRzkplAOtP+hTXxaeVDeOccRBahLmupQ3fYc6ogNk5FiENWm5pQSXsfQ6128/WfOimIH4TLkzA04Y6EFxXaLi3Wtmv9wRqBB7W7abNwXzDNx5lbJf6xgU6KLRt1d4N7NVfZCB6DW2T34TpuYagoWg==",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "幕悦",
+            "name": "🌉┃幕悦┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "OQwT73dg2rQTXxIB+qpAOzM7ck8g+2kfa/cm6eOORAYa39ue50e0nM8GVbY5U6JFALUnu53/vcAV1UAwxXkHEzQIh51/iu8XP0C1UB0IhTHkuaNQnCV/6r611km1t+nYEB67Q5lUKa8KLZ5HQjUZs2G129lZERjQdzT7j0JuM9ffCgNCuCwAPYWfC2a28fjemEgoqj/49uhfcKaTZaTk8yTODxJ9WJB3dlrV4EqtvJA=",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "随看",
+            "name": "🥃┃随看┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "VvSzxDUUs0JjdMTID5TnHKfxCxf85A2LKCWrc6j/NgkJqUI3YP29WQl2J6/xZP/SaYPMqqBuJOyBDKoKOxWs4qxIzbvHGMbKYzJntkAxJ3+FA2Q7fhncNYQWJqSLzJrY+XTxQIEofl5/YvDWN8uedYAujdaOZ0fY0xBSAKTOUKaUj6dJ0ibOf7e5vvoGPRBmy9odj59FloVF75PJk4eQsx7iZ+NHWW4+tCNUb+iBae0=",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "星影",
+            "name": "✨️┃星影┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "A6Qdnhaak1wq8VD2zoKzVQQ0FdA44FbuhcYn32hW6dxp0kiTj64DRKciftNZ8rndrs10Alu5niPiJNzMKeXcSwDhjdqGI1Ut6U5pSb0Bq+SjXYpwmB8fUKN/kPTuaW2YhmId1HjbnUteu8u4NlKEZ66BhdF3PbohrT2ZlCXQrt3xVHbGX/Ph9l60VeDvtd9UxdKUMwP7SehgFLIiC6IDntA10wMxJNK6y6BFQgYHN3c=",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "回响",
+            "name": "📎┃回响┃APP",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": "4ssljNMN/eUwGSlXfYi+I+hprh/hGdq3k62oZkDdfCrzEPqNUD8Foqkl6DfOcgC2tjTPNXVDec+asnL4p2JJAEw5wt+cg7Ljbdy4abydC29WNCWn3km881iB9p558AvNqGmE7zqbKr9S1yVL+9VB7VqGopA8OoxCs9ApkEgZmPANLTaE0qpo41nyRlbThqJRvJxgy8CrGpmHoDb3Jvk8PzZxgk+CjmPF/t20GaKVtiI=",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "csp_AppSymx",
+            "name": "🏔┃️木兮┃APP",
+            "type": 3,
+            "api": "csp_Symx",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "csp_AppJg",
+            "name": "🍧┃坚果┃APP",
+            "type": 3,
+            "api": "csp_AppJg",
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "3Q",
+            "name": "3️⃣┃3Q┃APP",
+            "type": 3,
+            "api": "csp_App3Q",
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
         {
@@ -53,11 +218,11 @@
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
         {
-            "key": "csp_Xlys",
-            "name": "🏔️┃修罗┃磁力",
+            "key": "csp_Wwys",
+            "name": "🌾️┃农民┃影视",
             "type": 3,
-            "api": "csp_Xlys",
-            "ext": "https://xl01.com.de",
+            "api": "csp_Wwys",
+            "ext": "https://vip.wwgz.cn:5200",
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
         {
@@ -96,14 +261,29 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.czzymovie.com/",
+            "ext": "https://www.cz01.org",
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
         {
-            "key": "csp_SP360",
-            "name": "📺┃360┃官源",
+            "key": "csp_AppXY",
+            "name": "🎀️┃星牙┃短剧",
             "type": 3,
-            "api": "csp_SP360",
+            "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/XYDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
+        },
+        {
+            "key": "📺┃︎剧王┃短剧",
+            "name": "📺┃剧王┃短剧",
+            "type": 3,
+            "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
         },
         {
@@ -122,7 +302,7 @@
             "api": "csp_AppGet",
             "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl",
             "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
-        }, 
+        },
         {
             "key": "bili",
             "name": "笔触｜琉璃",
