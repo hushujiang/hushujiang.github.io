@@ -1748,7 +1748,7 @@
 "lives":[
 {
       "name": "live",
-      "url": "./lib/zb.txt",
+      "url": "./zb.txt",
       "type": 0,
       "ua":"okhttp/3.12.13","epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"},
 {
@@ -1758,3 +1758,4 @@
       "ua":"okhttp/3.12.13","epg":"https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}","logo":"https://gitee.com/hushujiang/diyp/raw/master/tv/{name}.png"}
       ]
 }
+
