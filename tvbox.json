@@ -2,16 +2,7 @@
 //数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [	
-                 {
-            "key": "荐片",
-            "name": "🎬┃荐片┃影视",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "playerType": "2",
-            "ext": "https://ev2089.zxbwv.com",
-            "jar":"https://gitee.com/hushujiang/diyp/raw/master/fei.jar"
-        },
-//{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar"},
+{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1,"jar":"https://gitee.com/hushujiang/diyp/raw/master/jar"},
         {
             "key": "潮流",
             "name": "🏜┃潮流┃APP",
