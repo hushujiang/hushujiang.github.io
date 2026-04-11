@@ -2112,12 +2112,13 @@
  {
       "name": "live",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/zb.txt",
-      "type": 0,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/png/{name}.png"},
+      "type": 0,"epg":"https://iptv-sources-5n1.pages.dev/epg/pw-7/{date}/{name}.json","logo":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/png/{name}.png"},
       {"name":"💖分享者直播","type":0,"url":"https://d.kstore.dev/download/4127/live20220813.txt","epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
           {
             "name": "💝分享者直播+",
             "type": 0,
             "url": "https://xoxo.cn.mt/Lonely.m3u",
+	        "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
             "timeout": 10,
             "playerType": 2
         },
@@ -2125,7 +2126,7 @@
       "name": "💖分享者直播2",
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
-      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
 	{
