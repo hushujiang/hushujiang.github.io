@@ -3,7 +3,8 @@
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [	
 //{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1,"jar":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/jar.zip"},
-        {
+{"key":"电影天堂","name":"电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
+	{
             "key": "潮流",
             "name": "🏜┃潮流┃APP",
             "type": 3,
