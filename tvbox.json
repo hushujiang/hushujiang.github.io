@@ -211,7 +211,8 @@
 			"key": "人人影视",
 			"name": "💝分享人人",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js
+",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
