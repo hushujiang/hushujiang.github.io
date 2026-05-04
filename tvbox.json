@@ -2,7 +2,7 @@
 //数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [	
-//{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1,"jar":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/jar.zip"},
+//{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/jar.zip"},
 {"key":"电影天堂","name":"电影天堂","type":1,"api":"http://caiji.dyttzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"黑木耳","name":"黑木耳","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"非凡影视","name":"非凡影视","type":1,"api":"http://ffzy5.tv/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -41,7 +41,7 @@
             "type": 3,
             "api": "csp_AppRJ",
             "ext": "http://v.rbotv.cn",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "行动",
@@ -49,7 +49,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://165.99.42.137:5432|1234567890987654",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "一碗",
@@ -57,7 +57,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://vv.229d.cn|8888888888888888",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "猫抓",
@@ -65,23 +65,23 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "蔬菜",
             "name": "🫛┃蔬菜┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "./lib/9.txt",
-            "jar":"./lib/fei.jar"
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/9.txt",
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "永永",
             "name": "♾️┃永永┃APP",
             "type": 3,
             "api": "csp_AppGet",
-            "ext": "./lib/89.txt",
-            "jar":"./lib/fei.jar"
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/89.txt",
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "零度",
@@ -89,28 +89,28 @@
             "type": 3,
             "api": "csp_AppNox",
             "ext": "Rv3aTnWMuFc4gbwuPRc+NioakhCTrys/rCkMmZz5sahtspHqbccnC1b6t00XDUcnDjY185wly0IoUsLlrHACDbg1KJp5uqFGpzrq59fGp+ihTBuiUWn3WJirpRA4gSr03jbhNzzoGSFleO17xLsOj85lf/7Ln77b7UdDG92ZmKE6lW7QS5DMFfOYu0VuMATxAtR3OtvveR49ZymdVpDBbg==",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "csp_AppSymx",
             "name": "🏔┃️木兮┃APP",
             "type": 3,
             "api": "csp_Symx",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "3Q",
             "name": "3️⃣┃3Q┃APP",
             "type": 3,
             "api": "csp_App3Q",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "csp_Jpys",
             "name": "🥇️┃金牌┃影视",
             "type": 3,
             "api": "csp_Jpys",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "csp_Wwys",
@@ -118,7 +118,7 @@
             "type": 3,
             "api": "csp_Wwys",
             "ext": "https://vip.wwgz.cn:5200",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "csp_SaoHuo",
@@ -127,7 +127,7 @@
             "api": "csp_SaoHuo",
             "playerType": 2,
             "ext": "https://shdy5.us",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "csp_Gz360",
@@ -135,7 +135,7 @@
             "type": 3,
             "api": "csp_Gz360",
             "playerType": 2,
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "csp_LiteApple",
@@ -145,7 +145,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "csp_Dm84",
@@ -154,7 +154,7 @@
             "playerType": "2",
             "api": "csp_Dm84",
             "ext": "https://dm84.net",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
         {
             "key": "丫丫",
@@ -162,7 +162,7 @@
             "type": 3,
             "api": "csp_AppGet",
             "ext": "http://tv.yy-fun.cc|qkxnwkfjwpcnwycl",
-            "jar":"./lib/fei.jar"
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fei.jar"
         },
 	 {
             "key": "kktd",
@@ -178,7 +178,7 @@
             "key": "csp_XYQHikerNm",
             "name": "💖分享在线",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv245八戒影视.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv245八戒影视.py",
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 0,   "filterable": 0},  
@@ -188,7 +188,7 @@
             "name": "💝分享快映",
             "type": 3,
             "changeable": 0,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv269快映.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv269快映.js",
             "ext": {
                 "host": "https://www.baidukuaiy.top",
                 "ver": 3
@@ -211,19 +211,19 @@
 			"key": "人人影视",
 			"name": "💝分享人人",
 			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js
 ",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享双人.js"
+			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享双人.js"
 		},
         {
 			"key": "py_guazi",
 			"name": "💖分享瓜子",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv361瓜子.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv361瓜子.py",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
@@ -234,7 +234,7 @@
             "key": "奇奇1",
             "name": "💝分享奇奇",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv385奇奇.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv385奇奇.js",
             "searchable": 1,
             "ext": {
                 "host": "http://110.42.67.221:8003/",
@@ -256,7 +256,7 @@
             "key": "布布",
             "name": "💝分享布布",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv435布布.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv435布布.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -268,24 +268,24 @@
             "key": "1剧吧",
             "name": "💝分享剧吧",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv459JB.py"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv459JB.py"
         },
        {
             "key": "橘子",
             "name": "💝分享橘子",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv473Fei.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv473Fei.py",
             "ext": "https://dmc.yy-fun.cc/feiapp"
         },
         {
             "key": "奇迹",
             "name": "💝分享奇迹",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv491AppGet.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv491AppGet.js",
             "searchable": 1,
             "changeable": 1,
             "ext": {
-                "host": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/qijiapp0.txt",
+                "host": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/qijiapp0.txt",
                 "key": "whosyoudaddy5477",
                 "init": "V122",
                 "api": "2",
@@ -296,9 +296,9 @@
             "key": "爱影",
             "name": "💝分享爱影",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv491AppGet.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv491AppGet.js",
             "ext": {
-                "host": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/q22.txt",
+                "host": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/q22.txt",
                 "key": "nzEqOYYH3QzHuEPl",
                 "init": "V122",
                 "api": 2,
@@ -309,7 +309,7 @@
             "key": "爱剧",
             "name": "💝分享爱剧",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv565ppx.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv565ppx.py",
             "ext": "http://43.248.117.123:4680"
         },
 
@@ -317,10 +317,10 @@
             "key": "猫头鹰",
             "name": "💝分享蓝鹰",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv583get.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv583get.js",
             "searchable": 1,
             "ext": {
-                "host": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/xly.txt",
+                "host": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/xly.txt",
                 "key": "ca94b06ca359d80e",
                 "init": "V122",
                 "api": 2,
@@ -372,7 +372,7 @@
             "name": "💝分享咕噜",
             "type": 3,
             "changeable": 0,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv733Appfox.min.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv733Appfox.min.js",
             "ext": {
                 "host": "http://www.yingsw.top",
                 "timeout": 8,
@@ -398,7 +398,7 @@
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "",
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/海纳影视.json"
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/海纳影视.json"
         },
         {
             "key": "MO尘-drpyS_飞牛影视",
@@ -418,7 +418,7 @@
       "key": "py_jieyingshi",
       "name": "💖分享界影",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv849py_jieyingshi.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv849py_jieyingshi.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -428,7 +428,7 @@
             "key": "py_金牌影视",
             "name": "💖分享金牌",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv871金牌.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv871金牌.py",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -441,7 +441,7 @@
             "key": "csp_xhapp",
             "name": "💖分享新河",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv899分享新河.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv899分享新河.py",
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 0,   "filterable": 0},  
@@ -451,8 +451,8 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar":
-"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/xbpq (3).jar",
-      "ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享农民.json"
+"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/xbpq (3).jar",
+      "ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享农民.json"
     },
           {
 			"key": "csp_猎手",
@@ -461,7 +461,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv949LSYS.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv949LSYS.py",
 			"playerType": 2,
 			"filterable": 1
 		},
@@ -470,21 +470,21 @@
             "key": "益达影院",
             "name": "💝分享益达",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv967分享益达.js"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv967分享益达.js"
         },
            {
             "key": "cat_夸克影院",
             "name": "💝分享夸克",
             "type": 3,
             "timeout": 60,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv983夸克影院.js"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv983夸克影院.js"
         },
             {
       "key": "双星",
       "name": "💝分享双星",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/双星.js",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/双星.js",
       "style": {
         "type": "list"
       }
@@ -493,30 +493,30 @@
       "key": "泥巴视频",
       "name": "💝分享泥巴",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享泥巴.js"
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享泥巴.js"
     },
     {
             "key": "cat_星辰影院",
             "name": "💝分享星辰",
             "type": 3,
             "timeout": 60,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1041分享星辰.js"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1041分享星辰.js"
         },
 	
-           {"key": "剧海大全","name": "💝分享剧海","type": 3,"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1055剧海大全.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},    
-{"key": "毒舌影视","name": "💝分享毒舌","type": 3,"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1079毒舌影视.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
+           {"key": "剧海大全","name": "💝分享剧海","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1055剧海大全.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},    
+{"key": "毒舌影视","name": "💝分享毒舌","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1079毒舌影视.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
         
         {
             "key": "皮皮",
             "name": "💝分享皮皮",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1103Applzxw.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1103Applzxw.py",
             "ext": "http://38.55.237.41:8762"
         },
 
         
-          {"key":"独播库_async","name":"💝分享独播","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1121独播库.js","style":{"type":"rect","ratio":1.33},
+          {"key":"独播库_async","name":"💝分享独播","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1121独播库.js","style":{"type":"rect","ratio":1.33},
 "changeable":1},
 
 	{
@@ -576,14 +576,14 @@
             "key": "月光影院",
             "name": "💝分享月光",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1271分享月光.js"
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1271分享月光.js"
         },
         
             {
             "key": "py_fk",
             "name": "💝分享飞快",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1285飞快[推].py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1285飞快[推].py",
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 0,
@@ -592,7 +592,7 @@
             "key": "py_qiwei",
             "name": "💝分享七味",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1307七味.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1307七味.py",
             "searchable": 1,
             "changeable": 0,
             "quickSearch": 0,
@@ -602,34 +602,34 @@
 			"key": "py_xiongdi",
 			"name": "💝分享兄弟",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1329兄弟影视.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1329兄弟影视.py",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
 			"filterable": 0,
 			"timeout": 60
 		},
-          {"key": "端木","name": "💝分享端木","type": 3,"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1353端木.py","style": {"type": "rect","ratio": 1.33},"changeable": 1},
+          {"key": "端木","name": "💝分享端木","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1353端木.py","style": {"type": "rect","ratio": 1.33},"changeable": 1},
           {
 			"key": "py_aiyifan",
 			"name": "💝分享一帆",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1377爱一帆.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1377爱一帆.py",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
 			"filterable": 0,
 			"timeout": 60
 		},
-         {"key": "js_en_gf","name": "💝分享官方","type": 3,"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1401en_gf.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},  
+         {"key": "js_en_gf","name": "💝分享官方","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1401en_gf.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},  
           
-          {"key":"聚合短剧_async","name":"💝分享短剧","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1425聚合短剧.js","style":{"type":"rect","ratio":1.33},
+          {"key":"聚合短剧_async","name":"💝分享短剧","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1425聚合短剧.js","style":{"type":"rect","ratio":1.33},
 "changeable":1},
    
-        {"key":"南瓜","name":"💝分享南瓜","type":3,"api":"csp_NanGua","playerType":2,"jar":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
-   {"key":"柠檬","name":"💝分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
-    {"key":"热播","name":"💝分享剧评","type":3,"api":"csp_Jpys","playerType":2,"jar":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
-      {"key":"天天","name":"💝分享天天","type":3,"api":"csp_TTian","playerType":2,"jar": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939791h1l3888jig44gi291li"},
+        {"key":"南瓜","name":"💝分享南瓜","type":3,"api":"csp_NanGua","playerType":2,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"},
+   {"key":"柠檬","name":"💝分享柠檬","type":3,"api":"csp_Nmvod","playerType":2,"jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+    {"key":"热播","name":"💝分享剧评","type":3,"api":"csp_Jpys","playerType":2,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
+      {"key":"天天","name":"💝分享天天","type":3,"api":"csp_TTian","playerType":2,"jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/fxz250711.jar;md5;9ab53f593c034c2b80cdc9f4c785a6f3","ext":"7lj763gg0939791h1l3888jig44gi291li"},
   
 {
             "key": "无水印采集",
@@ -677,21 +677,21 @@
             ]
 },
   
-        {"key": "永乐","name": "💝分享永乐","type": 3,"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1635永乐视频.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
-{"key": "热播2","name": "💝分享热热","type": 3,"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1661热播APP.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	
+        {"key": "永乐","name": "💝分享永乐","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1635永乐视频.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
+{"key": "热播2","name": "💝分享热热","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1661热播APP.py","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60},	
           
   {
 			"key": "tt",
 			"name": "💝分享自用",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/tx.js"
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/tx.js"
     },
- {"key": "hohaiemby","name": "💝分享EMBY","type": 3,"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1709Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
-{"key": "Emby小雅","name": "💝分享动漫","type": 3,"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1733Emby小雅.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
+ {"key": "hohaiemby","name": "💝分享EMBY","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1709Emby.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
+{"key": "Emby小雅","name": "💝分享动漫","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1733Emby小雅.js","style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "js集合","name": "💝分享js集","type": 4,"api": "http://zhangqun1818.serv00.net/js.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"changeable": 1},
 {"key": "采集集合","name": "💝分享合集","type": 4,"api": "http://zhangqun1818.serv00.net/cj/cjjh.php","searchable": 1,"style": {"type": "rect","ratio": 1.33},"ext":"1","changeable": 1},
   {
@@ -705,7 +705,7 @@
 			"key": "py_jutouse",
 			"name": "💝分享剧透",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1831剧透社.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1831剧透社.py",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
@@ -716,7 +716,7 @@
 			"key": "py_dianyingyunji",
 			"name": "💝分享云集",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1855电影云集.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1855电影云集.py",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
@@ -727,24 +727,24 @@
 			"key": "飞牛影视",
 			"name": "💝分享飞牛",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/飞牛影视.js"
+			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/飞牛影视.js"
 		},
           
 		{
 			"key": "冠建影视",
 			"name": "💝分享冠建",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/冠建.js"
+			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/冠建.js"
 		},
 		
 			 
@@ -752,18 +752,18 @@
 			"key": "歪片星球[资]",
 			"name": "💝分享歪片",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/歪片.js"
+			"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/歪片.js"
 		},
             {
   "key": "js_en_gf",
   "name": "💖分享采集",
   "type": 3,
-  "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv1957官采.js",
+  "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv1957官采.js",
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 0,
@@ -779,7 +779,7 @@
       "filterable": 1,
       "api": "csp_XBPQ",
       "jar":
-"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/XBPQ.jar",
+"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/XBPQ.jar",
       "ext": {
         "分类": "电影$20#连续剧$37#动漫$43#综艺$45",
         "分类url": "https://sszzyy.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
@@ -801,11 +801,11 @@
          
 		 { "key": "五大采集平台采", "name": "❤️‍分享官采", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType":2, "ext": "http://39.105.18.5:5565/api.php/app/" },
          { "key": "全片源", "name": "💖分享全网", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2, "ext": "http://chaoqianys.top:91/api.php/app/" } , 
-             {"key":"腾讯视频","name":"💝分享腾讯","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/腾讯视频.js"},
-        {"key":"芒果视频","name":"💝分享芒果","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/芒果视频.js"},
-        {"key":"哔哩视频JS","name":"💝分享哔哩","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/哔哩视频.js"},
-        {"key":"爱奇艺","name":"💝分享奇艺","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/爱奇艺.js"},
-        {"key":"优酷视频","name":"💝分享优酷","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/优酷视频.js"},
+             {"key":"腾讯视频","name":"💝分享腾讯","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/腾讯视频.js"},
+        {"key":"芒果视频","name":"💝分享芒果","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/芒果视频.js"},
+        {"key":"哔哩视频JS","name":"💝分享哔哩","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/哔哩视频.js"},
+        {"key":"爱奇艺","name":"💝分享奇艺","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/爱奇艺.js"},
+        {"key":"优酷视频","name":"💝分享优酷","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/优酷视频.js"},
          {"key":"360影视","name":"💝分享360","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
     {
       "key": "闪影视界",
@@ -822,7 +822,7 @@
             "key": "土豆浏览器",
             "name": "💝分享土豆",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2253土豆浏览器.py",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2253土豆浏览器.py",
             "style": {
                 "type": "rect",
                 "ratio": 1.33
@@ -834,13 +834,13 @@
          "key":"嗷呜金牌影院",
          "name":"💝分享嗷呜",
          "type":3,
-         "api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2277py_jinpai.py"
+         "api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2277py_jinpai.py"
       },
 {
       "key": "荐片采集",
       "name": "💝分享荐片",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2291荐片.js",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2291荐片.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -849,14 +849,14 @@
     },
 	
 	
-        {"key":"py_sync","name":"💖分享茫然","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2315Mang.py","searchable":1,"filterable":1,"changeable":1},
-     {"key":"py_bili","name":"💖分享哔哩","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2335哔哩视频.py","searchable":1,"filterable":1,"changeable":1},
+        {"key":"py_sync","name":"💖分享茫然","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2315Mang.py","searchable":1,"filterable":1,"changeable":1},
+     {"key":"py_bili","name":"💖分享哔哩","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2335哔哩视频.py","searchable":1,"filterable":1,"changeable":1},
      
  {
       "key": "fxzYD",
       "name": "💖分享移动",
       "type": 3,
-      "jar": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享者YD.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享者YD.jar",
       "api": "csp_YDjisu",
       "searchable": 1,
       "changeable": 1
@@ -869,7 +869,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2383分享努努.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2383分享努努.py",
 			"playerType": 2,
 			"filterable": 1
 		},
@@ -878,7 +878,7 @@
       "key": "py_wawa",
       "name": "💖分享哇哇",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2401wawa.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2401wawa.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -888,7 +888,7 @@
       "key": "py_gowaiju",
       "name": "💖分享外剧",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2423国外剧APP.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2423国外剧APP.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -917,7 +917,7 @@
       "key": "py_ MiFunP动漫",
       "name": "💖分享MiFunP",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv2485MiFunP动漫.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv2485MiFunP动漫.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -997,12 +997,12 @@
 	"key": "hipy_js_fxzhz",
 	"name": "💖分享瓜子-",
 	"type": 3,
-         "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
-	"ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享GZ.js"
+         "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
+	"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享GZ.js"
 },
 	{"key":"csp_XBPQ_fxzcjy","name":"💖分享柴姬","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
-    "jar":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/XBPQ(2).jar",
-    "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享caiji.json"},
+    "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/XBPQ(2).jar",
+    "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享caiji.json"},
      {
     "key": "奇优",
     
@@ -1013,7 +1013,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/XBPQ(2).jar",
+        "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/XBPQ(2).jar",
         "ext":{
     
     "请求头": "手机",
@@ -1073,8 +1073,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/XBPQ(2).jar",
-            "ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享WJ.json"},
+            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/XBPQ(2).jar",
+            "ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享WJ.json"},
 
 	{
     "key": "唐人",
@@ -1140,7 +1140,7 @@
 			"api": "csp_Ikanbot",
 			"changeable": 1,
 			"playerType": 2,
-			"jar":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/Xiang.txt",
+			"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/Xiang.txt",
 			"ext":"https://v.aikanbot.com"
 		},
      
@@ -1160,8 +1160,8 @@
 		"key": "drpy_365",
 		"name": "💖分享年年",
 		"type": 3,
-		"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv3280drpy2.min.js",
-		"ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/365.js"
+		"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv3280drpy2.min.js",
+		"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/365.js"
 	},
 {
 		"key": "cjzy_360资源",
@@ -1177,7 +1177,7 @@
 		"name": "💖分享小镇",
 		"type": 3,
 		"api": "csp_XBPQ",
-		"ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享XZ.json"
+		"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享XZ.json"
 	},
           {
             "key": "csp_LiteApple",
@@ -1188,25 +1188,25 @@
             "ext":{"数组":"class=\"hl-item-thumb hl-lazy\"&&</div></li>","简介":"class=\"hl-text-muted\">简介：</em>&&</li>","线路数组":"alt=\"&&</a>","线路标题":"分享者在线+</i>&nbsp;&&</a>","分类数组":"<a&&</a>","分类标题":"subs\"href=\"/vodlist/*.html\">&&</a>","分类ID":"href=\"/vodlist/&&.html\"","分类url":"http://www.btpxgl.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;s"}
         },
     
-       {"key":"360_spider","name":"🍎360影视","api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/360影视.js"}, 
+       {"key":"360_spider","name":"🍎360影视","api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/360影视.js"}, 
 
     {
             "key" : "js_亲子",
             "name" : "👨‍👨‍👧亲子教育",
             "type" : 3,
-            "api" : "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
-            "ext" : "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/童趣.js"
+            "api" : "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
+            "ext" : "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/童趣.js"
         },
     {
   "key": "hipy_js_KTV歌厅[听]",
   "name": "💖分享歌厅",
   "type": 3,
-  "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js",
+  "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 1,
   "order_num": 0,
-  "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/KTV歌厅.js"
+  "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/KTV歌厅.js"
 },
     {
             "key": "baipao",
@@ -1371,22 +1371,22 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/电影港.json","jar":""},
-{"key":"哔哩合集","name":"🅱️哔哩合集","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享合集.json"},
-{"key":"哔哩一集","name":"🅱️哔哩一集","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享套餐1.json"},
-{"key":"哔哩二集","name":"🅱️哔哩二集","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享套餐2.json"},
-{"key":"哔哩美食","name":"🅱️分享美食","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享美食.json"},
-{"key":"哔哩戏曲","name":"🅱️分享戏曲","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享戏曲.json"},
-{"key":"哔哩MV","name":"🅱️分享歌曲","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享歌曲MV.json"},
-{"key":"哔哩演唱会","name":"🅱️分享演唱","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/分享演唱会.json"},
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/电影港.json","jar":""},
+{"key":"哔哩合集","name":"🅱️哔哩合集","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享合集.json"},
+{"key":"哔哩一集","name":"🅱️哔哩一集","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享套餐1.json"},
+{"key":"哔哩二集","name":"🅱️哔哩二集","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享套餐2.json"},
+{"key":"哔哩美食","name":"🅱️分享美食","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享美食.json"},
+{"key":"哔哩戏曲","name":"🅱️分享戏曲","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享戏曲.json"},
+{"key":"哔哩MV","name":"🅱️分享歌曲","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享歌曲MV.json"},
+{"key":"哔哩演唱会","name":"🅱️分享演唱","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv51drpy2.min.js","searchable":1,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/分享演唱会.json"},
 		
 
       {
             "key": "88js",
             "name": "⚽ 88┃看球",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4648drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/88看球.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4648drpy2.min.js",
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/88看球.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -1399,8 +1399,8 @@
             "key": "csp_qiumi",
             "name": "⚽ Jrs┃球迷",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4648drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/jrk.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4648drpy2.min.js",
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/jrk.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -1413,8 +1413,8 @@
             "key": "csp_310直播",
             "name": "⚽310看球",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4648drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/310直播.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4648drpy2.min.js",
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/310直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1
@@ -1435,14 +1435,14 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/企鹅直播.json"
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/企鹅直播.json"
         },
         {
             "key": "虎牙直播js",
             "name": "🐯虎牙直播",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4648drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/虎牙直播.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4648drpy2.min.js",
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/虎牙直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -1455,8 +1455,8 @@
             "key": "csp_XYQBiu_斗鱼",
             "name": "🐟斗鱼直播",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4648drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/斗鱼直播.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4648drpy2.min.js",
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/斗鱼直播.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -1469,7 +1469,7 @@
 			"key": "py_爱听",
 			"name": "💖分享爱听",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4840爱听音乐.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4840爱听音乐.py",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
@@ -1480,7 +1480,7 @@
 			"key": "py_枫叶音乐",
 			"name": "💖分享枫叶",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4864枫叶音乐.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4864枫叶音乐.py",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
@@ -1491,7 +1491,7 @@
 			"key": "py_网易云音乐",
 			"name": "💖分享网易",
 			"type": 3,
-			"api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4888网易云音乐.py",
+			"api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4888网易云音乐.py",
 			"searchable": 1,
 			"quickSearch": 0,
 			"changeable": 0,
@@ -1499,12 +1499,12 @@
 			"timeout": 60
 		},
           
- {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4912兔小贝.js"},
+ {"key":"dr_兔小贝","name":"📚儿童启蒙","type":3,"api":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4912兔小贝.js"},
 
-{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/少儿教育.json"},
-{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/小学课堂.json"},
-{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/初中课堂.json"},
-{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/高中课堂.json"},
+{"key":"少儿教育","name":"📚少儿教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/初中课堂.json"},
+{"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/高中课堂.json"},
 
 {"key":"xbpq_喵次元","name":"💖喵喵动漫","type":3,"api":"csp_XBPQ","filterable":1,"changeable":1,"ext":{"简介":"分享者提醒您请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p>","分类url":"https://www.catwcy.com/show/{cateId}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html","分类":"日本动漫$1#动漫电影$2#欧美动漫$25#4K专区$26","搜索url":"/search.html?wd={wd}"}},
 {"key":"58动漫网","name":"💖之家动漫","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"分享者提醒您:请勿相信影片中的广告，以免上当受骗。+简介：&&</p>","搜索url":"https://dbwyt.com/search.php?searchword={wd}","分类url":"https://dbwyt.com/wuba/{cateId}-{catePg}.html","分类":"国产动漫$1#日本动漫$2#欧美动漫$47#海外动漫$3#动漫电影$4"}},
@@ -1519,7 +1519,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/动漫巴士.json"
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/动漫巴士.json"
         },
         {
             "key": "🌸樱花动漫",
@@ -1533,8 +1533,8 @@
             "key": "csp_聚短视频",
             "name": "📽️聚合视频",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/apiv4648drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/短视频.js",
+            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/apiv4648drpy2.min.js",
+            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/短视频.js",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
@@ -1544,7 +1544,7 @@
             "name": "💝分享推送",
             "type": 3,
             "api": "csp_Push",
-            "jar":"https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/vox.jar",
+            "jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/vox.jar",
             "searchable": 0,
             "filterable": 0,
             "changeable": 0
@@ -1975,7 +1975,7 @@
     {"host": "*","rule": ["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]}],
 
 //jar+壁纸
- "spider": "https://gh-proxy.org/https://github.com/hushujiang/hushujiang.github.io/raw/refs/heads/main/lib/%E5%88%86%E4%BA%AB%E8%80%850.zip",
+ "spider": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/%E5%88%86%E4%BA%AB%E8%80%850.zip",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
 //电视直播
@@ -1983,13 +1983,13 @@
  "lives":[
  {
       "name": "直播",
-      "url": "./lib/zb.txt",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/zb.txt",
       "type": 0,"epg":"https://iptv-sources-5n1.pages.dev/epg/pw-7/{date}/{name}.json","logo":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/png/{name}.png"},
-      {"name":"💖分享者直播","type":0,"url":"./lib/live20220813.txt","epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+      {"name":"💖分享者直播","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/live20220813.txt","epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
           {
             "name": "💝分享者直播+",
             "type": 0,
-            "url": "./lib/Lonely.m3u",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/Lonely.m3u",
 	        "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
             "timeout": 10,
             "playerType": 2
@@ -1997,20 +1997,20 @@
 	{
       "name": "💖分享者直播2",
       "type": 0,
-      "url": "./lib/result.m3u",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/result.m3u",
       "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
 	{
             "name": "💕分享者直播3",
             "type": 0,
-            "url": "./lib/tv.txt",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/tv.txt",
             "playerType": 1
         },
         {
             "name": "💕分享者直播4",
             "type": 0,
-            "url": "./lib/iptv.txt",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/iptv.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://epg.iill.top/logo/{name}.png",
             "ua": "okhttp/3.15,AptvPlayer/1.4.0",
@@ -2020,7 +2020,7 @@
         {
             "name": "💕分享者直播5",
             "type": 0,
-            "url": "./lib/hlj.txt",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/hlj.txt",
             "ua": "okhttp/3.15",
             "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.cdn.loc.cc/?ch={name}&date={date}",
             "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -2037,7 +2037,7 @@
         {
             "name": "💕分享者直播7",
             "type": 0,
-            "url": "./lib/live.txt",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/live.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
