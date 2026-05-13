@@ -1977,7 +1977,7 @@
  {
       "name": "直播",
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/zb.txt",
-      "type": 0,"epg":"https://zxcro.ccwu.cc/epg/epg.php/{date}/{name}.json","logo":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/png/{name}.png"},
+      "type": 0,"epg":"https://zxcro.ccwu.cc/epg/epg.php?ch=/{date}/{name}.json","logo":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/png/{name}.png"},
       {"name":"💖分享者直播","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/live20220813.txt","epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
           {
             "name": "💝分享者直播+",
