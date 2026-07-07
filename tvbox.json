@@ -76,28 +76,6 @@
             "jar":"./lib/fei.jar"
         },
     {
-      "key": "糯米",
-      "name": "🍙 ┇ 糯米 ┇ 影视",
-      "type": 3,
-      "api": "csp_Wwys",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://vip.wwgz.cn:5200",
-      "jar":"./lib/aidaox.jar"
-    },
-    {
-      "key": "韩剧秒播",
-      "name": "🌙 ┇ 韩小圈 ┇ 影视",
-      "type": 3,
-      "api": "csp_Hxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://hxqapi.hiyun.tv",
-      "jar":"./lib/aidaox.jar"
-    },
-    {
       "key": "三秋影视",
       "name": "🎞️ ┇ 三秋 ┇ 影视",
       "type": 3,
