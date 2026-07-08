@@ -2,7 +2,78 @@
 //数据接口
 "adblock":{"gjc":[".lz",".ff",".mstop",".bfz"],"jxurl":"http://jx.84jia.com/fflzm3u8ts.php?url="},
 "sites": [	
-//{"key":"移动","name":"💡移动｜影视","type":3,"api":"csp_YDjisu","searchable":1,"quickSearch":1,"jar":"https://gh-proxy.org/https://raw.githubusercontent.com/hushujiang/hushujiang.github.io/refs/heads/main/lib/jar.zip"},
+    {
+      "key": "潮流",
+      "name": "🏜┃潮流┃APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "ext": "http://v.rbotv.cn",
+      "jar":"./lib/fei.jar"
+    },
+    {
+      "key": "行动",
+      "name": "😌┃行动┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+      "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk",
+      "jar":"./lib/fei.jar"
+    },
+    {
+      "key": "一碗",
+      "name": "🥣┃一碗┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6",
+      "jar":"./lib/fei.jar"
+    },
+    {
+      "key": "蔬菜",
+      "name": "🫛┃蔬菜┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "./lib/9.txt",
+      "jar":"./lib/fei.jar"
+    },
+    {
+      "key": "永永",
+      "name": "♾️┃永永┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+      "ext": "https://444421.xyz|#getapp@TMD@2025|120",
+      "jar":"./lib/fei.jar"
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "🥇️┃金牌┃影视",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar":"./lib/fei.jar"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥┃火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "playerType": 2,
+      "ext": "https://shdy5.us",
+      "jar":"./lib/fei.jar"
+    },
+    {
+      "key": "csp_SP360",
+      "name": "📺┃360┃官源",
+      "type": 3,
+      "api": "csp_SP360",
+      "jar":"./lib/fei.jar"
+    },
+        {
+            "key": "csp_Dm84",
+            "name": "🤣┃动漫┃巴士",
+            "type": 3,
+            "playerType": "2",
+            "api": "csp_Dm84",
+            "ext": "https://dm84.net",
+            "jar":"./lib/fei.jar"
+        },
     {
       "key": "三秋影视",
       "name": "🎞️ ┇ 三秋 ┇ 影视",
